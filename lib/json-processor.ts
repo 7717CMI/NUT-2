@@ -1440,7 +1440,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Medtech & Biopharma Device CMO/CDMO Market',
+      market_name: 'Nut Processing and Packaging Machinery Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,

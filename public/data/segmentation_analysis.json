@@ -1,50 +1,88 @@
 {
   "Global": {
-    "By Product / Device Type": {
-      "Drug-Device Combination Products": {
-        "Inhalers & nebulizers": {},
-        "Insulin pumps & auto-injectors": {},
-        "Pre-filled syringes & pen injectors": {},
-        "Sterile injectables": {},
-        "Topical/Transdermal patches": {},
-        "Others (Microelectronic delivery devices & Others)": {}
+    "By Equipment Type": {
+      "Receiving and Feeding Equipment": {
+        "Receiving and Feeding Equipment": {}
       },
-      "Medical Devices": {
-        "Surgical instruments": {},
-        "Orthopedic implants & prosthetics": {},
-        "Dental devices": {},
-        "Others (Cardiovascular devices)": {}
+      "Cleaning and Drying Equipment": {
+        "Cleaning and Drying Equipment": {}
       },
-      "Diagnostics & Laboratory": {
-        "Devices/Equipment": {
-          "Imaging devices (MRI, CT components, ultrasound systems)": {},
-          "In-vitro diagnostic (IVD) kits": {},
-          "Point-of-care diagnostic devices": {},
-          "Molecular diagnostics devices (PCR, NGS systems)": {},
-          "Others (Point-of-care devices & Others)": {}
-        },
-        "Others (Monitoring & Digital Health Devices)": {}
+      "Storage Equipment": {
+        "Silos": {},
+        "Storage bins and hoppers": {}
+      },
+      "Conveying and Handling Equipment": {
+        "Nut conveyors": {},
+        "Elevating, transfer, distribution chutes": {}
+      },
+      "Shelling and Kernel Separation Equipment": {
+        "Shellers": {},
+        "Decorticators and hullers": {},
+        "Kernel shell separation systems": {},
+        "Re shelling and re processing units": {}
+      },
+      "Sorting and Grading Equipment": {
+        "Optical sorters": {},
+        "Size graders": {},
+        "Weight graders": {},
+        "Manual inspection tables": {}
+      },
+      "Thermal Processing Equipment": {
+        "Pasteurization systems": {},
+        "Roasting systems": {},
+        "Cooling and tempering systems": {}
+      },
+      "Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)": {
+        "Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)": {}
       }
     },
-    "By Service Type": {
-      "Design & Development & Engineering Services": {},
-      "Contract manufacturing": {},
-      "Supply Chain Management": {},
-      "Quality & Regulations": {},
-      "Digital & Data Services": {},
-      "Other Value-Added Services": {}
+    "By Nut Type": {
+      "Almond": {
+        "Almond": {}
+      },
+      "Cashew": {
+        "Cashew": {}
+      },
+      "Peanut": {
+        "Peanut": {}
+      },
+      "Pistachio": {
+        "Pistachio": {}
+      },
+      "Walnut": {
+        "Walnut": {}
+      },
+      "Hazelnut": {
+        "Hazelnut": {}
+      },
+      "Other Nuts": {
+        "Other Nuts": {}
+      }
     },
-    "By Device Class": {
-      "Class I": {},
-      "Class II": {},
-      "Class III": {},
-      "Others": {}
+    "By Automation Level": {
+      "Manual": {
+        "Manual": {}
+      },
+      "Semi Automatic & Fully Automatic": {
+        "Semi Automatic & Fully Automatic": {}
+      }
     },
-    "By Client / End-User": {
-      "Pharmaceutical companies": {},
-      "Biopharmaceutical & Biotech companies": {},
-      "Medical Device Companies": {},
-      "Others (Academic/Research Institutions)": {}
+    "By Industry Verticle": {
+      "Primary Processing & Shelling": {
+        "Primary Processing & Shelling": {}
+      },
+      "Value Added Nut Products": {
+        "Value Added Nut Products": {}
+      },
+      "Nut Ingredients & Intermediates": {
+        "Nut Ingredients & Intermediates": {}
+      },
+      "Downstream Food with Captive Nut Prep": {
+        "Downstream Food with Captive Nut Prep": {}
+      },
+      "Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)": {
+        "Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)": {}
+      }
     },
     "By Region": {
       "North America": {
@@ -54,31 +92,31 @@
       "Europe": {
         "Germany": {},
         "U.K.": {},
-        "Italy": {},
         "France": {},
+        "Italy": {},
         "Spain": {},
         "Russia": {},
         "Rest of Europe": {}
       },
       "Asia Pacific": {
         "China": {},
-        "Japan": {},
         "India": {},
+        "Japan": {},
         "South Korea": {},
         "ASEAN": {},
         "Australia": {},
         "Rest of Asia Pacific": {}
-      },
-      "Middle East & Africa": {
-        "GCC": {},
-        "South Africa": {},
-        "Rest of Middle East & Africa": {}
       },
       "Latin America": {
         "Brazil": {},
         "Argentina": {},
         "Mexico": {},
         "Rest of Latin America": {}
+      },
+      "Middle East & Africa": {
+        "GCC": {},
+        "South Africa": {},
+        "Rest of Middle East & Africa": {}
       }
     }
   }

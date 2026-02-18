@@ -1,0 +1,963 @@
+Region,Segment,Sub-segment,Sub-segment 1,2021,2022,2023,2024,2025,2026,2027,2028,2029,2030,2031,2032,2033
+Global,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,97.89,102.04,106.41,111.06,116.03,121.42,127.27,133.60,140.30,147.39,154.79,162.45,170.33
+Global,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,239.63,254.37,270.25,287.34,305.80,325.95,348.09,372.38,398.68,426.85,456.65,488.02,521.00
+Global,By Equipment Type,Storage Equipment,Silos,83.93,87.66,91.61,95.78,100.18,104.85,109.90,115.38,121.25,127.51,134.08,140.90,147.94
+Global,By Equipment Type,Storage Equipment,Storage bins and hoppers,52.32,54.96,57.74,60.73,63.96,67.47,71.30,75.44,79.84,84.52,89.46,94.65,100.04
+Global,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,215.52,227.06,239.11,251.94,265.76,280.87,297.48,315.50,334.64,354.98,376.53,399.26,423.06
+Global,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",111.33,116.27,121.58,127.31,133.46,140.08,147.20,154.86,163.01,171.68,180.78,190.18,199.87
+Global,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,250.81,263.00,276.02,289.93,304.72,320.62,337.82,356.54,376.70,398.19,420.88,444.47,468.88
+Global,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,150.40,159.18,168.63,178.69,189.30,200.64,212.89,226.35,241.06,256.90,273.81,291.60,310.22
+Global,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,181.08,192.53,204.48,217.19,230.99,246.21,263.10,281.54,301.22,322.24,344.74,368.84,394.41
+Global,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,106.38,110.80,115.53,120.58,125.94,131.68,137.88,144.60,151.76,159.36,167.24,175.30,183.57
+Global,By Equipment Type,Sorting and Grading Equipment,Optical sorters,208.10,226.81,247.49,270.24,295.14,322.60,353.00,386.85,424.45,465.82,511.19,560.56,614.11
+Global,By Equipment Type,Sorting and Grading Equipment,Size graders,114.99,120.97,127.33,134.03,141.07,148.55,156.64,165.48,175.10,185.43,196.43,207.97,219.97
+Global,By Equipment Type,Sorting and Grading Equipment,Weight graders,107.48,113.77,120.48,127.65,135.27,143.43,152.25,161.84,172.22,183.43,195.48,208.23,221.64
+Global,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,71.95,75.29,78.88,82.74,86.85,91.26,96.02,101.18,106.74,112.66,118.86,125.27,131.89
+Global,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,234.67,250.34,267.30,285.61,305.17,326.20,348.98,373.82,400.82,430.14,461.67,495.17,530.68
+Global,By Equipment Type,Thermal Processing Equipment,Roasting systems,110.32,118.76,127.99,138.09,149.06,160.93,173.85,188.00,203.53,220.62,239.30,259.44,281.02
+Global,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,87.13,92.21,97.63,103.40,109.49,116.03,123.11,130.85,139.25,148.30,158.01,168.26,179.03
+Global,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",167.88,177.86,188.31,199.30,211.00,223.70,237.72,253.10,269.67,287.35,306.15,326.10,347.12
+Global,By Nut Type,Almond,Almond,305.22,322.87,341.80,362.26,384.56,409.15,436.25,465.99,497.96,531.99,567.70,604.90,643.78
+Global,By Nut Type,Cashew,Cashew,98.71,106.79,115.61,125.29,135.91,147.63,160.59,174.88,190.52,207.64,226.32,246.56,268.41
+Global,By Nut Type,Peanut,Peanut,"1,245.30","1,314.91","1,389.06","1,468.59","1,554.05","1,646.91","1,748.41","1,859.14","1,978.62","2,106.93","2,244.35","2,390.30","2,544.16"
+Global,By Nut Type,Pistachio,Pistachio,148.68,159.19,170.64,182.93,195.94,209.89,225.00,241.75,260.32,280.55,302.52,325.96,350.80
+Global,By Nut Type,Walnut,Walnut,326.04,343.95,363.23,383.73,405.25,427.78,451.94,478.15,506.70,537.75,570.81,605.40,641.53
+Global,By Nut Type,Hazelnut,Hazelnut,155.81,163.60,171.93,180.77,190.09,200.08,210.91,222.73,235.52,249.16,263.60,278.71,294.47
+Global,By Nut Type,Other Nuts,Other Nuts,312.06,332.58,354.50,378.03,403.39,431.03,461.42,494.67,530.61,569.34,610.75,654.84,701.64
+Global,By Automation Level,Manual,Manual,200.36,217.84,237.05,258.10,281.14,306.56,334.77,366.19,400.94,439.12,480.76,525.93,574.85
+Global,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,"2,391.45","2,526.04","2,669.72","2,823.50","2,988.06","3,165.92","3,359.74","3,571.11","3,799.31","4,044.25","4,305.29","4,580.74","4,869.92"
+Global,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,883.58,931.29,981.63,"1,034.99","1,092.51","1,155.61","1,225.63","1,302.95","1,386.58","1,475.64","1,570.03","1,669.65","1,774.23"
+Global,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,680.71,729.38,782.15,839.59,901.74,969.42,"1,043.36","1,124.04","1,211.54","1,306.52","1,408.75","1,518.02","1,634.56"
+Global,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,479.62,510.51,543.93,580.24,619.21,661.03,706.08,754.90,807.84,865.50,927.85,994.15,"1,064.25"
+Global,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,381.79,399.93,419.31,439.81,461.28,483.98,508.35,534.79,563.41,594.00,626.35,660.02,694.87
+Global,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",166.10,172.78,179.76,186.98,194.46,202.44,211.10,220.62,230.88,241.71,253.07,264.82,276.85
+North America,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,24.96,25.91,26.91,27.97,29.12,30.41,31.83,33.39,35.02,36.71,38.43,40.16,41.92
+North America,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,61.95,65.55,69.39,73.54,78.06,83.09,88.67,94.80,101.36,108.31,115.56,123.08,130.93
+North America,By Equipment Type,Storage Equipment,Silos,23.49,24.56,25.72,26.94,28.18,29.41,30.70,32.11,33.68,35.41,37.23,39.10,41.01
+North America,By Equipment Type,Storage Equipment,Storage bins and hoppers,12.39,13.00,13.63,14.32,15.06,15.88,16.75,17.67,18.62,19.64,20.74,21.90,23.11
+North America,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,58.54,61.56,64.77,68.30,72.16,76.32,80.76,85.42,90.27,95.49,101.11,107.07,113.28
+North America,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",27.13,28.22,29.40,30.68,32.08,33.61,35.29,37.10,39.01,41.00,43.04,45.11,47.21
+North America,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,69.99,73.03,76.32,79.88,83.77,88.07,92.80,97.97,103.46,109.18,115.01,120.88,126.86
+North America,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,33.84,35.78,37.87,40.07,42.34,44.75,47.32,50.16,53.30,56.66,60.26,64.03,67.95
+North America,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,47.89,50.88,53.92,57.06,60.47,64.26,68.55,73.24,78.22,83.47,89.05,95.05,101.41
+North America,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,33.69,34.96,36.32,37.76,39.33,41.08,43.01,45.13,47.35,49.65,51.98,54.32,56.70
+North America,By Equipment Type,Sorting and Grading Equipment,Optical sorters,63.71,69.48,75.86,82.79,90.24,98.34,107.23,117.21,128.45,140.83,154.48,169.31,185.32
+North America,By Equipment Type,Sorting and Grading Equipment,Size graders,25.98,27.33,28.78,30.29,31.82,33.41,35.09,36.97,39.06,41.31,43.71,46.21,48.78
+North America,By Equipment Type,Sorting and Grading Equipment,Weight graders,28.55,30.16,31.83,33.66,35.66,37.84,40.19,42.67,45.26,48.06,51.08,54.30,57.68
+North America,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,13.06,13.57,14.13,14.74,15.39,16.11,16.90,17.76,18.67,19.61,20.56,21.52,22.50
+North America,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,78.52,83.83,89.62,95.89,102.49,109.52,117.04,125.21,134.09,143.76,154.11,165.00,176.53
+North America,By Equipment Type,Thermal Processing Equipment,Roasting systems,19.47,20.90,22.45,24.16,26.06,28.14,30.39,32.80,35.36,38.17,41.26,44.61,48.19
+North America,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,16.08,17.00,18.01,19.07,20.17,21.32,22.54,23.87,25.33,26.90,28.56,30.29,32.09
+North America,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",47.72,50.54,53.37,56.27,59.38,62.82,66.69,70.94,75.46,80.22,85.29,90.71,96.43
+North America,By Nut Type,Almond,Almond,193.18,204.55,216.92,230.40,245.18,261.55,279.61,299.44,320.77,343.42,367.03,391.44,416.86
+North America,By Nut Type,Cashew,Cashew,13.58,14.57,15.64,16.83,18.13,19.58,21.17,22.92,24.80,26.84,29.03,31.35,33.83
+North America,By Nut Type,Peanut,Peanut,210.83,220.73,230.75,241.45,253.10,266.19,280.63,296.09,312.08,328.89,346.98,366.44,387.01
+North America,By Nut Type,Pistachio,Pistachio,75.02,80.69,86.89,93.50,100.43,107.82,115.80,124.71,134.71,145.63,157.54,170.27,183.77
+North America,By Nut Type,Walnut,Walnut,118.67,125.23,132.40,139.96,147.75,155.65,164.01,173.13,183.27,194.45,206.35,218.69,231.51
+North America,By Nut Type,Hazelnut,Hazelnut,21.37,22.61,23.92,25.27,26.68,28.20,29.87,31.71,33.71,35.85,38.14,40.56,43.09
+North America,By Nut Type,Other Nuts,Other Nuts,54.30,57.88,61.77,65.99,70.51,75.39,80.68,86.42,92.63,99.30,106.39,113.88,121.80
+North America,By Automation Level,Manual,Manual,31.44,34.02,36.88,40.04,43.55,47.48,51.88,56.79,62.19,68.06,74.34,81.03,88.20
+North America,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,655.51,692.23,731.40,773.35,818.24,866.90,919.88,977.61,"1,039.78","1,106.32","1,177.11","1,251.60","1,329.69"
+North America,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,234.79,246.61,258.83,271.73,285.95,301.95,320.05,340.15,361.64,384.22,407.91,432.78,458.71
+North America,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,179.91,193.07,207.53,223.16,239.60,257.13,275.96,296.57,319.17,343.87,370.35,398.28,428.01
+North America,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,127.85,135.87,144.44,153.86,164.08,175.13,186.98,199.61,213.05,227.65,243.55,260.54,278.47
+North America,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,103.46,108.14,113.14,118.49,124.19,130.32,136.92,144.01,151.56,159.47,167.71,176.27,185.08
+North America,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",40.94,42.58,44.34,46.15,47.97,49.85,51.85,54.07,56.55,59.17,61.94,64.76,67.62
+Europe,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,24.36,25.26,26.18,27.15,28.17,29.28,30.50,31.80,33.17,34.62,36.12,37.70,39.31
+Europe,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,59.70,63.12,66.78,70.65,74.77,79.19,84.02,89.32,95.09,101.25,107.81,114.71,121.93
+Europe,By Equipment Type,Storage Equipment,Silos,22.37,23.21,24.08,25.03,26.05,27.17,28.39,29.70,31.07,32.50,33.99,35.53,37.10
+Europe,By Equipment Type,Storage Equipment,Storage bins and hoppers,12.75,13.32,13.92,14.57,15.26,16.00,16.80,17.66,18.59,19.57,20.61,21.69,22.79
+Europe,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,55.39,58.07,60.87,63.81,66.93,70.32,74.05,78.13,82.49,87.08,91.88,96.87,102.05
+Europe,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",26.93,27.97,29.09,30.29,31.57,32.94,34.41,35.97,37.63,39.39,41.25,43.16,45.10
+Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,63.56,66.39,69.31,72.37,75.59,79.07,82.85,86.96,91.34,95.97,100.88,106.05,111.39
+Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,34.79,36.63,38.59,40.68,42.87,45.18,47.65,50.33,53.23,56.37,59.73,63.25,66.92
+Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,44.41,46.93,49.59,52.43,55.52,58.90,62.61,66.63,70.92,75.49,80.34,85.48,90.87
+Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,28.66,29.78,30.99,32.26,33.56,34.93,36.38,37.94,39.63,41.43,43.29,45.20,47.16
+Europe,By Equipment Type,Sorting and Grading Equipment,Optical sorters,58.31,63.18,68.54,74.43,80.90,88.06,96.00,104.81,114.54,125.15,136.65,149.06,162.42
+Europe,By Equipment Type,Sorting and Grading Equipment,Size graders,29.53,30.86,32.24,33.70,35.27,36.98,38.86,40.90,43.07,45.35,47.74,50.21,52.77
+Europe,By Equipment Type,Sorting and Grading Equipment,Weight graders,26.06,27.44,28.90,30.44,32.05,33.76,35.62,37.64,39.84,42.21,44.72,47.37,50.13
+Europe,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,10.79,11.22,11.69,12.18,12.69,13.19,13.73,14.31,14.96,15.66,16.40,17.16,17.93
+Europe,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,64.49,68.50,72.74,77.27,82.12,87.34,93.04,99.24,105.93,113.17,120.98,129.33,138.15
+Europe,By Equipment Type,Thermal Processing Equipment,Roasting systems,25.05,26.80,28.70,30.76,32.95,35.29,37.81,40.59,43.65,46.99,50.62,54.49,58.59
+Europe,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,18.53,19.45,20.44,21.48,22.59,23.76,25.03,26.42,27.92,29.54,31.24,33.02,34.86
+Europe,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",39.00,41.14,43.42,45.81,48.29,50.93,53.78,56.92,60.36,64.05,67.97,72.08,76.37
+Europe,By Nut Type,Almond,Almond,72.62,76.58,80.73,85.16,89.92,95.08,100.73,106.89,113.52,120.62,128.15,136.06,144.33
+Europe,By Nut Type,Cashew,Cashew,32.73,35.33,38.13,41.16,44.48,48.13,52.21,56.71,61.61,66.92,72.66,78.89,85.59
+Europe,By Nut Type,Peanut,Peanut,144.03,150.49,157.19,164.15,171.51,179.59,188.53,198.47,209.26,220.69,232.91,245.85,259.30
+Europe,By Nut Type,Pistachio,Pistachio,21.22,22.70,24.30,26.07,28.03,30.17,32.50,35.00,37.66,40.57,43.75,47.18,50.84
+Europe,By Nut Type,Walnut,Walnut,141.07,148.40,156.32,164.82,173.75,183.09,193.00,203.64,215.13,227.61,240.89,254.71,269.10
+Europe,By Nut Type,Hazelnut,Hazelnut,115.65,120.98,126.69,132.74,139.08,145.85,153.15,161.12,169.73,178.88,188.49,198.46,208.80
+Europe,By Nut Type,Other Nuts,Other Nuts,117.35,124.78,132.71,141.20,150.37,160.37,171.39,183.47,196.51,210.50,225.38,241.18,257.87
+Europe,By Automation Level,Manual,Manual,52.36,56.53,61.09,66.04,71.37,77.15,83.49,90.54,98.36,106.93,116.25,126.27,137.02
+Europe,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,592.32,622.73,654.97,689.26,725.77,765.13,808.02,854.75,905.06,958.86,"1,015.99","1,076.06","1,138.81"
+Europe,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,219.30,230.40,242.09,254.39,267.38,281.38,296.72,313.61,331.95,351.55,372.49,394.63,417.82
+Europe,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,167.68,178.59,190.26,202.79,216.40,231.29,247.73,265.73,285.18,306.06,328.28,351.89,376.88
+Europe,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,118.99,126.02,133.63,141.89,150.74,160.19,170.35,181.31,193.13,205.98,219.74,234.21,249.42
+Europe,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,94.61,98.70,103.01,107.54,112.22,117.13,122.38,128.08,134.25,140.86,147.87,155.14,162.63
+Europe,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",44.09,45.56,47.08,48.68,50.40,52.28,54.34,56.57,58.91,61.34,63.87,66.45,69.07
+Asia Pacific,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,39.24,41.22,43.34,45.63,48.07,50.68,53.49,56.50,59.72,63.17,66.84,70.65,74.62
+Asia Pacific,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,94.03,100.46,107.48,115.13,123.44,132.51,142.45,153.36,165.25,178.10,191.78,206.27,221.62
+Asia Pacific,By Equipment Type,Storage Equipment,Silos,30.10,31.64,33.26,34.97,36.80,38.79,40.97,43.33,45.85,48.51,51.31,54.26,57.34
+Asia Pacific,By Equipment Type,Storage Equipment,Storage bins and hoppers,21.45,22.68,23.99,25.38,26.89,28.55,30.38,32.38,34.53,36.82,39.22,41.76,44.41
+Asia Pacific,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,82.62,87.62,92.78,98.20,104.06,110.59,117.91,125.99,134.60,143.72,153.38,163.67,174.55
+Asia Pacific,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",44.33,46.68,49.22,51.96,54.90,58.04,61.40,65.00,68.85,73.01,77.43,82.08,86.93
+Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,93.70,99.09,104.90,111.16,117.77,124.76,132.23,140.34,149.17,158.78,169.13,180.04,191.46
+Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,64.53,68.70,73.22,78.06,83.22,88.79,94.87,101.59,108.95,116.90,125.39,134.35,143.79
+Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,70.07,75.02,80.22,85.81,91.91,98.65,106.14,114.32,123.12,132.58,142.80,153.84,165.64
+Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,36.06,37.82,39.72,41.77,43.95,46.25,48.71,51.36,54.22,57.30,60.56,63.94,67.44
+Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Optical sorters,70.61,77.44,85.01,93.46,102.84,113.27,124.89,137.81,152.10,167.93,185.38,204.54,225.51
+Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Size graders,45.78,48.50,51.41,54.51,57.79,61.29,65.07,69.18,73.64,78.49,83.71,89.23,95.04
+Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Weight graders,42.28,45.08,48.11,51.32,54.72,58.35,62.29,66.62,71.39,76.57,82.17,88.11,94.40
+Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,37.62,39.64,41.83,44.17,46.69,49.39,52.32,55.50,58.92,62.59,66.47,70.52,74.75
+Asia Pacific,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,74.26,79.61,85.44,91.81,98.73,106.26,114.49,123.49,133.31,143.97,155.44,167.73,180.82
+Asia Pacific,By Equipment Type,Thermal Processing Equipment,Roasting systems,51.77,56.10,60.86,66.10,71.80,78.00,84.80,92.29,100.59,109.76,119.85,130.77,142.55
+Asia Pacific,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,41.40,44.12,46.99,50.06,53.33,56.89,60.79,65.06,69.70,74.69,80.10,85.89,92.02
+Asia Pacific,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",65.38,69.63,74.16,79.01,84.22,89.91,96.17,103.02,110.40,118.33,126.77,135.76,145.29
+Asia Pacific,By Nut Type,Almond,Almond,34.13,36.18,38.30,40.54,42.95,45.63,48.63,51.93,55.47,59.25,63.29,67.61,72.19
+Asia Pacific,By Nut Type,Cashew,Cashew,38.08,41.58,45.46,49.77,54.56,59.87,65.77,72.29,79.47,87.43,96.21,105.83,116.32
+Asia Pacific,By Nut Type,Peanut,Peanut,735.46,781.97,832.29,886.63,945.06,"1,008.16","1,076.90","1,152.05","1,233.85","1,322.37","1,417.34","1,518.29","1,625.07"
+Asia Pacific,By Nut Type,Pistachio,Pistachio,15.11,16.36,17.75,19.28,20.97,22.84,24.91,27.22,29.77,32.56,35.57,38.79,42.27
+Asia Pacific,By Nut Type,Walnut,Walnut,56.04,59.62,63.38,67.37,71.70,76.47,81.77,87.59,93.84,100.52,107.67,115.33,123.45
+Asia Pacific,By Nut Type,Hazelnut,Hazelnut,14.83,15.85,16.95,18.15,19.48,20.92,22.50,24.21,26.06,28.07,30.24,32.57,35.05
+Asia Pacific,By Nut Type,Other Nuts,Other Nuts,111.60,119.48,127.82,136.76,146.43,157.07,168.87,181.84,195.85,211.02,227.39,244.98,263.82
+Asia Pacific,By Automation Level,Manual,Manual,91.55,100.36,110.03,120.69,132.45,145.53,160.16,176.48,194.56,214.49,236.41,260.46,286.76
+Asia Pacific,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,913.70,970.70,"1,031.92","1,097.81","1,168.69","1,245.43","1,329.19","1,420.64","1,519.76","1,626.73","1,741.31","1,862.94","1,991.41"
+Asia Pacific,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,343.35,364.20,386.39,410.11,435.82,464.13,495.60,530.33,567.91,608.09,650.68,695.81,743.55
+Asia Pacific,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,266.99,287.58,309.99,334.77,362.07,392.11,425.04,460.82,499.52,541.71,587.57,637.18,690.47
+Asia Pacific,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,184.78,198.09,212.62,228.35,245.15,263.09,282.49,303.76,327.19,352.91,380.90,410.85,442.72
+Asia Pacific,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,145.56,153.55,162.16,171.24,180.69,190.59,201.19,212.80,225.56,239.38,254.15,269.61,285.73
+Asia Pacific,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",64.56,67.63,70.79,74.04,77.42,81.05,85.03,89.42,94.14,99.13,104.42,109.96,115.71
+Latin America,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,5.58,5.79,5.99,6.20,6.42,6.66,6.92,7.20,7.51,7.82,8.15,8.50,8.85
+Latin America,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,13.90,14.69,15.53,16.42,17.35,18.35,19.43,20.60,21.87,23.23,24.67,26.17,27.75
+Latin America,By Equipment Type,Storage Equipment,Silos,4.68,4.85,5.03,5.22,5.41,5.63,5.86,6.11,6.36,6.63,6.92,7.21,7.52
+Latin America,By Equipment Type,Storage Equipment,Storage bins and hoppers,3.37,3.51,3.66,3.82,3.98,4.16,4.37,4.58,4.82,5.06,5.31,5.56,5.82
+Latin America,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,10.63,11.14,11.68,12.25,12.84,13.43,14.07,14.77,15.54,16.37,17.25,18.16,19.10
+Latin America,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",7.88,8.17,8.47,8.78,9.11,9.48,9.88,10.32,10.80,11.28,11.78,12.29,12.80
+Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,14.00,14.58,15.20,15.83,16.49,17.18,17.93,18.76,19.67,20.62,21.63,22.67,23.72
+Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,10.10,10.60,11.13,11.71,12.33,12.99,13.71,14.47,15.28,16.13,17.03,17.97,18.95
+Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,11.00,11.61,12.26,12.97,13.73,14.55,15.42,16.35,17.35,18.42,19.56,20.77,22.03
+Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,4.06,4.20,4.35,4.51,4.68,4.85,5.04,5.25,5.47,5.69,5.92,6.16,6.41
+Latin America,By Equipment Type,Sorting and Grading Equipment,Optical sorters,8.00,8.65,9.37,10.14,10.99,11.93,12.97,14.12,15.38,16.75,18.23,19.84,21.57
+Latin America,By Equipment Type,Sorting and Grading Equipment,Size graders,7.93,8.28,8.66,9.04,9.44,9.86,10.31,10.81,11.36,11.95,12.56,13.20,13.85
+Latin America,By Equipment Type,Sorting and Grading Equipment,Weight graders,5.90,6.18,6.49,6.82,7.18,7.56,7.97,8.42,8.90,9.40,9.93,10.48,11.04
+Latin America,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,7.50,7.75,8.02,8.32,8.64,8.99,9.38,9.79,10.22,10.67,11.12,11.59,12.05
+Latin America,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,9.46,10.02,10.62,11.26,11.94,12.65,13.42,14.26,15.18,16.17,17.24,18.36,19.54
+Latin America,By Equipment Type,Thermal Processing Equipment,Roasting systems,8.23,8.79,9.40,10.06,10.78,11.54,12.36,13.26,14.25,15.32,16.47,17.70,18.99
+Latin America,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,6.85,7.20,7.56,7.95,8.35,8.76,9.20,9.67,10.20,10.77,11.38,12.01,12.66
+Latin America,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",8.30,8.72,9.17,9.65,10.15,10.68,11.25,11.87,12.55,13.28,14.05,14.84,15.65
+Latin America,By Nut Type,Almond,Almond,2.85,3.03,3.22,3.42,3.64,3.88,4.14,4.43,4.73,5.05,5.41,5.78,6.18
+Latin America,By Nut Type,Cashew,Cashew,3.98,4.29,4.64,5.01,5.40,5.83,6.30,6.81,7.39,8.02,8.70,9.45,10.24
+Latin America,By Nut Type,Peanut,Peanut,122.67,128.45,134.62,141.14,148.00,155.32,163.23,171.84,181.14,191.04,201.47,212.32,223.56
+Latin America,By Nut Type,Pistachio,Pistachio,1.94,2.08,2.23,2.38,2.55,2.74,2.94,3.16,3.40,3.66,3.94,4.24,4.56
+Latin America,By Nut Type,Walnut,Walnut,4.06,4.27,4.48,4.71,4.96,5.24,5.54,5.87,6.21,6.57,6.96,7.36,7.78
+Latin America,By Nut Type,Hazelnut,Hazelnut,2.18,2.31,2.44,2.59,2.74,2.91,3.09,3.29,3.50,3.73,3.97,4.22,4.49
+Latin America,By Nut Type,Other Nuts,Other Nuts,9.68,10.30,10.98,11.72,12.50,13.34,14.24,15.23,16.31,17.49,18.76,20.10,21.51
+Latin America,By Automation Level,Manual,Manual,15.17,16.37,17.69,19.12,20.64,22.24,23.97,25.89,28.05,30.44,33.04,35.82,38.80
+Latin America,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,132.19,138.37,144.91,151.84,159.17,167.02,175.51,184.74,194.63,205.13,216.17,227.65,239.52
+Latin America,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,49.66,52.00,54.59,57.36,60.21,63.13,66.18,69.54,73.29,77.39,81.75,86.24,90.85
+Latin America,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,38.12,40.52,43.00,45.60,48.40,51.48,54.91,58.65,62.63,66.87,71.41,76.27,81.42
+Latin America,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,27.87,29.39,31.02,32.77,34.66,36.69,38.90,41.28,43.84,46.54,49.39,52.38,55.50
+Latin America,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,22.27,23.09,23.96,24.88,25.87,26.94,28.11,29.36,30.68,32.06,33.49,34.93,36.40
+Latin America,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",9.44,9.73,10.03,10.35,10.67,11.02,11.39,11.80,12.24,12.70,13.17,13.66,14.14
+Middle East & Africa,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,3.75,3.86,3.98,4.11,4.25,4.39,4.54,4.71,4.88,5.06,5.25,5.44,5.63
+Middle East & Africa,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,10.05,10.56,11.07,11.60,12.18,12.81,13.52,14.29,15.11,15.95,16.84,17.78,18.77
+Middle East & Africa,By Equipment Type,Storage Equipment,Silos,3.30,3.41,3.52,3.62,3.73,3.85,3.99,4.14,4.29,4.46,4.63,4.80,4.98
+Middle East & Africa,By Equipment Type,Storage Equipment,Storage bins and hoppers,2.35,2.45,2.54,2.65,2.76,2.88,3.01,3.14,3.28,3.43,3.59,3.75,3.91
+Middle East & Africa,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,8.34,8.66,9.01,9.38,9.77,10.21,10.68,11.19,11.74,12.32,12.91,13.49,14.09
+Middle East & Africa,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",5.07,5.23,5.41,5.60,5.79,6.00,6.22,6.46,6.72,6.99,7.26,7.55,7.83
+Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,9.56,9.92,10.30,10.70,11.11,11.55,12.01,12.52,13.06,13.63,14.23,14.84,15.46
+Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,7.13,7.47,7.82,8.18,8.54,8.92,9.34,9.80,10.30,10.84,11.41,12.00,12.61
+Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,7.71,8.09,8.49,8.91,9.36,9.85,10.39,10.98,11.61,12.28,12.98,13.71,14.45
+Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,3.92,4.03,4.15,4.28,4.42,4.57,4.74,4.92,5.10,5.29,5.48,5.67,5.87
+Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Optical sorters,7.47,8.06,8.70,9.41,10.17,11.00,11.91,12.90,13.98,15.16,16.44,17.81,19.28
+Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Size graders,5.76,6.00,6.24,6.49,6.75,7.02,7.30,7.62,7.96,8.33,8.72,9.12,9.53
+Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Weight graders,4.68,4.91,5.15,5.40,5.66,5.92,6.19,6.50,6.83,7.20,7.58,7.98,8.38
+Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,2.99,3.10,3.21,3.33,3.45,3.57,3.69,3.82,3.97,4.14,4.31,4.49,4.67
+Middle East & Africa,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,7.94,8.39,8.87,9.37,9.89,10.43,10.99,11.62,12.32,13.08,13.89,14.75,15.63
+Middle East & Africa,By Equipment Type,Thermal Processing Equipment,Roasting systems,5.80,6.17,6.58,7.01,7.47,7.96,8.49,9.06,9.68,10.36,11.10,11.88,12.70
+Middle East & Africa,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,4.27,4.45,4.63,4.83,5.05,5.29,5.55,5.82,6.11,6.41,6.73,7.06,7.39
+Middle East & Africa,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",7.48,7.83,8.20,8.56,8.95,9.37,9.84,10.35,10.90,11.47,12.08,12.72,13.39
+Middle East & Africa,By Nut Type,Almond,Almond,2.43,2.53,2.64,2.75,2.87,3.00,3.14,3.30,3.47,3.65,3.83,4.02,4.21
+Middle East & Africa,By Nut Type,Cashew,Cashew,10.34,11.01,11.74,12.52,13.34,14.21,15.14,16.15,17.25,18.44,19.71,21.04,22.44
+Middle East & Africa,By Nut Type,Peanut,Peanut,32.30,33.27,34.22,35.23,36.37,37.65,39.12,40.69,42.29,43.95,45.64,47.40,49.21
+Middle East & Africa,By Nut Type,Pistachio,Pistachio,35.38,37.35,39.48,41.70,43.96,46.33,48.85,51.65,54.77,58.12,61.72,65.47,69.36
+Middle East & Africa,By Nut Type,Walnut,Walnut,6.20,6.43,6.65,6.87,7.10,7.34,7.62,7.93,8.25,8.59,8.94,9.31,9.68
+Middle East & Africa,By Nut Type,Hazelnut,Hazelnut,1.78,1.85,1.93,2.01,2.10,2.20,2.30,2.40,2.52,2.64,2.77,2.90,3.03
+Middle East & Africa,By Nut Type,Other Nuts,Other Nuts,19.14,20.14,21.21,22.36,23.58,24.86,26.23,27.71,29.31,31.02,32.82,34.69,36.64
+Middle East & Africa,By Automation Level,Manual,Manual,9.85,10.57,11.35,12.21,13.13,14.15,15.26,16.47,17.78,19.20,20.72,22.34,24.07
+Middle East & Africa,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,97.73,102.01,106.52,111.24,116.18,121.44,127.14,133.36,140.07,147.20,154.71,162.49,170.50
+Middle East & Africa,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,36.48,38.08,39.72,41.40,43.16,45.02,47.07,49.33,51.79,54.40,57.20,60.19,63.30
+Middle East & Africa,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,28.00,29.61,31.37,33.26,35.27,37.41,39.73,42.26,45.03,48.01,51.15,54.39,57.77
+Middle East & Africa,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,20.13,21.14,22.22,23.37,24.59,25.91,27.36,28.94,30.63,32.41,34.26,36.17,38.15
+Middle East & Africa,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,15.89,16.45,17.03,17.65,18.30,19.00,19.75,20.54,21.35,22.22,23.13,24.07,25.04
+Middle East & Africa,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",7.07,7.29,7.52,7.76,8.00,8.24,8.49,8.76,9.05,9.36,9.68,10.00,10.32
+U.S.,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,19.29,20.02,20.80,21.66,22.59,23.62,24.75,25.99,27.29,28.65,30.01,31.37,32.74
+U.S.,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,50.84,53.76,56.95,60.42,64.23,68.44,73.10,78.21,83.71,89.53,95.59,101.83,108.32
+U.S.,By Equipment Type,Storage Equipment,Silos,19.39,20.28,21.26,22.27,23.31,24.33,25.40,26.57,27.88,29.34,30.87,32.45,34.07
+U.S.,By Equipment Type,Storage Equipment,Storage bins and hoppers,9.80,10.29,10.80,11.37,11.99,12.65,13.36,14.10,14.86,15.69,16.58,17.53,18.51
+U.S.,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,48.27,50.80,53.48,56.44,59.68,63.18,66.89,70.77,74.81,79.17,83.90,88.92,94.17
+U.S.,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",21.75,22.62,23.57,24.60,25.72,26.97,28.33,29.82,31.40,33.05,34.71,36.37,38.06
+U.S.,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,56.69,59.19,61.90,64.83,68.03,71.58,75.47,79.73,84.25,88.98,93.79,98.64,103.59
+U.S.,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,26.66,28.22,29.91,31.68,33.49,35.39,37.41,39.66,42.18,44.88,47.80,50.85,54.02
+U.S.,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,39.76,42.29,44.82,47.43,50.24,53.39,56.97,60.92,65.10,69.49,74.18,79.24,84.61
+U.S.,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,27.71,28.76,29.89,31.11,32.45,33.93,35.55,37.33,39.21,41.15,43.11,45.07,47.04
+U.S.,By Equipment Type,Sorting and Grading Equipment,Optical sorters,53.99,58.94,64.41,70.35,76.70,83.57,91.11,99.60,109.20,119.81,131.55,144.30,158.07
+U.S.,By Equipment Type,Sorting and Grading Equipment,Size graders,19.79,20.83,21.96,23.13,24.32,25.55,26.87,28.32,29.96,31.70,33.58,35.53,37.53
+U.S.,By Equipment Type,Sorting and Grading Equipment,Weight graders,23.09,24.40,25.78,27.32,28.99,30.81,32.75,34.79,36.91,39.22,41.72,44.39,47.19
+U.S.,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,9.51,9.89,10.30,10.74,11.22,11.76,12.35,12.99,13.67,14.38,15.09,15.81,16.53
+U.S.,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,66.20,70.75,75.75,81.13,86.75,92.72,99.11,106.08,113.71,122.01,130.88,140.18,150.03
+U.S.,By Equipment Type,Thermal Processing Equipment,Roasting systems,14.72,15.81,16.99,18.31,19.77,21.36,23.09,24.94,26.91,29.08,31.46,34.04,36.80
+U.S.,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,12.19,12.90,13.68,14.51,15.37,16.28,17.23,18.27,19.40,20.62,21.91,23.25,24.65
+U.S.,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",40.99,43.42,45.84,48.30,50.96,53.94,57.32,61.05,64.97,69.08,73.44,78.13,83.09
+U.S.,By Nut Type,Almond,Almond,186.26,197.23,209.17,222.18,236.45,252.26,269.72,288.92,309.59,331.53,354.37,377.95,402.51
+U.S.,By Nut Type,Cashew,Cashew,5.19,5.59,6.03,6.52,7.06,7.65,8.30,8.99,9.73,10.55,11.45,12.43,13.48
+U.S.,By Nut Type,Peanut,Peanut,166.73,174.76,182.91,191.65,201.16,211.86,223.64,236.22,249.21,262.87,277.59,293.46,310.30
+U.S.,By Nut Type,Pistachio,Pistachio,71.13,76.52,82.41,88.70,95.28,102.31,109.91,118.40,127.94,138.34,149.68,161.81,174.67
+U.S.,By Nut Type,Walnut,Walnut,96.09,101.48,107.38,113.58,119.99,126.44,133.28,140.75,149.11,158.37,168.26,178.54,189.21
+U.S.,By Nut Type,Hazelnut,Hazelnut,12.82,13.60,14.44,15.33,16.23,17.19,18.20,19.34,20.60,21.97,23.44,24.98,26.59
+U.S.,By Nut Type,Other Nuts,Other Nuts,22.40,24.00,25.76,27.65,29.64,31.76,34.03,36.51,39.23,42.20,45.38,48.72,52.27
+U.S.,By Automation Level,Manual,Manual,24.35,26.38,28.63,31.11,33.88,36.98,40.45,44.33,48.59,53.23,58.21,63.52,69.22
+U.S.,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,536.28,566.80,599.47,634.49,671.93,712.49,756.63,804.81,856.83,912.60,971.95,"1,034.36","1,099.81"
+U.S.,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,192.71,202.64,213.03,223.93,235.74,248.91,263.76,280.45,298.58,317.70,337.77,358.71,380.48
+U.S.,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,145.72,156.52,168.41,181.27,194.80,209.25,224.78,241.80,260.47,280.89,302.79,325.93,350.58
+U.S.,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,103.59,110.14,117.13,124.88,133.40,142.66,152.59,163.09,174.15,186.19,199.33,213.41,228.31
+U.S.,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,83.24,87.04,91.10,95.49,100.22,105.36,110.92,116.84,123.08,129.60,136.36,143.40,150.66
+U.S.,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",35.37,36.84,38.42,40.04,41.64,43.29,45.02,46.96,49.14,51.45,53.91,56.44,58.99
+Canada,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,5.67,5.89,6.11,6.31,6.54,6.79,7.08,7.40,7.73,8.07,8.42,8.79,9.17
+Canada,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,11.12,11.78,12.44,13.11,13.84,14.65,15.57,16.59,17.66,18.78,19.97,21.25,22.61
+Canada,By Equipment Type,Storage Equipment,Silos,4.10,4.28,4.47,4.67,4.88,5.09,5.31,5.54,5.80,6.07,6.36,6.65,6.94
+Canada,By Equipment Type,Storage Equipment,Storage bins and hoppers,2.59,2.71,2.83,2.95,3.08,3.22,3.39,3.57,3.76,3.95,4.15,4.37,4.60
+Canada,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,10.27,10.76,11.29,11.86,12.48,13.15,13.87,14.65,15.46,16.32,17.21,18.14,19.10
+Canada,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",5.38,5.60,5.82,6.08,6.35,6.65,6.96,7.28,7.60,7.96,8.34,8.73,9.14
+Canada,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,13.30,13.84,14.42,15.05,15.73,16.49,17.33,18.24,19.20,20.21,21.22,22.24,23.27
+Canada,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,7.18,7.55,7.95,8.38,8.85,9.36,9.91,10.50,11.12,11.78,12.46,13.18,13.93
+Canada,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,8.12,8.59,9.09,9.64,10.23,10.87,11.57,12.33,13.13,13.98,14.87,15.81,16.80
+Canada,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,5.97,6.21,6.43,6.65,6.88,7.15,7.46,7.79,8.14,8.50,8.86,9.26,9.66
+Canada,By Equipment Type,Sorting and Grading Equipment,Optical sorters,9.72,10.54,11.44,12.44,13.55,14.77,16.12,17.62,19.24,21.02,22.93,25.01,27.25
+Canada,By Equipment Type,Sorting and Grading Equipment,Size graders,6.19,6.50,6.82,7.16,7.50,7.85,8.23,8.64,9.11,9.60,10.13,10.68,11.25
+Canada,By Equipment Type,Sorting and Grading Equipment,Weight graders,5.46,5.76,6.05,6.35,6.67,7.03,7.43,7.88,8.35,8.84,9.36,9.91,10.49
+Canada,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,3.55,3.69,3.84,4.00,4.17,4.35,4.56,4.77,5.00,5.23,5.47,5.71,5.97
+Canada,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,12.32,13.07,13.87,14.76,15.74,16.80,17.93,19.12,20.38,21.75,23.23,24.82,26.50
+Canada,By Equipment Type,Thermal Processing Equipment,Roasting systems,4.75,5.09,5.45,5.85,6.30,6.78,7.30,7.86,8.45,9.10,9.81,10.57,11.39
+Canada,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,3.89,4.10,4.32,4.56,4.80,5.04,5.31,5.60,5.93,6.28,6.65,7.04,7.45
+Canada,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",6.73,7.11,7.53,7.97,8.42,8.88,9.37,9.90,10.49,11.15,11.85,12.58,13.34
+Canada,By Nut Type,Almond,Almond,6.92,7.32,7.75,8.22,8.74,9.29,9.89,10.52,11.18,11.89,12.66,13.49,14.36
+Canada,By Nut Type,Cashew,Cashew,8.40,8.98,9.61,10.31,11.07,11.93,12.88,13.93,15.07,16.29,17.58,18.93,20.35
+Canada,By Nut Type,Peanut,Peanut,44.10,45.97,47.84,49.80,51.94,54.33,56.99,59.87,62.87,66.02,69.38,72.98,76.72
+Canada,By Nut Type,Pistachio,Pistachio,3.89,4.17,4.48,4.80,5.15,5.50,5.88,6.30,6.77,7.30,7.86,8.46,9.10
+Canada,By Nut Type,Walnut,Walnut,22.57,23.75,25.02,26.38,27.77,29.21,30.73,32.37,34.16,36.08,38.09,40.16,42.30
+Canada,By Nut Type,Hazelnut,Hazelnut,8.54,9.01,9.48,9.95,10.45,11.02,11.66,12.37,13.11,13.88,14.70,15.58,16.50
+Canada,By Nut Type,Other Nuts,Other Nuts,31.90,33.87,36.01,38.34,40.87,43.63,46.65,49.91,53.39,57.10,61.01,65.16,69.53
+Canada,By Automation Level,Manual,Manual,7.09,7.64,8.25,8.93,9.67,10.50,11.43,12.47,13.60,14.82,16.13,17.51,18.99
+Canada,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,119.23,125.43,131.93,138.86,146.31,154.41,163.25,172.80,182.95,193.73,205.16,217.24,229.87
+Canada,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,42.08,43.97,45.80,47.80,50.21,53.04,56.29,59.70,63.06,66.52,70.13,74.07,78.23
+Canada,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,34.19,36.55,39.12,41.90,44.80,47.88,51.17,54.77,58.70,62.98,67.55,72.35,77.43
+Canada,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,24.26,25.72,27.31,28.97,30.68,32.47,34.39,36.52,38.90,41.46,44.23,47.13,50.16
+Canada,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,20.22,21.10,22.04,23.01,23.97,24.96,26.01,27.17,28.48,29.87,31.35,32.88,34.42
+Canada,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.57,5.74,5.91,6.11,6.32,6.56,6.82,7.11,7.41,7.72,8.02,8.32,8.62
+U.K.,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,3.85,4.02,4.19,4.36,4.53,4.74,4.97,5.22,5.49,5.76,6.04,6.34,6.66
+U.K.,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,10.88,11.60,12.38,13.20,14.06,14.96,15.93,17.00,18.21,19.52,20.93,22.42,23.99
+U.K.,By Equipment Type,Storage Equipment,Silos,4.31,4.51,4.70,4.90,5.11,5.34,5.61,5.91,6.21,6.53,6.86,7.21,7.58
+U.K.,By Equipment Type,Storage Equipment,Storage bins and hoppers,2.64,2.76,2.90,3.05,3.21,3.39,3.59,3.80,4.03,4.27,4.52,4.77,5.03
+U.K.,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,10.34,10.92,11.49,12.08,12.71,13.41,14.21,15.09,16.02,16.98,18.01,19.10,20.26
+U.K.,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",5.15,5.40,5.67,5.95,6.23,6.52,6.83,7.18,7.56,7.97,8.41,8.87,9.34
+U.K.,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,11.85,12.48,13.15,13.85,14.55,15.29,16.07,16.94,17.91,18.96,20.07,21.23,22.43
+U.K.,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,6.40,6.80,7.22,7.68,8.15,8.63,9.14,9.70,10.32,11.02,11.76,12.54,13.35
+U.K.,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,7.61,8.07,8.57,9.11,9.70,10.36,11.09,11.89,12.75,13.67,14.62,15.61,16.64
+U.K.,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,5.37,5.60,5.85,6.12,6.40,6.71,7.05,7.41,7.79,8.18,8.58,9.00,9.44
+U.K.,By Equipment Type,Sorting and Grading Equipment,Optical sorters,10.13,11.01,11.99,13.08,14.29,15.65,17.17,18.88,20.77,22.83,25.04,27.42,29.98
+U.K.,By Equipment Type,Sorting and Grading Equipment,Size graders,5.69,6.00,6.30,6.61,6.94,7.31,7.73,8.19,8.68,9.18,9.71,10.28,10.88
+U.K.,By Equipment Type,Sorting and Grading Equipment,Weight graders,4.85,5.13,5.44,5.76,6.12,6.51,6.94,7.39,7.88,8.39,8.94,9.51,10.11
+U.K.,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,3.03,3.17,3.33,3.50,3.67,3.84,4.02,4.22,4.44,4.68,4.94,5.20,5.48
+U.K.,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,12.20,13.04,13.88,14.76,15.72,16.78,18.00,19.34,20.76,22.27,23.89,25.65,27.52
+U.K.,By Equipment Type,Thermal Processing Equipment,Roasting systems,4.12,4.44,4.81,5.20,5.61,6.05,6.52,7.03,7.62,8.27,8.98,9.74,10.55
+U.K.,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,3.32,3.52,3.74,3.97,4.21,4.45,4.71,4.99,5.31,5.66,6.03,6.42,6.83
+U.K.,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",7.54,8.00,8.46,8.94,9.45,10.02,10.67,11.38,12.14,12.93,13.77,14.68,15.64
+U.K.,By Nut Type,Almond,Almond,9.24,9.84,10.45,11.08,11.75,12.51,13.37,14.32,15.33,16.39,17.52,18.75,20.05
+U.K.,By Nut Type,Cashew,Cashew,11.64,12.58,13.54,14.56,15.67,16.92,18.34,19.92,21.62,23.45,25.43,27.59,29.93
+U.K.,By Nut Type,Peanut,Peanut,39.16,41.06,43.00,44.96,47.01,49.30,51.94,54.96,58.26,61.63,65.08,68.62,72.27
+U.K.,By Nut Type,Pistachio,Pistachio,5.85,6.28,6.74,7.26,7.83,8.46,9.14,9.87,10.64,11.49,12.42,13.43,14.51
+U.K.,By Nut Type,Walnut,Walnut,22.07,23.26,24.51,25.90,27.42,29.06,30.81,32.64,34.54,36.60,38.83,41.21,43.69
+U.K.,By Nut Type,Hazelnut,Hazelnut,7.71,8.19,8.70,9.24,9.79,10.37,11.00,11.69,12.46,13.29,14.19,15.14,16.13
+U.K.,By Nut Type,Other Nuts,Other Nuts,23.59,25.27,27.12,29.10,31.19,33.34,35.65,38.19,41.04,44.21,47.64,51.27,55.12
+U.K.,By Automation Level,Manual,Manual,7.84,8.55,9.35,10.22,11.15,12.14,13.22,14.42,15.78,17.32,19.00,20.83,22.80
+U.K.,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,111.43,117.92,124.73,131.88,139.51,147.83,157.02,167.15,178.10,189.74,202.11,215.18,228.90
+U.K.,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,41.02,43.55,46.12,48.59,51.06,53.68,56.69,60.21,64.20,68.42,72.88,77.65,82.69
+U.K.,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,31.76,33.91,36.26,38.83,41.66,44.81,48.30,52.15,56.34,60.82,65.54,70.47,75.66
+U.K.,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,22.38,23.83,25.37,27.08,28.96,31.00,33.20,35.52,37.97,40.65,43.56,46.69,50.01
+U.K.,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,16.94,17.75,18.59,19.53,20.55,21.65,22.81,24.02,25.27,26.62,28.07,29.61,31.21
+U.K.,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",7.15,7.44,7.74,8.07,8.44,8.83,9.24,9.66,10.09,10.56,11.06,11.59,12.13
+Germany,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,6.10,6.40,6.71,7.05,7.41,7.81,8.24,8.70,9.18,9.69,10.22,10.77,11.34
+Germany,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,15.23,16.27,17.39,18.61,19.95,21.42,23.03,24.77,26.65,28.66,30.79,33.06,35.48
+Germany,By Equipment Type,Storage Equipment,Silos,5.79,6.08,6.38,6.72,7.09,7.49,7.91,8.35,8.80,9.29,9.83,10.39,10.98
+Germany,By Equipment Type,Storage Equipment,Storage bins and hoppers,3.00,3.17,3.35,3.55,3.77,4.00,4.25,4.52,4.79,5.09,5.42,5.77,6.13
+Germany,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,14.55,15.36,16.23,17.19,18.23,19.39,20.67,22.07,23.57,25.16,26.81,28.50,30.26
+Germany,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",6.39,6.70,7.02,7.38,7.77,8.20,8.67,9.18,9.73,10.31,10.90,11.50,12.11
+Germany,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,16.88,17.84,18.79,19.75,20.79,21.95,23.28,24.73,26.26,27.85,29.54,31.36,33.27
+Germany,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,8.68,9.23,9.81,10.46,11.17,11.94,12.77,13.65,14.57,15.57,16.67,17.84,19.08
+Germany,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,12.16,13.02,13.89,14.79,15.77,16.87,18.12,19.50,20.97,22.54,24.21,26.03,27.98
+Germany,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,7.52,7.91,8.34,8.80,9.26,9.75,10.26,10.81,11.41,12.06,12.73,13.43,14.15
+Germany,By Equipment Type,Sorting and Grading Equipment,Optical sorters,16.00,17.53,19.22,21.10,23.20,25.54,28.16,31.07,34.28,37.81,41.66,45.89,50.50
+Germany,By Equipment Type,Sorting and Grading Equipment,Size graders,7.30,7.69,8.12,8.58,9.08,9.63,10.25,10.92,11.64,12.40,13.18,13.99,14.82
+Germany,By Equipment Type,Sorting and Grading Equipment,Weight graders,6.05,6.45,6.88,7.34,7.82,8.32,8.86,9.45,10.12,10.85,11.63,12.46,13.33
+Germany,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.83,1.93,2.04,2.15,2.27,2.39,2.51,2.64,2.79,2.96,3.14,3.32,3.51
+Germany,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,19.11,20.48,21.96,23.60,25.41,27.40,29.54,31.83,34.26,36.92,39.85,43.01,46.38
+Germany,By Equipment Type,Thermal Processing Equipment,Roasting systems,5.00,5.42,5.89,6.38,6.91,7.48,8.10,8.79,9.57,10.43,11.37,12.39,13.48
+Germany,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,4.34,4.59,4.87,5.16,5.49,5.85,6.25,6.69,7.16,7.66,8.18,8.72,9.27
+Germany,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",9.44,10.08,10.76,11.49,12.24,13.04,13.89,14.84,15.91,17.06,18.31,19.63,21.02
+Germany,By Nut Type,Almond,Almond,12.02,12.85,13.75,14.73,15.81,16.99,18.28,19.68,21.19,22.81,24.53,26.36,28.31
+Germany,By Nut Type,Cashew,Cashew,14.74,15.98,17.35,18.85,20.51,22.35,24.39,26.63,29.08,31.73,34.61,37.73,41.09
+Germany,By Nut Type,Peanut,Peanut,51.77,54.37,57.14,60.22,63.66,67.58,71.87,76.49,81.32,86.38,91.73,97.35,103.21
+Germany,By Nut Type,Pistachio,Pistachio,8.27,8.93,9.64,10.44,11.32,12.30,13.36,14.50,15.72,17.07,18.56,20.18,21.92
+Germany,By Nut Type,Walnut,Walnut,35.54,37.77,40.21,42.80,45.50,48.25,51.19,54.40,57.99,61.98,66.27,70.76,75.46
+Germany,By Nut Type,Hazelnut,Hazelnut,12.07,12.90,13.81,14.79,15.81,16.89,18.06,19.32,20.71,22.22,23.83,25.52,27.31
+Germany,By Nut Type,Other Nuts,Other Nuts,30.98,33.34,35.75,38.27,41.02,44.10,47.61,51.50,55.67,60.13,64.93,70.17,75.80
+Germany,By Automation Level,Manual,Manual,10.20,11.18,12.27,13.46,14.74,16.13,17.66,19.39,21.35,23.53,25.95,28.58,31.45
+Germany,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,155.19,164.95,175.37,186.64,198.89,212.33,227.08,243.13,260.33,278.79,298.51,319.48,341.65
+Germany,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,56.44,59.81,63.27,67.01,71.20,75.94,81.23,86.94,92.95,99.37,106.29,113.77,121.71
+Germany,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,42.82,46.11,49.71,53.66,58.00,62.79,68.06,73.83,80.08,86.83,94.08,101.88,110.22
+Germany,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,29.71,31.92,34.35,36.97,39.74,42.70,45.87,49.36,53.18,57.35,61.84,66.57,71.62
+Germany,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,24.74,26.12,27.62,29.18,30.77,32.43,34.19,36.16,38.35,40.71,43.25,45.90,48.64
+Germany,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",11.68,12.18,12.71,13.29,13.92,14.62,15.39,16.23,17.12,18.05,19.00,19.94,20.91
+Italy,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.53,2.62,2.72,2.82,2.93,3.02,3.13,3.24,3.36,3.50,3.65,3.80,3.95
+Italy,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,6.57,6.94,7.34,7.76,8.20,8.63,9.10,9.61,10.17,10.80,11.47,12.17,12.89
+Italy,By Equipment Type,Storage Equipment,Silos,2.28,2.36,2.46,2.56,2.65,2.75,2.86,2.97,3.10,3.23,3.36,3.50,3.64
+Italy,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.36,1.42,1.49,1.56,1.63,1.69,1.76,1.84,1.93,2.03,2.13,2.23,2.34
+Italy,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,5.95,6.24,6.54,6.87,7.20,7.54,7.90,8.29,8.71,9.16,9.62,10.10,10.60
+Italy,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",2.89,3.01,3.13,3.26,3.39,3.52,3.66,3.81,3.97,4.14,4.32,4.50,4.68
+Italy,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,7.20,7.48,7.77,8.09,8.44,8.81,9.21,9.64,10.09,10.55,11.03,11.52,12.02
+Italy,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,3.93,4.13,4.31,4.50,4.70,4.93,5.19,5.47,5.77,6.07,6.39,6.74,7.10
+Italy,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,5.14,5.41,5.70,6.01,6.36,6.74,7.14,7.55,7.99,8.46,8.97,9.51,10.07
+Italy,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,3.22,3.34,3.47,3.60,3.73,3.87,4.01,4.17,4.33,4.51,4.69,4.87,5.06
+Italy,By Equipment Type,Sorting and Grading Equipment,Optical sorters,7.30,7.86,8.47,9.15,9.89,10.73,11.66,12.69,13.82,15.04,16.34,17.71,19.17
+Italy,By Equipment Type,Sorting and Grading Equipment,Size graders,3.24,3.37,3.51,3.67,3.84,4.02,4.21,4.41,4.61,4.83,5.07,5.31,5.57
+Italy,By Equipment Type,Sorting and Grading Equipment,Weight graders,3.00,3.15,3.32,3.48,3.65,3.83,4.02,4.23,4.46,4.71,4.97,5.25,5.53
+Italy,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,0.93,0.96,0.99,1.03,1.07,1.11,1.16,1.21,1.26,1.31,1.36,1.42,1.47
+Italy,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,6.81,7.21,7.60,8.00,8.43,8.91,9.46,10.06,10.69,11.35,12.05,12.80,13.60
+Italy,By Equipment Type,Thermal Processing Equipment,Roasting systems,3.59,3.83,4.08,4.36,4.67,5.01,5.37,5.75,6.15,6.59,7.08,7.59,8.14
+Italy,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.42,2.54,2.67,2.80,2.93,3.07,3.21,3.37,3.55,3.74,3.95,4.16,4.38
+Italy,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",5.86,6.16,6.49,6.82,7.16,7.51,7.89,8.30,8.77,9.26,9.79,10.35,10.92
+Italy,By Nut Type,Almond,Almond,7.18,7.56,7.97,8.42,8.91,9.43,10.00,10.62,11.27,11.95,12.67,13.43,14.21
+Italy,By Nut Type,Cashew,Cashew,1.38,1.48,1.58,1.70,1.82,1.94,2.08,2.23,2.41,2.59,2.79,3.01,3.24
+Italy,By Nut Type,Peanut,Peanut,2.54,2.65,2.76,2.88,3.00,3.12,3.25,3.39,3.55,3.72,3.90,4.08,4.27
+Italy,By Nut Type,Pistachio,Pistachio,0.71,0.75,0.80,0.85,0.91,0.97,1.04,1.12,1.20,1.28,1.37,1.47,1.57
+Italy,By Nut Type,Walnut,Walnut,18.57,19.40,20.26,21.22,22.26,23.39,24.57,25.80,27.06,28.42,29.89,31.43,33.03
+Italy,By Nut Type,Hazelnut,Hazelnut,34.09,35.84,37.71,39.64,41.62,43.70,45.97,48.51,51.32,54.35,57.55,60.88,64.36
+Italy,By Nut Type,Other Nuts,Other Nuts,9.78,10.35,10.97,11.63,12.36,13.15,14.01,14.93,15.92,16.96,18.06,19.22,20.44
+Italy,By Automation Level,Manual,Manual,6.51,6.98,7.51,8.09,8.72,9.44,10.23,11.10,12.06,13.09,14.19,15.34,16.56
+Italy,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,67.75,71.05,74.56,78.26,82.15,86.27,90.70,95.50,100.66,106.19,112.06,118.19,124.56
+Italy,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,24.56,25.73,26.95,28.25,29.63,31.15,32.79,34.57,36.46,38.45,40.57,42.78,45.09
+Italy,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,18.68,19.83,21.07,22.41,23.88,25.48,27.23,29.12,31.13,33.27,35.54,37.93,40.45
+Italy,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,14.49,15.33,16.25,17.22,18.23,19.24,20.32,21.50,22.82,24.28,25.85,27.48,29.17
+Italy,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,10.68,11.11,11.59,12.08,12.58,13.07,13.58,14.14,14.76,15.46,16.19,16.93,17.69
+Italy,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.84,6.03,6.21,6.37,6.55,6.76,7.01,7.27,7.55,7.82,8.11,8.41,8.72
+France,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,4.36,4.54,4.70,4.87,5.04,5.24,5.47,5.73,5.99,6.25,6.53,6.82,7.13
+France,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,9.73,10.32,10.91,11.51,12.15,12.88,13.70,14.61,15.56,16.57,17.63,18.78,20.00
+France,By Equipment Type,Storage Equipment,Silos,3.76,3.90,4.04,4.20,4.38,4.57,4.79,5.02,5.26,5.52,5.77,6.03,6.28
+France,By Equipment Type,Storage Equipment,Storage bins and hoppers,2.18,2.29,2.40,2.53,2.65,2.78,2.91,3.06,3.22,3.40,3.59,3.79,3.99
+France,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,8.68,9.14,9.65,10.18,10.73,11.31,11.91,12.57,13.28,14.04,14.85,15.67,16.53
+France,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",4.35,4.53,4.72,4.93,5.16,5.41,5.66,5.93,6.20,6.49,6.81,7.14,7.48
+France,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,9.52,9.97,10.46,10.96,11.47,12.00,12.55,13.17,13.86,14.59,15.38,16.20,17.03
+France,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,5.08,5.37,5.69,6.03,6.37,6.74,7.12,7.54,7.99,8.48,9.00,9.53,10.09
+France,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,6.92,7.32,7.76,8.23,8.74,9.30,9.91,10.56,11.26,12.00,12.78,13.60,14.46
+France,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,4.45,4.64,4.85,5.06,5.28,5.50,5.74,5.99,6.27,6.56,6.86,7.17,7.49
+France,By Equipment Type,Sorting and Grading Equipment,Optical sorters,9.05,9.82,10.67,11.61,12.66,13.81,15.09,16.50,18.04,19.72,21.54,23.51,25.64
+France,By Equipment Type,Sorting and Grading Equipment,Size graders,4.53,4.74,4.97,5.22,5.48,5.77,6.08,6.41,6.76,7.13,7.51,7.90,8.31
+France,By Equipment Type,Sorting and Grading Equipment,Weight graders,4.25,4.48,4.71,4.95,5.20,5.49,5.81,6.17,6.54,6.93,7.34,7.78,8.24
+France,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.42,1.48,1.55,1.62,1.69,1.76,1.83,1.91,2.00,2.10,2.21,2.32,2.43
+France,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,9.04,9.62,10.26,10.93,11.62,12.34,13.12,13.99,14.96,16.01,17.14,18.34,19.60
+France,By Equipment Type,Thermal Processing Equipment,Roasting systems,4.21,4.51,4.83,5.19,5.58,6.00,6.47,6.98,7.53,8.12,8.76,9.43,10.15
+France,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.86,3.02,3.17,3.32,3.48,3.67,3.88,4.11,4.35,4.60,4.87,5.15,5.45
+France,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",5.92,6.26,6.64,7.04,7.46,7.89,8.36,8.86,9.40,9.99,10.61,11.26,11.93
+France,By Nut Type,Almond,Almond,9.68,10.22,10.81,11.44,12.14,12.91,13.76,14.70,15.70,16.76,17.86,18.99,20.16
+France,By Nut Type,Cashew,Cashew,2.31,2.49,2.69,2.90,3.13,3.36,3.62,3.90,4.22,4.57,4.95,5.36,5.80
+France,By Nut Type,Peanut,Peanut,7.61,8.03,8.35,8.61,8.89,9.20,9.59,10.03,10.51,11.01,11.69,12.61,13.66
+France,By Nut Type,Pistachio,Pistachio,1.34,1.43,1.53,1.64,1.75,1.88,2.03,2.18,2.36,2.54,2.73,2.93,3.14
+France,By Nut Type,Walnut,Walnut,46.01,48.48,51.17,54.02,56.94,60.00,63.22,66.70,70.48,74.56,78.84,83.24,87.83
+France,By Nut Type,Hazelnut,Hazelnut,7.85,8.27,8.73,9.22,9.76,10.35,10.98,11.66,12.38,13.15,13.95,14.78,15.66
+France,By Nut Type,Other Nuts,Other Nuts,25.50,27.03,28.71,30.54,32.54,34.76,37.22,39.92,42.83,45.93,49.16,52.50,55.98
+France,By Automation Level,Manual,Manual,7.93,8.61,9.35,10.16,11.01,11.93,12.94,14.06,15.33,16.73,18.27,19.92,21.70
+France,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,92.37,97.35,102.63,108.22,114.14,120.52,127.47,135.03,143.15,151.78,160.91,170.49,180.52
+France,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,34.65,36.43,38.25,40.12,42.13,44.44,47.07,49.99,53.07,56.20,59.43,62.85,66.44
+France,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,26.28,28.11,30.13,32.29,34.56,36.89,39.39,42.15,45.23,48.67,52.38,56.30,60.44
+France,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,19.30,20.45,21.68,23.04,24.53,26.15,27.88,29.71,31.62,33.70,35.96,38.38,40.93
+France,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,13.94,14.59,15.29,16.04,16.80,17.58,18.40,19.29,20.24,21.27,22.35,23.44,24.57
+France,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",6.14,6.38,6.63,6.88,7.14,7.39,7.66,7.97,8.31,8.67,9.06,9.45,9.85
+Spain,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.02,2.09,2.16,2.23,2.30,2.36,2.43,2.51,2.59,2.69,2.79,2.89,2.99
+Spain,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,5.44,5.68,5.94,6.22,6.53,6.87,7.25,7.66,8.10,8.55,9.01,9.48,9.96
+Spain,By Equipment Type,Storage Equipment,Silos,2.20,2.25,2.31,2.38,2.45,2.54,2.63,2.73,2.83,2.94,3.05,3.15,3.25
+Spain,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.25,1.29,1.33,1.38,1.43,1.49,1.55,1.62,1.70,1.77,1.85,1.92,1.99
+Spain,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,4.92,5.12,5.34,5.57,5.79,6.02,6.26,6.53,6.83,7.16,7.50,7.85,8.21
+Spain,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",2.50,2.57,2.65,2.74,2.84,2.95,3.06,3.17,3.28,3.40,3.53,3.67,3.80
+Spain,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,5.61,5.81,6.01,6.23,6.48,6.75,7.02,7.30,7.59,7.90,8.23,8.57,8.93
+Spain,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,3.07,3.22,3.37,3.54,3.70,3.88,4.06,4.25,4.46,4.69,4.93,5.17,5.41
+Spain,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,3.92,4.13,4.35,4.58,4.81,5.05,5.30,5.57,5.88,6.21,6.57,6.94,7.33
+Spain,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,2.67,2.75,2.82,2.89,2.96,3.05,3.15,3.26,3.38,3.49,3.61,3.74,3.86
+Spain,By Equipment Type,Sorting and Grading Equipment,Optical sorters,5.08,5.48,5.91,6.38,6.87,7.39,7.96,8.60,9.31,10.09,10.94,11.86,12.83
+Spain,By Equipment Type,Sorting and Grading Equipment,Size graders,2.76,2.87,2.97,3.06,3.17,3.29,3.43,3.58,3.74,3.90,4.06,4.24,4.42
+Spain,By Equipment Type,Sorting and Grading Equipment,Weight graders,2.44,2.54,2.65,2.78,2.91,3.05,3.20,3.36,3.52,3.69,3.88,4.08,4.28
+Spain,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,0.85,0.87,0.90,0.92,0.95,0.99,1.02,1.06,1.10,1.14,1.19,1.23,1.27
+Spain,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,5.23,5.52,5.83,6.16,6.49,6.83,7.19,7.58,8.02,8.51,9.03,9.57,10.12
+Spain,By Equipment Type,Thermal Processing Equipment,Roasting systems,2.40,2.55,2.72,2.90,3.08,3.27,3.47,3.70,3.95,4.22,4.52,4.83,5.16
+Spain,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.61,1.68,1.75,1.83,1.91,2.00,2.10,2.20,2.30,2.41,2.53,2.65,2.78
+Spain,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",3.27,3.40,3.54,3.69,3.86,4.05,4.25,4.47,4.71,4.95,5.20,5.45,5.70
+Spain,By Nut Type,Almond,Almond,30.03,31.48,32.95,34.50,36.13,37.83,39.65,41.64,43.82,46.20,48.76,51.43,54.20
+Spain,By Nut Type,Cashew,Cashew,1.15,1.20,1.27,1.35,1.44,1.53,1.64,1.75,1.87,1.99,2.13,2.27,2.41
+Spain,By Nut Type,Peanut,Peanut,2.42,2.46,2.55,2.65,2.74,2.84,2.94,3.04,3.16,3.28,3.41,3.54,3.67
+Spain,By Nut Type,Pistachio,Pistachio,0.55,0.58,0.61,0.65,0.69,0.73,0.77,0.82,0.87,0.93,0.99,1.05,1.11
+Spain,By Nut Type,Walnut,Walnut,6.47,6.67,6.90,7.14,7.40,7.70,8.02,8.38,8.75,9.13,9.51,9.89,10.26
+Spain,By Nut Type,Hazelnut,Hazelnut,4.45,4.65,4.85,5.07,5.28,5.50,5.73,5.98,6.27,6.58,6.90,7.24,7.58
+Spain,By Nut Type,Other Nuts,Other Nuts,12.17,12.77,13.42,14.12,14.88,15.70,16.59,17.54,18.55,19.61,20.71,21.86,23.05
+Spain,By Automation Level,Manual,Manual,5.56,5.98,6.44,6.94,7.47,8.04,8.65,9.32,10.05,10.85,11.72,12.63,13.61
+Spain,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,51.68,53.83,56.11,58.53,61.08,63.78,66.69,69.84,73.24,76.87,80.70,84.64,88.68
+Spain,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,19.18,19.90,20.74,21.70,22.72,23.79,24.89,26.06,27.36,28.76,30.25,31.76,33.28
+Spain,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,14.57,15.43,16.28,17.14,18.08,19.12,20.32,21.62,23.00,24.45,25.98,27.62,29.36
+Spain,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,10.46,11.01,11.61,12.25,12.90,13.56,14.25,15.00,15.84,16.78,17.77,18.80,19.87
+Spain,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,8.72,9.04,9.39,9.76,10.12,10.49,10.88,11.29,11.74,12.22,12.72,13.21,13.72
+Spain,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",4.31,4.43,4.53,4.63,4.74,4.86,5.01,5.18,5.35,5.52,5.69,5.87,6.06
+Russia,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.08,1.11,1.13,1.16,1.20,1.23,1.27,1.31,1.35,1.39,1.43,1.47,1.52
+Russia,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,2.63,2.73,2.85,2.97,3.11,3.26,3.42,3.60,3.79,3.99,4.19,4.39,4.59
+Russia,By Equipment Type,Storage Equipment,Silos,0.90,0.93,0.95,0.98,1.00,1.04,1.07,1.10,1.14,1.18,1.21,1.25,1.29
+Russia,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.52,0.54,0.55,0.57,0.59,0.61,0.64,0.66,0.69,0.72,0.74,0.77,0.80
+Russia,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,2.44,2.53,2.62,2.71,2.82,2.93,3.05,3.18,3.32,3.45,3.60,3.74,3.89
+Russia,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.30,1.34,1.38,1.41,1.46,1.50,1.55,1.61,1.66,1.72,1.77,1.83,1.89
+Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,2.77,2.86,2.94,3.02,3.11,3.21,3.32,3.45,3.58,3.71,3.84,3.98,4.13
+Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,1.81,1.88,1.96,2.04,2.13,2.21,2.30,2.40,2.51,2.62,2.75,2.87,3.00
+Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,1.88,1.96,2.04,2.13,2.22,2.33,2.45,2.58,2.72,2.86,3.00,3.15,3.29
+Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,1.06,1.09,1.12,1.15,1.18,1.21,1.25,1.29,1.33,1.37,1.41,1.45,1.49
+Russia,By Equipment Type,Sorting and Grading Equipment,Optical sorters,1.81,1.94,2.08,2.23,2.40,2.59,2.79,3.01,3.25,3.50,3.77,4.06,4.37
+Russia,By Equipment Type,Sorting and Grading Equipment,Size graders,1.43,1.48,1.52,1.57,1.62,1.68,1.75,1.82,1.90,1.98,2.05,2.13,2.20
+Russia,By Equipment Type,Sorting and Grading Equipment,Weight graders,1.24,1.29,1.35,1.41,1.47,1.53,1.59,1.66,1.73,1.82,1.90,1.99,2.09
+Russia,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.06,1.09,1.12,1.15,1.19,1.22,1.25,1.29,1.33,1.38,1.43,1.48,1.52
+Russia,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,2.19,2.29,2.40,2.52,2.66,2.80,2.95,3.11,3.27,3.44,3.63,3.83,4.04
+Russia,By Equipment Type,Thermal Processing Equipment,Roasting systems,1.48,1.57,1.66,1.75,1.86,1.97,2.10,2.24,2.38,2.53,2.69,2.86,3.04
+Russia,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.10,1.14,1.18,1.23,1.28,1.34,1.40,1.46,1.52,1.59,1.66,1.73,1.81
+Russia,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",1.84,1.92,2.00,2.10,2.19,2.29,2.39,2.49,2.61,2.74,2.87,3.00,3.14
+Russia,By Nut Type,Almond,Almond,0.30,0.31,0.33,0.35,0.37,0.39,0.41,0.43,0.46,0.49,0.51,0.54,0.57
+Russia,By Nut Type,Cashew,Cashew,0.41,0.44,0.47,0.50,0.54,0.57,0.62,0.66,0.71,0.76,0.82,0.87,0.94
+Russia,By Nut Type,Peanut,Peanut,23.16,24.00,24.88,25.82,26.82,27.89,29.06,30.33,31.67,33.08,34.53,36.01,37.52
+Russia,By Nut Type,Pistachio,Pistachio,0.55,0.58,0.62,0.66,0.70,0.75,0.80,0.86,0.91,0.97,1.04,1.11,1.19
+Russia,By Nut Type,Walnut,Walnut,1.05,1.09,1.14,1.19,1.24,1.30,1.36,1.42,1.49,1.56,1.64,1.72,1.79
+Russia,By Nut Type,Hazelnut,Hazelnut,0.67,0.70,0.73,0.77,0.80,0.84,0.89,0.94,0.99,1.04,1.10,1.15,1.21
+Russia,By Nut Type,Other Nuts,Other Nuts,2.41,2.54,2.68,2.84,3.01,3.20,3.40,3.61,3.82,4.06,4.32,4.59,4.87
+Russia,By Automation Level,Manual,Manual,3.86,4.13,4.39,4.66,4.96,5.29,5.66,6.07,6.51,6.98,7.48,8.02,8.59
+Russia,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,24.69,25.55,26.47,27.46,28.52,29.66,30.87,32.17,33.55,34.99,36.47,37.98,39.50
+Russia,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,9.96,10.32,10.69,11.08,11.51,11.98,12.49,13.03,13.59,14.18,14.80,15.45,16.12
+Russia,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,7.61,7.99,8.41,8.86,9.34,9.87,10.44,11.05,11.70,12.38,13.09,13.84,14.61
+Russia,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,5.14,5.35,5.57,5.81,6.08,6.38,6.70,7.05,7.43,7.82,8.21,8.61,9.01
+Russia,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,4.17,4.30,4.43,4.57,4.70,4.83,4.96,5.12,5.30,5.49,5.68,5.88,6.08
+Russia,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.68,1.72,1.76,1.81,1.85,1.90,1.94,1.99,2.04,2.10,2.16,2.22,2.27
+Rest of Europe,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,4.42,4.49,4.57,4.66,4.76,4.87,4.99,5.10,5.21,5.33,5.46,5.59,5.72
+Rest of Europe,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,9.22,9.58,9.97,10.37,10.77,11.17,11.60,12.07,12.61,13.18,13.78,14.40,15.02
+Rest of Europe,By Equipment Type,Storage Equipment,Silos,3.14,3.19,3.24,3.30,3.36,3.44,3.52,3.62,3.72,3.81,3.91,4.00,4.08
+Rest of Europe,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.80,1.85,1.89,1.93,1.98,2.03,2.09,2.16,2.23,2.30,2.37,2.44,2.52
+Rest of Europe,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,8.52,8.77,9.00,9.22,9.45,9.72,10.05,10.40,10.76,11.13,11.50,11.89,12.30
+Rest of Europe,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",4.34,4.42,4.51,4.61,4.73,4.85,4.97,5.10,5.22,5.36,5.50,5.65,5.80
+Rest of Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,9.72,9.95,10.19,10.45,10.75,11.07,11.40,11.73,12.06,12.41,12.79,13.19,13.58
+Rest of Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,5.81,6.00,6.22,6.43,6.64,6.85,7.08,7.33,7.61,7.91,8.23,8.56,8.88
+Rest of Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,6.78,7.03,7.29,7.59,7.91,8.25,8.61,8.97,9.35,9.75,10.19,10.64,11.11
+Rest of Europe,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,4.36,4.45,4.55,4.65,4.74,4.83,4.91,5.01,5.13,5.26,5.40,5.54,5.67
+Rest of Europe,By Equipment Type,Sorting and Grading Equipment,Optical sorters,8.94,9.54,10.19,10.88,11.59,12.35,13.16,14.06,15.07,16.17,17.35,18.61,19.93
+Rest of Europe,By Equipment Type,Sorting and Grading Equipment,Size graders,4.57,4.70,4.85,4.99,5.14,5.27,5.41,5.57,5.75,5.95,6.16,6.36,6.57
+Rest of Europe,By Equipment Type,Sorting and Grading Equipment,Weight graders,4.23,4.38,4.54,4.71,4.87,5.03,5.20,5.38,5.59,5.82,6.06,6.30,6.55
+Rest of Europe,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.68,1.72,1.76,1.80,1.84,1.89,1.93,1.98,2.03,2.08,2.14,2.19,2.25
+Rest of Europe,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,9.92,10.35,10.82,11.30,11.80,12.28,12.79,13.35,13.97,14.66,15.39,16.13,16.89
+Rest of Europe,By Equipment Type,Thermal Processing Equipment,Roasting systems,4.25,4.47,4.72,4.98,5.24,5.51,5.79,6.10,6.44,6.82,7.23,7.65,8.08
+Rest of Europe,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.86,2.96,3.06,3.17,3.28,3.38,3.48,3.60,3.73,3.88,4.03,4.19,4.34
+Rest of Europe,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",5.13,5.32,5.52,5.73,5.93,6.13,6.34,6.57,6.83,7.11,7.41,7.72,8.02
+Rest of Europe,By Nut Type,Almond,Almond,4.17,4.31,4.47,4.64,4.82,5.03,5.25,5.50,5.76,6.02,6.29,6.56,6.82
+Rest of Europe,By Nut Type,Cashew,Cashew,1.10,1.16,1.23,1.30,1.38,1.45,1.53,1.62,1.72,1.82,1.94,2.06,2.18
+Rest of Europe,By Nut Type,Peanut,Peanut,17.37,17.92,18.49,19.00,19.40,19.66,19.89,20.23,20.79,21.58,22.58,23.63,24.71
+Rest of Europe,By Nut Type,Pistachio,Pistachio,3.95,4.15,4.35,4.58,4.82,5.09,5.37,5.66,5.96,6.29,6.64,7.01,7.40
+Rest of Europe,By Nut Type,Walnut,Walnut,11.36,11.73,12.13,12.56,12.97,13.39,13.83,14.30,14.81,15.36,15.92,16.47,17.03
+Rest of Europe,By Nut Type,Hazelnut,Hazelnut,48.80,50.42,52.15,54.01,56.02,58.19,60.53,63.02,65.60,68.26,70.96,73.74,76.56
+Rest of Europe,By Nut Type,Other Nuts,Other Nuts,12.92,13.47,14.06,14.70,15.38,16.12,16.92,17.78,18.67,19.61,20.57,21.57,22.60
+Rest of Europe,By Automation Level,Manual,Manual,10.47,11.10,11.78,12.51,13.32,14.19,15.14,16.17,17.27,18.43,19.65,20.95,22.31
+Rest of Europe,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,89.21,92.07,95.10,98.26,101.47,104.74,108.18,111.93,116.04,120.50,125.24,130.09,134.99
+Rest of Europe,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,33.48,34.65,36.08,37.64,39.13,40.42,41.58,42.81,44.33,46.18,48.26,50.37,52.49
+Rest of Europe,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,25.97,27.21,28.41,29.60,30.89,32.34,33.99,35.80,37.69,39.63,41.68,43.85,46.13
+Rest of Europe,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,17.52,18.13,18.79,19.51,20.29,21.17,22.12,23.17,24.27,25.41,26.55,27.68,28.81
+Rest of Europe,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,15.42,15.79,16.10,16.39,16.71,17.09,17.55,18.07,18.58,19.09,19.62,20.17,20.73
+Rest of Europe,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",7.29,7.39,7.50,7.63,7.76,7.92,8.08,8.26,8.44,8.62,8.80,8.97,9.14
+China,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,11.22,11.78,12.38,13.04,13.76,14.54,15.37,16.23,17.12,18.09,19.13,20.24,21.40
+China,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,28.68,30.68,32.86,35.24,37.84,40.70,43.84,47.24,50.91,54.85,59.04,63.52,68.27
+China,By Equipment Type,Storage Equipment,Silos,9.47,9.96,10.48,11.05,11.66,12.33,13.05,13.82,14.64,15.50,16.40,17.34,18.32
+China,By Equipment Type,Storage Equipment,Storage bins and hoppers,5.16,5.47,5.78,6.10,6.45,6.83,7.26,7.74,8.25,8.78,9.35,9.95,10.60
+China,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,24.79,26.36,27.93,29.54,31.28,33.23,35.44,37.89,40.47,43.19,46.08,49.21,52.53
+China,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",12.62,13.29,14.00,14.78,15.64,16.57,17.55,18.58,19.65,20.82,22.07,23.41,24.81
+China,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,27.67,29.31,31.09,32.96,34.87,36.88,39.02,41.40,44.06,46.92,50.01,53.24,56.61
+China,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,18.61,19.87,21.23,22.68,24.18,25.76,27.46,29.36,31.48,33.78,36.28,38.92,41.69
+China,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,20.85,22.36,23.89,25.50,27.24,29.19,31.40,33.86,36.48,39.27,42.27,45.53,49.02
+China,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,10.02,10.56,11.15,11.76,12.40,13.03,13.70,14.43,15.25,16.16,17.13,18.13,19.17
+China,By Equipment Type,Sorting and Grading Equipment,Optical sorters,20.29,22.27,24.46,26.91,29.64,32.69,36.11,39.91,44.11,48.73,53.80,59.36,65.44
+China,By Equipment Type,Sorting and Grading Equipment,Size graders,14.07,14.95,15.91,16.92,17.98,19.06,20.20,21.46,22.87,24.43,26.10,27.85,29.69
+China,By Equipment Type,Sorting and Grading Equipment,Weight graders,13.35,14.25,15.24,16.29,17.37,18.52,19.75,21.13,22.66,24.33,26.14,28.05,30.07
+China,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,8.99,9.49,10.03,10.61,11.20,11.80,12.43,13.12,13.89,14.75,15.66,16.61,17.60
+China,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,22.43,24.07,25.86,27.82,29.97,32.33,34.93,37.76,40.83,44.12,47.64,51.41,55.44
+China,By Equipment Type,Thermal Processing Equipment,Roasting systems,15.80,17.12,18.56,20.16,21.94,23.91,26.06,28.37,30.87,33.63,36.68,40.02,43.62
+China,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,12.19,12.99,13.79,14.62,15.52,16.52,17.66,18.92,20.26,21.67,23.17,24.80,26.53
+China,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",22.17,23.63,25.21,26.93,28.81,30.87,33.12,35.55,38.17,40.96,43.92,47.08,50.41
+China,By Nut Type,Almond,Almond,3.53,3.80,4.10,4.43,4.80,5.20,5.64,6.13,6.66,7.23,7.84,8.50,9.21
+China,By Nut Type,Cashew,Cashew,6.17,6.76,7.42,8.14,8.92,9.76,10.69,11.74,12.93,14.25,15.71,17.31,19.05
+China,By Nut Type,Peanut,Peanut,247.21,263.32,280.60,299.16,319.11,340.67,364.18,389.82,417.63,447.65,479.96,514.51,551.13
+China,By Nut Type,Pistachio,Pistachio,4.15,4.51,4.90,5.33,5.82,6.36,6.97,7.65,8.39,9.21,10.09,11.03,12.03
+China,By Nut Type,Walnut,Walnut,26.27,28.14,30.03,31.99,34.12,36.51,39.23,42.23,45.43,48.83,52.48,56.44,60.68
+China,By Nut Type,Hazelnut,Hazelnut,3.51,3.76,4.03,4.33,4.65,5.02,5.42,5.87,6.35,6.88,7.43,8.01,8.62
+China,By Nut Type,Other Nuts,Other Nuts,7.53,8.13,8.79,9.52,10.32,11.23,12.24,13.36,14.60,15.93,17.36,18.88,20.50
+China,By Automation Level,Manual,Manual,22.84,25.08,27.58,30.35,33.35,36.62,40.22,44.22,48.70,53.69,59.16,65.10,71.59
+China,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,275.54,293.34,312.28,332.55,354.39,378.13,404.15,432.57,463.29,496.29,531.71,569.57,609.62
+China,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,101.34,107.71,114.24,121.24,128.97,137.65,147.36,157.86,168.86,180.57,193.14,206.76,221.30
+China,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,78.43,84.52,91.17,98.47,106.51,115.38,125.16,135.85,147.46,159.98,173.45,187.95,203.48
+China,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,56.54,60.71,65.27,70.12,75.18,80.58,86.40,92.90,100.20,108.14,116.79,126.02,135.79
+China,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,43.83,46.33,49.07,51.96,54.95,57.96,61.15,64.65,68.56,72.89,77.51,82.33,87.34
+China,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",18.24,19.14,20.11,21.12,22.13,23.18,24.29,25.53,26.92,28.40,29.98,31.62,33.30
+India,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,9.77,10.42,11.13,11.88,12.68,13.51,14.40,15.38,16.44,17.59,18.82,20.11,21.46
+India,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,21.58,23.27,25.13,27.18,29.45,31.99,34.82,37.97,41.42,45.15,49.14,53.36,57.85
+India,By Equipment Type,Storage Equipment,Silos,6.41,6.81,7.25,7.72,8.24,8.81,9.42,10.09,10.81,11.57,12.37,13.23,14.13
+India,By Equipment Type,Storage Equipment,Storage bins and hoppers,5.50,5.88,6.30,6.75,7.25,7.80,8.40,9.05,9.75,10.50,11.30,12.15,13.06
+India,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,18.93,20.35,21.79,23.30,24.95,26.79,28.89,31.22,33.71,36.37,39.23,42.35,45.70
+India,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",10.92,11.62,12.37,13.20,14.10,15.09,16.16,17.33,18.57,19.90,21.31,22.81,24.39
+India,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,22.77,24.34,26.01,27.87,29.92,32.15,34.56,37.12,39.84,42.80,46.05,49.55,53.27
+India,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,16.20,17.38,18.67,20.09,21.66,23.40,25.35,27.50,29.85,32.38,35.06,37.87,40.86
+India,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,16.87,18.25,19.76,21.43,23.26,25.30,27.54,30.01,32.70,35.61,38.76,42.15,45.81
+India,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,7.71,8.16,8.65,9.18,9.76,10.41,11.12,11.90,12.75,13.64,14.57,15.53,16.53
+India,By Equipment Type,Sorting and Grading Equipment,Optical sorters,15.66,17.36,19.28,21.43,23.85,26.58,29.67,33.14,37.02,41.33,46.10,51.41,57.27
+India,By Equipment Type,Sorting and Grading Equipment,Size graders,10.04,10.76,11.52,12.37,13.30,14.33,15.43,16.61,17.86,19.23,20.74,22.36,24.09
+India,By Equipment Type,Sorting and Grading Equipment,Weight graders,9.40,10.16,10.99,11.89,12.85,13.85,14.93,16.12,17.47,18.98,20.62,22.37,24.25
+India,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,12.46,13.26,14.11,15.05,16.06,17.18,18.39,19.71,21.11,22.61,24.20,25.88,27.66
+India,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,15.86,17.21,18.69,20.32,22.13,24.13,26.36,28.80,31.47,34.38,37.52,40.93,44.61
+India,By Equipment Type,Thermal Processing Equipment,Roasting systems,12.94,14.21,15.61,17.14,18.79,20.59,22.57,24.81,27.36,30.18,33.32,36.75,40.47
+India,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,11.36,12.25,13.22,14.25,15.34,16.51,17.77,19.19,20.77,22.51,24.40,26.44,28.60
+India,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",12.28,13.26,14.27,15.33,16.48,17.79,19.27,20.92,22.69,24.59,26.65,28.90,31.33
+India,By Nut Type,Almond,Almond,3.84,4.19,4.58,5.00,5.45,5.94,6.48,7.08,7.77,8.52,9.35,10.26,11.24
+India,By Nut Type,Cashew,Cashew,7.71,8.51,9.40,10.40,11.52,12.78,14.20,15.78,17.54,19.49,21.64,24.01,26.62
+India,By Nut Type,Peanut,Peanut,197.41,212.02,227.80,244.97,263.75,284.41,307.24,332.30,359.53,389.01,420.81,454.99,491.54
+India,By Nut Type,Pistachio,Pistachio,4.18,4.58,5.03,5.52,6.08,6.71,7.42,8.22,9.11,10.09,11.16,12.31,13.56
+India,By Nut Type,Walnut,Walnut,7.35,7.90,8.51,9.18,9.92,10.75,11.67,12.69,13.81,15.02,16.30,17.66,19.09
+India,By Nut Type,Hazelnut,Hazelnut,3.47,3.76,4.08,4.43,4.83,5.27,5.74,6.26,6.82,7.43,8.11,8.86,9.66
+India,By Nut Type,Other Nuts,Other Nuts,12.71,13.95,15.34,16.87,18.52,20.33,22.32,24.53,27.01,29.76,32.78,36.06,39.63
+India,By Automation Level,Manual,Manual,29.82,32.90,36.34,40.18,44.49,49.34,54.78,60.87,67.63,75.11,83.36,92.46,102.47
+India,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,206.84,222.01,238.40,256.20,275.59,296.86,320.29,346.01,373.96,404.21,436.79,471.67,508.86
+India,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,79.41,85.10,91.32,97.96,105.18,113.18,122.23,132.46,143.76,155.76,168.21,181.32,195.23
+India,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,64.83,70.60,76.90,83.97,91.86,100.61,110.21,120.63,131.92,144.44,158.35,173.62,190.23
+India,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,45.64,49.38,53.44,57.98,63.02,68.58,74.64,81.18,88.21,95.96,104.53,113.87,123.96
+India,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,32.89,35.12,37.53,40.08,42.73,45.53,48.54,51.89,55.64,59.70,64.11,68.77,73.68
+India,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",13.89,14.72,15.54,16.38,17.28,18.30,19.45,20.72,22.06,23.46,24.95,26.55,28.24
+Japan,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,3.44,3.57,3.71,3.85,4.00,4.14,4.29,4.46,4.65,4.86,5.07,5.29,5.52
+Japan,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,8.49,8.96,9.46,10.00,10.60,11.24,11.94,12.69,13.48,14.33,15.21,16.14,17.11
+Japan,By Equipment Type,Storage Equipment,Silos,3.00,3.12,3.23,3.34,3.46,3.59,3.74,3.91,4.08,4.25,4.44,4.63,4.83
+Japan,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.83,1.90,1.98,2.07,2.16,2.26,2.38,2.50,2.63,2.77,2.91,3.04,3.18
+Japan,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,7.31,7.66,8.00,8.35,8.72,9.13,9.60,10.12,10.66,11.22,11.81,12.43,13.09
+Japan,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",3.83,3.99,4.17,4.35,4.54,4.73,4.93,5.15,5.38,5.63,5.89,6.15,6.42
+Japan,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,8.48,8.84,9.21,9.63,10.08,10.56,11.08,11.60,12.14,12.73,13.35,14.02,14.70
+Japan,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,5.60,5.89,6.22,6.56,6.91,7.26,7.63,8.04,8.49,9.00,9.53,10.09,10.66
+Japan,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,6.06,6.41,6.75,7.11,7.49,7.91,8.40,8.93,9.49,10.07,10.69,11.36,12.06
+Japan,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,3.97,4.12,4.26,4.43,4.61,4.80,5.00,5.21,5.42,5.64,5.88,6.14,6.39
+Japan,By Equipment Type,Sorting and Grading Equipment,Optical sorters,7.53,8.15,8.83,9.59,10.44,11.37,12.39,13.49,14.67,15.98,17.42,19.00,20.70
+Japan,By Equipment Type,Sorting and Grading Equipment,Size graders,4.83,5.05,5.26,5.48,5.71,5.97,6.26,6.59,6.92,7.27,7.63,8.02,8.42
+Japan,By Equipment Type,Sorting and Grading Equipment,Weight graders,4.14,4.35,4.57,4.78,5.01,5.27,5.56,5.89,6.23,6.58,6.95,7.34,7.76
+Japan,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.66,1.73,1.80,1.88,1.95,2.02,2.10,2.19,2.29,2.39,2.50,2.62,2.73
+Japan,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,8.42,8.92,9.45,10.03,10.67,11.37,12.11,12.89,13.71,14.60,15.57,16.60,17.69
+Japan,By Equipment Type,Thermal Processing Equipment,Roasting systems,3.90,4.15,4.42,4.72,5.06,5.42,5.83,6.28,6.76,7.28,7.83,8.39,8.99
+Japan,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.76,2.90,3.05,3.21,3.37,3.54,3.71,3.91,4.13,4.37,4.62,4.88,5.15
+Japan,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",6.96,7.33,7.69,8.06,8.46,8.90,9.41,9.96,10.54,11.15,11.78,12.47,13.18
+Japan,By Nut Type,Almond,Almond,1.18,1.26,1.33,1.41,1.51,1.61,1.71,1.83,1.94,2.07,2.21,2.36,2.52
+Japan,By Nut Type,Cashew,Cashew,2.21,2.37,2.54,2.73,2.94,3.18,3.44,3.72,4.04,4.37,4.73,5.10,5.50
+Japan,By Nut Type,Peanut,Peanut,59.12,61.82,64.66,67.70,70.98,74.51,78.32,82.38,86.67,91.24,96.11,101.22,106.52
+Japan,By Nut Type,Pistachio,Pistachio,1.10,1.18,1.27,1.37,1.47,1.58,1.70,1.83,1.97,2.12,2.29,2.46,2.65
+Japan,By Nut Type,Walnut,Walnut,4.03,4.25,4.48,4.73,4.98,5.23,5.50,5.80,6.13,6.49,6.88,7.28,7.69
+Japan,By Nut Type,Hazelnut,Hazelnut,1.90,2.01,2.12,2.24,2.38,2.52,2.68,2.84,3.01,3.20,3.40,3.61,3.83
+Japan,By Nut Type,Other Nuts,Other Nuts,22.65,24.16,25.68,27.24,28.94,30.85,33.01,35.40,37.93,40.61,43.47,46.57,49.87
+Japan,By Automation Level,Manual,Manual,4.28,4.63,5.00,5.42,5.89,6.40,6.96,7.56,8.20,8.92,9.70,10.56,11.48
+Japan,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,87.91,92.41,97.08,102.01,107.31,113.08,119.40,126.23,133.48,141.18,149.38,158.04,167.10
+Japan,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,32.37,33.99,35.69,37.45,39.30,41.29,43.46,45.86,48.45,51.22,54.17,57.27,60.51
+Japan,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,23.64,25.15,26.77,28.56,30.53,32.67,34.97,37.41,39.97,42.77,45.82,49.09,52.56
+Japan,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,16.11,17.02,18.00,19.06,20.21,21.46,22.83,24.29,25.85,27.50,29.24,31.06,32.97
+Japan,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,14.12,14.71,15.27,15.83,16.42,17.09,17.87,18.72,19.59,20.49,21.42,22.42,23.45
+Japan,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.96,6.16,6.35,6.54,6.74,6.96,7.23,7.52,7.82,8.12,8.43,8.76,9.10
+South Korea,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.21,2.30,2.39,2.49,2.61,2.73,2.86,2.99,3.12,3.26,3.42,3.58,3.75
+South Korea,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,6.30,6.66,7.05,7.47,7.93,8.44,9.00,9.62,10.29,10.99,11.72,12.47,13.25
+South Korea,By Equipment Type,Storage Equipment,Silos,2.18,2.28,2.39,2.49,2.60,2.71,2.83,2.96,3.10,3.26,3.42,3.59,3.77
+South Korea,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.48,1.56,1.64,1.73,1.82,1.91,2.00,2.11,2.22,2.35,2.49,2.63,2.77
+South Korea,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,5.51,5.79,6.09,6.42,6.77,7.15,7.56,8.01,8.47,8.97,9.48,10.02,10.57
+South Korea,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",3.05,3.17,3.30,3.44,3.59,3.76,3.95,4.15,4.36,4.59,4.81,5.04,5.27
+South Korea,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,6.03,6.33,6.66,7.00,7.35,7.70,8.07,8.47,8.92,9.42,9.95,10.49,11.06
+South Korea,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,4.06,4.29,4.55,4.82,5.10,5.39,5.69,6.02,6.39,6.80,7.23,7.69,8.16
+South Korea,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,4.38,4.66,4.93,5.21,5.51,5.85,6.24,6.66,7.11,7.58,8.09,8.63,9.20
+South Korea,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,2.85,2.97,3.09,3.22,3.37,3.53,3.69,3.86,4.03,4.22,4.42,4.63,4.85
+South Korea,By Equipment Type,Sorting and Grading Equipment,Optical sorters,5.30,5.77,6.28,6.84,7.46,8.16,8.93,9.78,10.71,11.72,12.82,14.02,15.32
+South Korea,By Equipment Type,Sorting and Grading Equipment,Size graders,2.98,3.14,3.31,3.49,3.68,3.87,4.08,4.30,4.54,4.80,5.07,5.35,5.64
+South Korea,By Equipment Type,Sorting and Grading Equipment,Weight graders,2.73,2.88,3.05,3.22,3.41,3.62,3.84,4.08,4.34,4.60,4.89,5.18,5.49
+South Korea,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.91,2.00,2.08,2.16,2.24,2.34,2.45,2.58,2.70,2.83,2.97,3.11,3.26
+South Korea,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,6.21,6.62,7.07,7.54,8.03,8.55,9.10,9.72,10.41,11.16,11.97,12.83,13.73
+South Korea,By Equipment Type,Thermal Processing Equipment,Roasting systems,3.00,3.22,3.46,3.72,4.02,4.34,4.68,5.05,5.44,5.88,6.35,6.86,7.41
+South Korea,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.18,2.30,2.42,2.56,2.71,2.87,3.04,3.22,3.41,3.61,3.83,4.07,4.31
+South Korea,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",4.01,4.25,4.51,4.79,5.07,5.36,5.67,6.00,6.38,6.80,7.24,7.71,8.19
+South Korea,By Nut Type,Almond,Almond,1.14,1.22,1.31,1.40,1.50,1.60,1.71,1.83,1.96,2.11,2.26,2.42,2.59
+South Korea,By Nut Type,Cashew,Cashew,1.62,1.76,1.91,2.07,2.25,2.44,2.64,2.87,3.11,3.39,3.69,4.00,4.34
+South Korea,By Nut Type,Peanut,Peanut,42.80,44.97,47.28,49.72,52.30,55.03,58.01,61.28,64.85,68.67,72.66,76.80,81.10
+South Korea,By Nut Type,Pistachio,Pistachio,0.87,0.93,1.00,1.08,1.17,1.26,1.36,1.47,1.60,1.73,1.87,2.02,2.18
+South Korea,By Nut Type,Walnut,Walnut,2.80,2.96,3.13,3.31,3.50,3.69,3.90,4.13,4.39,4.66,4.96,5.27,5.59
+South Korea,By Nut Type,Hazelnut,Hazelnut,1.30,1.38,1.47,1.57,1.67,1.77,1.87,1.99,2.12,2.27,2.43,2.59,2.77
+South Korea,By Nut Type,Other Nuts,Other Nuts,15.86,16.96,18.14,19.46,20.90,22.48,24.19,26.00,27.92,30.02,32.33,34.81,37.46
+South Korea,By Automation Level,Manual,Manual,3.46,3.76,4.08,4.44,4.83,5.27,5.75,6.28,6.86,7.50,8.18,8.92,9.72
+South Korea,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,62.93,66.42,70.17,74.18,78.44,83.00,87.93,93.29,99.09,105.35,112.00,118.99,126.30
+South Korea,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,22.91,24.07,25.27,26.57,28.00,29.60,31.38,33.31,35.36,37.51,39.80,42.25,44.79
+South Korea,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,16.51,17.71,19.03,20.46,21.96,23.56,25.27,27.15,29.21,31.46,33.87,36.41,39.11
+South Korea,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,11.92,12.70,13.55,14.45,15.39,16.35,17.38,18.51,19.77,21.17,22.68,24.26,25.93
+South Korea,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,10.35,10.81,11.30,11.83,12.40,13.02,13.69,14.40,15.15,15.93,16.73,17.57,18.44
+South Korea,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",4.70,4.89,5.10,5.31,5.53,5.74,5.96,6.20,6.48,6.78,7.10,7.42,7.75
+ASEAN,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,7.07,7.45,7.85,8.29,8.77,9.30,9.88,10.52,11.21,11.93,12.68,13.44,14.23
+ASEAN,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,15.59,16.83,18.20,19.67,21.24,22.88,24.66,26.62,28.82,31.28,33.97,36.84,39.90
+ASEAN,By Equipment Type,Storage Equipment,Silos,4.86,5.15,5.44,5.73,6.05,6.41,6.81,7.26,7.73,8.22,8.75,9.31,9.91
+ASEAN,By Equipment Type,Storage Equipment,Storage bins and hoppers,4.53,4.80,5.10,5.43,5.79,6.19,6.62,7.11,7.63,8.18,8.76,9.36,9.98
+ASEAN,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,14.80,15.74,16.77,17.89,19.12,20.48,21.99,23.66,25.46,27.38,29.39,31.48,33.66
+ASEAN,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",7.94,8.43,8.97,9.55,10.14,10.75,11.40,12.11,12.90,13.78,14.72,15.71,16.74
+ASEAN,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,16.03,17.09,18.25,19.49,20.78,22.10,23.51,25.06,26.80,28.73,30.80,32.99,35.28
+ASEAN,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,11.27,12.06,12.92,13.87,14.90,16.03,17.27,18.62,20.08,21.64,23.30,25.08,26.97
+ASEAN,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,12.16,13.09,14.10,15.22,16.46,17.83,19.31,20.89,22.59,24.45,26.51,28.73,31.13
+ASEAN,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,5.87,6.22,6.61,7.02,7.45,7.90,8.38,8.89,9.46,10.07,10.71,11.38,12.09
+ASEAN,By Equipment Type,Sorting and Grading Equipment,Optical sorters,11.78,13.05,14.48,16.08,17.82,19.74,21.87,24.26,26.95,29.97,33.32,36.99,41.03
+ASEAN,By Equipment Type,Sorting and Grading Equipment,Size graders,7.37,7.87,8.41,8.98,9.58,10.21,10.88,11.64,12.48,13.39,14.39,15.43,16.54
+ASEAN,By Equipment Type,Sorting and Grading Equipment,Weight graders,6.67,7.18,7.73,8.33,8.96,9.64,10.36,11.16,12.03,12.99,14.02,15.11,16.27
+ASEAN,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,7.75,8.18,8.64,9.14,9.68,10.29,10.96,11.69,12.48,13.31,14.17,15.05,15.96
+ASEAN,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,11.03,11.94,12.95,14.05,15.22,16.44,17.77,19.24,20.90,22.76,24.79,26.97,29.30
+ASEAN,By Equipment Type,Thermal Processing Equipment,Roasting systems,8.90,9.73,10.65,11.65,12.73,13.88,15.13,16.53,18.12,19.90,21.87,24.00,26.31
+ASEAN,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,7.80,8.34,8.92,9.57,10.28,11.06,11.91,12.80,13.75,14.79,15.93,17.16,18.47
+ASEAN,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",9.45,10.17,10.96,11.82,12.73,13.70,14.74,15.89,17.15,18.53,20.01,21.58,23.26
+ASEAN,By Nut Type,Almond,Almond,3.86,4.15,4.48,4.84,5.24,5.68,6.18,6.73,7.33,7.98,8.67,9.41,10.19
+ASEAN,By Nut Type,Cashew,Cashew,16.45,18.03,19.76,21.72,23.91,26.35,29.05,31.99,35.21,38.79,42.80,47.22,52.06
+ASEAN,By Nut Type,Peanut,Peanut,124.35,132.71,141.85,151.67,162.12,173.21,185.23,198.48,213.11,229.11,246.21,264.24,283.27
+ASEAN,By Nut Type,Pistachio,Pistachio,1.74,1.90,2.08,2.29,2.50,2.74,3.00,3.29,3.62,3.98,4.37,4.79,5.26
+ASEAN,By Nut Type,Walnut,Walnut,6.18,6.62,7.09,7.62,8.20,8.83,9.51,10.24,11.01,11.86,12.79,13.79,14.86
+ASEAN,By Nut Type,Hazelnut,Hazelnut,2.36,2.54,2.73,2.95,3.19,3.45,3.73,4.04,4.36,4.72,5.12,5.54,6.00
+ASEAN,By Nut Type,Other Nuts,Other Nuts,15.94,17.37,18.95,20.68,22.54,24.56,26.75,29.19,31.88,34.87,38.12,41.61,45.39
+ASEAN,By Automation Level,Manual,Manual,19.96,21.97,24.09,26.38,28.92,31.80,35.10,38.83,42.92,47.41,52.35,57.85,63.91
+ASEAN,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,150.92,161.35,172.87,185.39,198.78,213.02,228.36,245.13,263.61,283.90,305.72,328.75,353.12
+ASEAN,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,59.19,63.21,67.60,72.35,77.46,82.93,88.87,95.43,102.67,110.68,119.35,128.53,138.27
+ASEAN,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,46.90,50.80,55.08,59.81,65.02,70.80,77.19,84.22,91.88,100.21,109.20,118.94,129.43
+ASEAN,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,29.75,32.12,34.75,37.58,40.59,43.74,47.14,50.90,55.13,59.86,65.02,70.53,76.42
+ASEAN,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,23.32,24.80,26.42,28.16,29.97,31.87,33.90,36.11,38.51,41.12,43.89,46.78,49.83
+ASEAN,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",11.72,12.38,13.10,13.87,14.66,15.48,16.36,17.30,18.33,19.44,20.61,21.82,23.08
+Australia,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.98,3.08,3.18,3.29,3.39,3.50,3.61,3.73,3.85,3.99,4.13,4.27,4.41
+Australia,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,7.57,7.96,8.38,8.83,9.28,9.76,10.26,10.81,11.39,12.03,12.69,13.37,14.08
+Australia,By Equipment Type,Storage Equipment,Silos,2.47,2.55,2.64,2.73,2.82,2.90,2.99,3.08,3.19,3.31,3.44,3.57,3.69
+Australia,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.62,1.68,1.74,1.81,1.88,1.95,2.02,2.10,2.19,2.28,2.38,2.49,2.59
+Australia,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,6.34,6.56,6.80,7.05,7.33,7.65,7.99,8.36,8.76,9.16,9.57,9.97,10.38
+Australia,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",3.32,3.43,3.56,3.69,3.81,3.94,4.08,4.22,4.38,4.55,4.72,4.89,5.06
+Australia,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,6.83,7.08,7.36,7.66,7.95,8.25,8.57,8.90,9.27,9.66,10.06,10.46,10.87
+Australia,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,4.75,4.96,5.16,5.36,5.57,5.81,6.08,6.38,6.69,7.01,7.35,7.70,8.07
+Australia,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,5.45,5.72,6.01,6.32,6.63,6.95,7.29,7.66,8.08,8.54,9.02,9.52,10.03
+Australia,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,3.54,3.64,3.74,3.85,3.98,4.11,4.25,4.39,4.53,4.68,4.84,5.01,5.18
+Australia,By Equipment Type,Sorting and Grading Equipment,Optical sorters,6.24,6.71,7.21,7.78,8.40,9.08,9.82,10.61,11.45,12.38,13.40,14.50,15.68
+Australia,By Equipment Type,Sorting and Grading Equipment,Size graders,3.62,3.75,3.89,4.04,4.20,4.37,4.56,4.76,4.96,5.18,5.39,5.62,5.85
+Australia,By Equipment Type,Sorting and Grading Equipment,Weight graders,3.40,3.55,3.69,3.84,3.99,4.16,4.36,4.58,4.80,5.04,5.28,5.54,5.81
+Australia,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.67,1.72,1.77,1.83,1.89,1.96,2.03,2.10,2.17,2.25,2.33,2.42,2.50
+Australia,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,6.52,6.83,7.16,7.52,7.91,8.34,8.82,9.34,9.90,10.49,11.08,11.69,12.31
+Australia,By Equipment Type,Thermal Processing Equipment,Roasting systems,3.62,3.85,4.11,4.37,4.65,4.94,5.24,5.57,5.95,6.36,6.80,7.27,7.76
+Australia,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.37,2.46,2.56,2.67,2.79,2.92,3.06,3.20,3.36,3.52,3.68,3.85,4.03
+Australia,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",5.97,6.25,6.56,6.88,7.21,7.55,7.91,8.30,8.71,9.16,9.63,10.11,10.60
+Australia,By Nut Type,Almond,Almond,19.98,20.92,21.83,22.73,23.70,24.79,26.05,27.42,28.84,30.31,31.85,33.49,35.21
+Australia,By Nut Type,Cashew,Cashew,2.31,2.44,2.58,2.74,2.90,3.09,3.30,3.52,3.77,4.03,4.29,4.57,4.85
+Australia,By Nut Type,Peanut,Peanut,14.88,15.32,16.04,16.93,17.80,18.55,19.13,19.73,20.49,21.45,22.48,23.40,24.29
+Australia,By Nut Type,Pistachio,Pistachio,1.88,1.98,2.09,2.21,2.34,2.48,2.64,2.80,2.98,3.17,3.36,3.56,3.78
+Australia,By Nut Type,Walnut,Walnut,7.54,7.80,8.09,8.39,8.71,9.06,9.44,9.85,10.27,10.70,11.14,11.60,12.06
+Australia,By Nut Type,Hazelnut,Hazelnut,1.21,1.26,1.31,1.35,1.41,1.46,1.53,1.60,1.68,1.76,1.84,1.92,2.01
+Australia,By Nut Type,Other Nuts,Other Nuts,30.48,32.06,33.60,35.15,36.82,38.69,40.83,43.17,45.62,48.16,50.83,53.69,56.70
+Australia,By Automation Level,Manual,Manual,4.51,4.84,5.19,5.57,6.00,6.46,6.97,7.52,8.12,8.76,9.45,10.18,10.97
+Australia,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,73.77,76.95,80.33,83.93,87.69,91.67,95.95,100.57,105.52,110.80,116.35,122.05,127.93
+Australia,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,26.36,27.42,28.58,29.80,31.07,32.43,33.91,35.54,37.31,39.19,41.09,43.00,44.97
+Australia,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,20.72,21.88,23.10,24.46,25.94,27.55,29.26,31.05,32.92,34.95,37.16,39.50,41.97
+Australia,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,14.06,14.80,15.61,16.46,17.34,18.25,19.21,20.25,21.38,22.59,23.87,25.18,26.54
+Australia,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,11.38,11.77,12.19,12.61,13.02,13.44,13.88,14.38,14.94,15.53,16.16,16.80,17.44
+Australia,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.76,5.92,6.05,6.17,6.31,6.47,6.66,6.88,7.09,7.31,7.53,7.76,7.99
+Rest of Asia Pacific,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.54,2.63,2.71,2.78,2.87,2.96,3.07,3.20,3.32,3.45,3.58,3.71,3.86
+Rest of Asia Pacific,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,5.82,6.11,6.41,6.74,7.10,7.50,7.94,8.42,8.93,9.47,10.02,10.58,11.16
+Rest of Asia Pacific,By Equipment Type,Storage Equipment,Silos,1.70,1.76,1.83,1.90,1.97,2.05,2.12,2.21,2.30,2.39,2.49,2.59,2.69
+Rest of Asia Pacific,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.33,1.38,1.43,1.49,1.55,1.62,1.69,1.78,1.86,1.95,2.05,2.14,2.23
+Rest of Asia Pacific,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,4.93,5.16,5.40,5.65,5.90,6.16,6.43,6.73,7.07,7.43,7.82,8.22,8.62
+Rest of Asia Pacific,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",2.66,2.75,2.85,2.96,3.07,3.20,3.33,3.47,3.60,3.75,3.91,4.07,4.24
+Rest of Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,5.89,6.10,6.32,6.56,6.82,7.11,7.43,7.78,8.15,8.53,8.91,9.29,9.67
+Rest of Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,4.05,4.25,4.46,4.69,4.91,5.14,5.39,5.66,5.97,6.29,6.64,7.01,7.38
+Rest of Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,4.31,4.53,4.77,5.03,5.32,5.63,5.96,6.31,6.67,7.06,7.48,7.92,8.39
+Rest of Asia Pacific,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,2.09,2.16,2.23,2.31,2.39,2.48,2.57,2.67,2.78,2.89,3.00,3.11,3.22
+Rest of Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Optical sorters,3.81,4.12,4.47,4.84,5.23,5.65,6.10,6.62,7.19,7.82,8.52,9.26,10.06
+Rest of Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Size graders,2.87,2.99,3.11,3.22,3.35,3.49,3.65,3.82,4.01,4.19,4.39,4.60,4.81
+Rest of Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Weight graders,2.59,2.71,2.84,2.98,3.14,3.30,3.48,3.66,3.85,4.06,4.28,4.51,4.76
+Rest of Asia Pacific,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,3.17,3.28,3.40,3.52,3.66,3.81,3.96,4.12,4.28,4.45,4.64,4.83,5.03
+Rest of Asia Pacific,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,3.80,4.02,4.27,4.53,4.80,5.09,5.39,5.72,6.08,6.47,6.87,7.30,7.74
+Rest of Asia Pacific,By Equipment Type,Thermal Processing Equipment,Roasting systems,3.60,3.82,4.06,4.32,4.61,4.93,5.28,5.67,6.09,6.53,7.00,7.48,7.99
+Rest of Asia Pacific,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.75,2.88,3.02,3.17,3.32,3.47,3.63,3.81,4.01,4.23,4.46,4.70,4.94
+Rest of Asia Pacific,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",4.55,4.75,4.96,5.20,5.46,5.74,6.05,6.40,6.76,7.14,7.52,7.91,8.31
+Rest of Asia Pacific,By Nut Type,Almond,Almond,0.60,0.63,0.67,0.71,0.75,0.80,0.85,0.91,0.97,1.03,1.10,1.17,1.24
+Rest of Asia Pacific,By Nut Type,Cashew,Cashew,1.60,1.71,1.83,1.97,2.11,2.28,2.46,2.66,2.88,3.11,3.36,3.62,3.89
+Rest of Asia Pacific,By Nut Type,Peanut,Peanut,49.69,51.81,54.06,56.46,59.01,61.79,64.80,68.06,71.56,75.24,79.12,83.12,87.23
+Rest of Asia Pacific,By Nut Type,Pistachio,Pistachio,1.19,1.28,1.37,1.48,1.58,1.70,1.82,1.96,2.11,2.27,2.44,2.62,2.82
+Rest of Asia Pacific,By Nut Type,Walnut,Walnut,1.86,1.95,2.05,2.15,2.26,2.39,2.52,2.66,2.81,2.96,3.12,3.29,3.46
+Rest of Asia Pacific,By Nut Type,Hazelnut,Hazelnut,1.08,1.14,1.21,1.28,1.36,1.44,1.52,1.61,1.71,1.81,1.92,2.04,2.16
+Rest of Asia Pacific,By Nut Type,Other Nuts,Other Nuts,6.44,6.87,7.34,7.85,8.38,8.94,9.54,10.19,10.90,11.68,12.50,13.37,14.28
+Rest of Asia Pacific,By Automation Level,Manual,Manual,6.67,7.19,7.75,8.35,8.98,9.65,10.38,11.20,12.11,13.11,14.21,15.37,16.62
+Rest of Asia Pacific,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,55.79,58.21,60.79,63.54,66.49,69.67,73.12,76.85,80.81,84.99,89.36,93.86,98.47
+Rest of Asia Pacific,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,21.78,22.69,23.68,24.73,25.83,27.05,28.39,29.88,31.49,33.17,34.92,36.68,38.48
+Rest of Asia Pacific,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,15.97,16.91,17.93,19.04,20.24,21.55,22.98,24.52,26.16,27.90,29.73,31.67,33.70
+Rest of Asia Pacific,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,10.76,11.36,12.02,12.71,13.42,14.14,14.90,15.73,16.66,17.68,18.78,19.92,21.11
+Rest of Asia Pacific,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,9.67,10.01,10.37,10.77,11.21,11.68,12.17,12.67,13.18,13.72,14.31,14.93,15.56
+Rest of Asia Pacific,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",4.29,4.42,4.54,4.65,4.77,4.91,5.08,5.26,5.44,5.63,5.82,6.03,6.23
+Brazil,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.67,2.78,2.89,3.00,3.11,3.24,3.39,3.55,3.72,3.90,4.08,4.27,4.47
+Brazil,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,5.77,6.14,6.55,6.99,7.45,7.93,8.44,9.00,9.61,10.27,10.97,11.70,12.48
+Brazil,By Equipment Type,Storage Equipment,Silos,1.86,1.94,2.02,2.09,2.18,2.27,2.38,2.50,2.62,2.75,2.88,3.02,3.16
+Brazil,By Equipment Type,Storage Equipment,Storage bins and hoppers,1.36,1.42,1.48,1.55,1.63,1.72,1.81,1.92,2.03,2.14,2.26,2.38,2.50
+Brazil,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,4.26,4.50,4.75,5.02,5.30,5.57,5.87,6.19,6.55,6.94,7.37,7.81,8.26
+Brazil,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",3.37,3.50,3.65,3.80,3.97,4.16,4.37,4.59,4.83,5.08,5.33,5.59,5.84
+Brazil,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,5.59,5.87,6.17,6.48,6.79,7.12,7.46,7.84,8.27,8.73,9.22,9.72,10.24
+Brazil,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,4.24,4.47,4.72,4.99,5.28,5.60,5.95,6.32,6.71,7.13,7.57,8.03,8.50
+Brazil,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,4.54,4.82,5.11,5.44,5.80,6.19,6.60,7.04,7.50,8.00,8.55,9.13,9.75
+Brazil,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,1.60,1.67,1.75,1.83,1.91,2.00,2.09,2.18,2.29,2.40,2.52,2.63,2.76
+Brazil,By Equipment Type,Sorting and Grading Equipment,Optical sorters,3.32,3.61,3.93,4.28,4.68,5.11,5.60,6.13,6.72,7.36,8.05,8.80,9.62
+Brazil,By Equipment Type,Sorting and Grading Equipment,Size graders,3.34,3.51,3.70,3.90,4.09,4.30,4.51,4.75,5.02,5.31,5.62,5.94,6.28
+Brazil,By Equipment Type,Sorting and Grading Equipment,Weight graders,2.34,2.47,2.61,2.76,2.92,3.10,3.29,3.50,3.72,3.95,4.20,4.45,4.72
+Brazil,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,2.98,3.10,3.22,3.36,3.51,3.67,3.85,4.05,4.26,4.48,4.69,4.91,5.13
+Brazil,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,3.84,4.10,4.37,4.67,4.97,5.29,5.64,6.02,6.45,6.92,7.43,7.96,8.52
+Brazil,By Equipment Type,Thermal Processing Equipment,Roasting systems,3.46,3.72,4.01,4.33,4.66,5.01,5.38,5.80,6.26,6.78,7.34,7.94,8.58
+Brazil,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,2.73,2.88,3.05,3.23,3.42,3.61,3.80,4.02,4.26,4.53,4.82,5.12,5.43
+Brazil,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",2.67,2.81,2.96,3.13,3.31,3.51,3.73,3.97,4.23,4.50,4.79,5.08,5.37
+Brazil,By Nut Type,Almond,Almond,1.38,1.47,1.57,1.68,1.80,1.93,2.07,2.22,2.38,2.56,2.75,2.95,3.17
+Brazil,By Nut Type,Cashew,Cashew,1.99,2.16,2.35,2.55,2.77,3.00,3.26,3.53,3.85,4.20,4.59,5.00,5.45
+Brazil,By Nut Type,Peanut,Peanut,49.74,52.38,55.23,58.27,61.48,64.92,68.62,72.66,77.05,81.75,86.71,91.88,97.27
+Brazil,By Nut Type,Pistachio,Pistachio,0.67,0.72,0.78,0.84,0.90,0.97,1.05,1.14,1.24,1.34,1.45,1.57,1.71
+Brazil,By Nut Type,Walnut,Walnut,1.69,1.79,1.89,1.99,2.10,2.22,2.36,2.52,2.68,2.85,3.03,3.22,3.42
+Brazil,By Nut Type,Hazelnut,Hazelnut,1.05,1.12,1.19,1.27,1.35,1.44,1.54,1.65,1.76,1.89,2.01,2.15,2.30
+Brazil,By Nut Type,Other Nuts,Other Nuts,3.41,3.67,3.95,4.25,4.57,4.91,5.26,5.66,6.10,6.60,7.13,7.71,8.31
+Brazil,By Automation Level,Manual,Manual,6.07,6.59,7.17,7.80,8.47,9.18,9.95,10.81,11.77,12.85,14.04,15.31,16.68
+Brazil,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,53.86,56.72,59.78,63.05,66.51,70.21,74.22,78.58,83.29,88.32,93.64,99.18,104.94
+Brazil,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,19.97,21.09,22.36,23.73,25.11,26.49,27.89,29.43,31.18,33.16,35.30,37.50,39.77
+Brazil,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,15.33,16.40,17.48,18.60,19.82,21.18,22.73,24.44,26.27,28.20,30.27,32.52,34.92
+Brazil,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,11.42,12.11,12.86,13.66,14.54,15.50,16.54,17.67,18.87,20.14,21.49,22.91,24.41
+Brazil,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,9.44,9.82,10.23,10.67,11.15,11.68,12.27,12.91,13.59,14.29,15.00,15.71,16.43
+Brazil,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",3.76,3.89,4.04,4.19,4.36,4.54,4.74,4.94,5.16,5.38,5.61,5.85,6.09
+Argentina,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.19,1.23,1.28,1.33,1.38,1.43,1.48,1.54,1.60,1.67,1.74,1.82,1.89
+Argentina,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,3.35,3.55,3.73,3.93,4.13,4.37,4.63,4.92,5.22,5.54,5.88,6.24,6.62
+Argentina,By Equipment Type,Storage Equipment,Silos,1.20,1.24,1.30,1.35,1.41,1.46,1.52,1.59,1.66,1.73,1.81,1.89,1.97
+Argentina,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.83,0.87,0.91,0.94,0.98,1.03,1.08,1.13,1.19,1.24,1.31,1.37,1.44
+Argentina,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,2.48,2.60,2.74,2.88,3.03,3.18,3.34,3.51,3.69,3.89,4.10,4.32,4.54
+Argentina,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.91,1.98,2.07,2.15,2.23,2.32,2.41,2.51,2.62,2.75,2.87,3.00,3.14
+Argentina,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,3.38,3.53,3.69,3.85,4.02,4.19,4.36,4.56,4.79,5.03,5.28,5.54,5.81
+Argentina,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,2.34,2.45,2.57,2.71,2.86,3.02,3.19,3.36,3.54,3.74,3.95,4.18,4.41
+Argentina,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,2.68,2.83,2.98,3.15,3.34,3.54,3.76,4.00,4.25,4.51,4.79,5.08,5.38
+Argentina,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,0.91,0.94,0.97,1.00,1.03,1.07,1.11,1.16,1.21,1.26,1.31,1.37,1.42
+Argentina,By Equipment Type,Sorting and Grading Equipment,Optical sorters,1.88,2.04,2.21,2.38,2.57,2.79,3.03,3.30,3.60,3.92,4.27,4.65,5.06
+Argentina,By Equipment Type,Sorting and Grading Equipment,Size graders,1.92,2.01,2.10,2.20,2.30,2.40,2.51,2.63,2.77,2.91,3.06,3.22,3.38
+Argentina,By Equipment Type,Sorting and Grading Equipment,Weight graders,1.43,1.51,1.59,1.67,1.76,1.85,1.94,2.05,2.17,2.29,2.43,2.57,2.71
+Argentina,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.88,1.94,2.01,2.08,2.17,2.25,2.35,2.46,2.57,2.69,2.81,2.92,3.04
+Argentina,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,2.21,2.34,2.49,2.64,2.80,2.96,3.14,3.34,3.56,3.79,4.05,4.32,4.60
+Argentina,By Equipment Type,Thermal Processing Equipment,Roasting systems,1.84,1.97,2.10,2.25,2.41,2.59,2.78,2.99,3.22,3.46,3.72,3.99,4.28
+Argentina,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.68,1.77,1.86,1.96,2.06,2.16,2.26,2.38,2.52,2.66,2.81,2.97,3.13
+Argentina,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",2.62,2.76,2.91,3.06,3.22,3.39,3.57,3.76,3.98,4.22,4.47,4.74,5.01
+Argentina,By Nut Type,Almond,Almond,0.73,0.77,0.82,0.87,0.92,0.98,1.04,1.11,1.19,1.27,1.36,1.45,1.55
+Argentina,By Nut Type,Cashew,Cashew,0.91,0.99,1.06,1.14,1.22,1.32,1.43,1.55,1.68,1.82,1.97,2.13,2.31
+Argentina,By Nut Type,Peanut,Peanut,30.39,31.88,33.46,35.11,36.83,38.67,40.65,42.83,45.18,47.68,50.34,53.11,55.99
+Argentina,By Nut Type,Pistachio,Pistachio,0.36,0.39,0.41,0.45,0.48,0.52,0.56,0.60,0.65,0.70,0.76,0.82,0.88
+Argentina,By Nut Type,Walnut,Walnut,1.11,1.16,1.22,1.29,1.35,1.43,1.51,1.61,1.71,1.81,1.91,2.02,2.13
+Argentina,By Nut Type,Hazelnut,Hazelnut,0.52,0.55,0.58,0.62,0.66,0.69,0.73,0.78,0.83,0.88,0.94,1.00,1.07
+Argentina,By Nut Type,Other Nuts,Other Nuts,1.70,1.82,1.95,2.09,2.23,2.38,2.54,2.72,2.92,3.14,3.38,3.63,3.90
+Argentina,By Automation Level,Manual,Manual,3.79,4.10,4.43,4.78,5.16,5.56,5.99,6.48,7.02,7.62,8.27,8.97,9.72
+Argentina,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,31.92,33.46,35.08,36.77,38.54,40.43,42.48,44.72,47.13,49.69,52.38,55.20,58.11
+Argentina,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,11.82,12.39,13.01,13.66,14.33,15.01,15.72,16.52,17.42,18.39,19.45,20.54,21.65
+Argentina,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,9.31,9.90,10.50,11.11,11.77,12.51,13.35,14.28,15.26,16.29,17.40,18.59,19.85
+Argentina,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,7.07,7.46,7.87,8.32,8.81,9.33,9.91,10.52,11.18,11.87,12.59,13.35,14.14
+Argentina,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,5.35,5.57,5.82,6.07,6.33,6.59,6.87,7.16,7.48,7.83,8.18,8.54,8.91
+Argentina,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",2.16,2.23,2.31,2.39,2.46,2.54,2.62,2.71,2.81,2.92,3.04,3.16,3.27
+Mexico,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,0.97,1.00,1.03,1.06,1.10,1.14,1.18,1.22,1.26,1.30,1.35,1.40,1.45
+Mexico,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,2.51,2.63,2.76,2.90,3.05,3.21,3.39,3.58,3.78,3.99,4.21,4.44,4.68
+Mexico,By Equipment Type,Storage Equipment,Silos,0.89,0.92,0.95,0.98,1.01,1.05,1.09,1.13,1.17,1.21,1.26,1.30,1.35
+Mexico,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.69,0.72,0.75,0.78,0.82,0.85,0.88,0.92,0.96,1.01,1.05,1.10,1.14
+Mexico,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,1.99,2.07,2.16,2.26,2.36,2.45,2.55,2.66,2.79,2.92,3.06,3.21,3.36
+Mexico,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.53,1.58,1.63,1.68,1.73,1.78,1.85,1.92,1.99,2.07,2.14,2.23,2.31
+Mexico,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,2.66,2.74,2.83,2.93,3.04,3.16,3.29,3.44,3.59,3.74,3.90,4.05,4.20
+Mexico,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,1.92,2.01,2.11,2.22,2.32,2.43,2.55,2.67,2.81,2.95,3.10,3.25,3.41
+Mexico,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,2.09,2.20,2.32,2.44,2.57,2.71,2.85,3.01,3.18,3.36,3.55,3.75,3.95
+Mexico,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,0.81,0.83,0.85,0.88,0.91,0.94,0.97,1.01,1.04,1.08,1.12,1.16,1.20
+Mexico,By Equipment Type,Sorting and Grading Equipment,Optical sorters,1.50,1.62,1.75,1.89,2.03,2.19,2.36,2.55,2.76,2.99,3.25,3.52,3.81
+Mexico,By Equipment Type,Sorting and Grading Equipment,Size graders,1.51,1.57,1.63,1.68,1.74,1.81,1.89,1.97,2.06,2.15,2.24,2.34,2.44
+Mexico,By Equipment Type,Sorting and Grading Equipment,Weight graders,1.15,1.19,1.24,1.30,1.35,1.42,1.49,1.57,1.65,1.74,1.82,1.91,2.00
+Mexico,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.32,1.36,1.40,1.45,1.50,1.55,1.61,1.67,1.73,1.79,1.86,1.93,2.01
+Mexico,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,1.78,1.87,1.97,2.08,2.20,2.32,2.46,2.60,2.75,2.91,3.08,3.27,3.46
+Mexico,By Equipment Type,Thermal Processing Equipment,Roasting systems,1.56,1.66,1.76,1.87,2.00,2.13,2.28,2.43,2.60,2.78,2.97,3.17,3.38
+Mexico,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.34,1.40,1.46,1.53,1.60,1.67,1.76,1.84,1.92,2.02,2.12,2.22,2.33
+Mexico,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",1.76,1.84,1.93,2.03,2.12,2.22,2.32,2.43,2.56,2.69,2.84,2.99,3.14
+Mexico,By Nut Type,Almond,Almond,0.43,0.45,0.48,0.51,0.54,0.57,0.60,0.63,0.67,0.71,0.76,0.81,0.86
+Mexico,By Nut Type,Cashew,Cashew,0.58,0.62,0.67,0.72,0.77,0.83,0.89,0.96,1.03,1.11,1.20,1.29,1.39
+Mexico,By Nut Type,Peanut,Peanut,23.21,24.17,25.19,26.28,27.42,28.64,29.95,31.36,32.88,34.49,36.16,37.89,39.67
+Mexico,By Nut Type,Pistachio,Pistachio,0.29,0.30,0.32,0.34,0.37,0.39,0.42,0.45,0.49,0.52,0.56,0.60,0.64
+Mexico,By Nut Type,Walnut,Walnut,0.86,0.90,0.94,0.99,1.04,1.09,1.15,1.21,1.27,1.33,1.40,1.48,1.55
+Mexico,By Nut Type,Hazelnut,Hazelnut,0.30,0.32,0.33,0.35,0.37,0.39,0.42,0.44,0.46,0.49,0.52,0.55,0.58
+Mexico,By Nut Type,Other Nuts,Other Nuts,2.31,2.45,2.60,2.76,2.94,3.13,3.34,3.56,3.79,4.04,4.32,4.61,4.92
+Mexico,By Automation Level,Manual,Manual,2.68,2.88,3.10,3.33,3.58,3.84,4.11,4.42,4.76,5.14,5.56,6.00,6.46
+Mexico,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,25.29,26.34,27.44,28.62,29.87,31.21,32.65,34.20,35.83,37.56,39.36,41.23,43.15
+Mexico,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,9.73,10.10,10.48,10.89,11.35,11.87,12.45,13.06,13.68,14.34,15.01,15.71,16.44
+Mexico,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,7.37,7.81,8.29,8.80,9.33,9.88,10.47,11.12,11.81,12.57,13.37,14.19,15.06
+Mexico,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,4.99,5.24,5.52,5.80,6.09,6.39,6.71,7.07,7.46,7.89,8.34,8.82,9.30
+Mexico,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,3.94,4.07,4.20,4.34,4.50,4.67,4.85,5.03,5.21,5.41,5.62,5.84,6.06
+Mexico,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.95,2.00,2.06,2.11,2.17,2.22,2.28,2.35,2.42,2.50,2.58,2.67,2.75
+Rest of Latin America,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,0.76,0.78,0.80,0.82,0.84,0.86,0.88,0.90,0.93,0.96,0.99,1.02,1.05
+Rest of Latin America,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,2.27,2.37,2.49,2.60,2.72,2.84,2.97,3.10,3.26,3.43,3.60,3.79,3.98
+Rest of Latin America,By Equipment Type,Storage Equipment,Silos,0.74,0.75,0.77,0.79,0.82,0.84,0.87,0.89,0.92,0.95,0.98,1.01,1.04
+Rest of Latin America,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.49,0.50,0.52,0.53,0.55,0.57,0.59,0.62,0.64,0.67,0.69,0.71,0.74
+Rest of Latin America,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,1.90,1.97,2.03,2.09,2.16,2.23,2.32,2.41,2.51,2.61,2.71,2.82,2.93
+Rest of Latin America,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.08,1.10,1.12,1.15,1.18,1.22,1.26,1.30,1.34,1.39,1.43,1.48,1.52
+Rest of Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,2.36,2.44,2.51,2.57,2.64,2.72,2.81,2.92,3.02,3.13,3.24,3.35,3.47
+Rest of Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,1.60,1.66,1.73,1.79,1.87,1.94,2.03,2.12,2.22,2.31,2.41,2.52,2.62
+Rest of Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,1.69,1.77,1.85,1.93,2.02,2.11,2.20,2.31,2.42,2.54,2.68,2.81,2.95
+Rest of Latin America,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,0.75,0.76,0.78,0.80,0.82,0.84,0.87,0.90,0.92,0.95,0.98,1.00,1.03
+Rest of Latin America,By Equipment Type,Sorting and Grading Equipment,Optical sorters,1.30,1.39,1.49,1.59,1.71,1.84,1.98,2.14,2.30,2.48,2.67,2.87,3.09
+Rest of Latin America,By Equipment Type,Sorting and Grading Equipment,Size graders,1.16,1.19,1.22,1.26,1.30,1.35,1.40,1.46,1.52,1.58,1.64,1.69,1.75
+Rest of Latin America,By Equipment Type,Sorting and Grading Equipment,Weight graders,0.98,1.02,1.05,1.10,1.14,1.19,1.24,1.30,1.36,1.42,1.48,1.54,1.61
+Rest of Latin America,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.32,1.35,1.39,1.42,1.47,1.51,1.56,1.61,1.65,1.71,1.76,1.82,1.87
+Rest of Latin America,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,1.64,1.71,1.79,1.88,1.97,2.07,2.18,2.30,2.42,2.55,2.68,2.82,2.96
+Rest of Latin America,By Equipment Type,Thermal Processing Equipment,Roasting systems,1.36,1.44,1.52,1.61,1.70,1.81,1.92,2.04,2.17,2.31,2.45,2.60,2.76
+Rest of Latin America,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.10,1.14,1.19,1.23,1.28,1.33,1.37,1.43,1.49,1.56,1.63,1.70,1.77
+Rest of Latin America,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",1.26,1.32,1.37,1.44,1.50,1.56,1.63,1.70,1.78,1.86,1.95,2.04,2.12
+Rest of Latin America,By Nut Type,Almond,Almond,0.32,0.34,0.35,0.37,0.39,0.41,0.43,0.46,0.48,0.51,0.54,0.57,0.59
+Rest of Latin America,By Nut Type,Cashew,Cashew,0.49,0.52,0.56,0.60,0.64,0.68,0.72,0.77,0.83,0.89,0.95,1.02,1.09
+Rest of Latin America,By Nut Type,Peanut,Peanut,19.34,20.02,20.74,21.48,22.26,23.10,24.01,24.99,26.03,27.12,28.26,29.44,30.64
+Rest of Latin America,By Nut Type,Pistachio,Pistachio,0.63,0.67,0.71,0.75,0.80,0.85,0.91,0.97,1.03,1.10,1.17,1.25,1.33
+Rest of Latin America,By Nut Type,Walnut,Walnut,0.40,0.42,0.43,0.45,0.47,0.49,0.51,0.54,0.56,0.59,0.61,0.64,0.67
+Rest of Latin America,By Nut Type,Hazelnut,Hazelnut,0.31,0.33,0.34,0.35,0.37,0.38,0.40,0.42,0.45,0.47,0.49,0.52,0.54
+Rest of Latin America,By Nut Type,Other Nuts,Other Nuts,2.25,2.36,2.48,2.62,2.76,2.92,3.10,3.29,3.49,3.71,3.93,4.16,4.39
+Rest of Latin America,By Automation Level,Manual,Manual,2.62,2.80,3.00,3.21,3.43,3.67,3.92,4.20,4.50,4.83,5.17,5.54,5.93
+Rest of Latin America,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,21.12,21.85,22.61,23.41,24.26,25.17,26.16,27.24,28.37,29.56,30.78,32.05,33.33
+Rest of Latin America,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,8.14,8.43,8.75,9.08,9.41,9.75,10.12,10.53,11.00,11.49,11.99,12.49,12.99
+Rest of Latin America,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,6.11,6.42,6.74,7.09,7.48,7.90,8.35,8.81,9.29,9.81,10.38,10.97,11.59
+Rest of Latin America,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,4.39,4.57,4.77,4.99,5.22,5.47,5.74,6.03,6.33,6.65,6.97,7.31,7.65
+Rest of Latin America,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,3.54,3.63,3.72,3.80,3.89,4.00,4.12,4.26,4.40,4.54,4.68,4.83,4.99
+Rest of Latin America,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.57,1.60,1.63,1.65,1.68,1.71,1.75,1.80,1.85,1.89,1.94,1.99,2.04
+GCC,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.84,1.89,1.95,2.01,2.08,2.15,2.23,2.32,2.41,2.49,2.59,2.68,2.77
+GCC,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,4.80,5.05,5.30,5.55,5.81,6.11,6.45,6.82,7.21,7.62,8.04,8.50,8.98
+GCC,By Equipment Type,Storage Equipment,Silos,1.52,1.57,1.61,1.66,1.71,1.77,1.83,1.90,1.98,2.05,2.13,2.21,2.29
+GCC,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.99,1.03,1.07,1.11,1.16,1.21,1.27,1.32,1.38,1.44,1.50,1.57,1.64
+GCC,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,4.37,4.53,4.71,4.90,5.11,5.34,5.60,5.87,6.17,6.47,6.78,7.08,7.39
+GCC,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",2.10,2.16,2.24,2.31,2.40,2.49,2.59,2.69,2.80,2.91,3.03,3.14,3.26
+GCC,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,4.42,4.59,4.78,4.97,5.16,5.35,5.55,5.78,6.03,6.30,6.59,6.88,7.18
+GCC,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,3.13,3.28,3.44,3.60,3.77,3.94,4.12,4.32,4.55,4.79,5.04,5.31,5.58
+GCC,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,3.35,3.51,3.68,3.86,4.06,4.29,4.53,4.80,5.08,5.38,5.68,5.99,6.31
+GCC,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,2.28,2.34,2.42,2.49,2.58,2.67,2.77,2.87,2.98,3.09,3.20,3.32,3.43
+GCC,By Equipment Type,Sorting and Grading Equipment,Optical sorters,3.91,4.23,4.59,4.97,5.38,5.82,6.30,6.82,7.40,8.04,8.72,9.46,10.24
+GCC,By Equipment Type,Sorting and Grading Equipment,Size graders,2.75,2.87,2.99,3.12,3.26,3.39,3.52,3.67,3.84,4.02,4.21,4.41,4.62
+GCC,By Equipment Type,Sorting and Grading Equipment,Weight graders,2.47,2.58,2.71,2.84,2.97,3.11,3.25,3.42,3.59,3.79,3.99,4.20,4.42
+GCC,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,0.80,0.83,0.86,0.89,0.92,0.95,0.98,1.02,1.06,1.10,1.15,1.19,1.24
+GCC,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,4.37,4.62,4.89,5.16,5.45,5.74,6.06,6.41,6.80,7.22,7.67,8.14,8.63
+GCC,By Equipment Type,Thermal Processing Equipment,Roasting systems,2.50,2.66,2.83,3.02,3.22,3.45,3.69,3.94,4.21,4.50,4.82,5.16,5.52
+GCC,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.70,1.76,1.84,1.91,2.00,2.10,2.20,2.32,2.44,2.56,2.69,2.82,2.95
+GCC,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",3.36,3.52,3.68,3.84,4.00,4.19,4.41,4.65,4.89,5.15,5.41,5.70,6.00
+GCC,By Nut Type,Almond,Almond,1.25,1.31,1.36,1.41,1.46,1.53,1.60,1.68,1.76,1.84,1.93,2.02,2.12
+GCC,By Nut Type,Cashew,Cashew,0.97,1.03,1.09,1.15,1.22,1.30,1.38,1.47,1.56,1.66,1.77,1.88,1.99
+GCC,By Nut Type,Peanut,Peanut,6.71,6.81,6.90,7.04,7.26,7.58,7.96,8.34,8.65,8.95,9.21,9.48,9.76
+GCC,By Nut Type,Pistachio,Pistachio,32.79,34.58,36.52,38.54,40.59,42.73,45.01,47.54,50.37,53.40,56.66,60.06,63.58
+GCC,By Nut Type,Walnut,Walnut,3.84,3.97,4.09,4.21,4.33,4.48,4.64,4.83,5.02,5.21,5.40,5.61,5.82
+GCC,By Nut Type,Hazelnut,Hazelnut,0.68,0.71,0.73,0.76,0.79,0.82,0.85,0.89,0.93,0.97,1.02,1.06,1.11
+GCC,By Nut Type,Other Nuts,Other Nuts,4.41,4.63,4.87,5.12,5.37,5.63,5.89,6.18,6.51,6.87,7.26,7.65,8.06
+GCC,By Automation Level,Manual,Manual,3.23,3.47,3.73,4.02,4.33,4.68,5.06,5.48,5.93,6.41,6.93,7.49,8.09
+GCC,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,47.42,49.56,51.83,54.21,56.70,59.38,62.28,65.45,68.87,72.50,76.31,80.27,84.36
+GCC,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,17.06,17.90,18.76,19.62,20.46,21.32,22.26,23.30,24.47,25.72,27.10,28.58,30.14
+GCC,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,13.51,14.25,15.05,15.93,16.88,17.94,19.11,20.39,21.76,23.21,24.71,26.25,27.85
+GCC,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,9.33,9.77,10.25,10.77,11.34,11.98,12.67,13.43,14.24,15.09,15.96,16.84,17.75
+GCC,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,7.49,7.75,8.02,8.32,8.65,9.00,9.37,9.74,10.12,10.53,10.97,11.43,11.90
+GCC,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",3.26,3.36,3.47,3.59,3.70,3.82,3.94,4.06,4.20,4.35,4.50,4.66,4.81
+South Africa,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.19,1.22,1.26,1.30,1.33,1.37,1.40,1.44,1.48,1.53,1.58,1.63,1.69
+South Africa,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,3.26,3.41,3.56,3.72,3.90,4.09,4.30,4.52,4.76,5.00,5.25,5.51,5.78
+South Africa,By Equipment Type,Storage Equipment,Silos,1.15,1.19,1.22,1.26,1.30,1.33,1.37,1.41,1.45,1.50,1.56,1.61,1.66
+South Africa,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.79,0.81,0.84,0.88,0.91,0.94,0.98,1.01,1.05,1.10,1.14,1.18,1.23
+South Africa,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,2.47,2.55,2.63,2.72,2.82,2.93,3.06,3.19,3.33,3.47,3.62,3.76,3.90
+South Africa,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.85,1.91,1.96,2.02,2.08,2.14,2.20,2.27,2.34,2.42,2.51,2.60,2.69
+South Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,3.17,3.27,3.37,3.48,3.60,3.73,3.87,4.01,4.17,4.32,4.48,4.64,4.81
+South Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,2.48,2.58,2.69,2.80,2.92,3.03,3.15,3.29,3.44,3.60,3.77,3.95,4.12
+South Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,2.68,2.81,2.93,3.05,3.18,3.32,3.49,3.67,3.85,4.05,4.25,4.47,4.69
+South Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,1.01,1.03,1.06,1.08,1.11,1.14,1.18,1.21,1.25,1.29,1.33,1.37,1.41
+South Africa,By Equipment Type,Sorting and Grading Equipment,Optical sorters,2.36,2.53,2.72,2.92,3.14,3.39,3.65,3.93,4.24,4.56,4.93,5.32,5.73
+South Africa,By Equipment Type,Sorting and Grading Equipment,Size graders,1.92,1.99,2.05,2.11,2.18,2.25,2.34,2.43,2.53,2.62,2.73,2.83,2.94
+South Africa,By Equipment Type,Sorting and Grading Equipment,Weight graders,1.42,1.48,1.55,1.62,1.69,1.77,1.84,1.92,2.01,2.11,2.21,2.31,2.41
+South Africa,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.07,1.10,1.14,1.17,1.21,1.24,1.28,1.31,1.36,1.40,1.45,1.50,1.55
+South Africa,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,2.23,2.34,2.46,2.59,2.73,2.86,3.00,3.15,3.32,3.51,3.71,3.91,4.13
+South Africa,By Equipment Type,Thermal Processing Equipment,Roasting systems,2.09,2.21,2.35,2.49,2.63,2.79,2.95,3.13,3.33,3.55,3.79,4.03,4.29
+South Africa,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.66,1.72,1.79,1.86,1.94,2.02,2.11,2.20,2.29,2.39,2.50,2.61,2.73
+South Africa,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",2.40,2.50,2.61,2.73,2.85,2.96,3.09,3.22,3.37,3.53,3.71,3.89,4.07
+South Africa,By Nut Type,Almond,Almond,0.92,0.95,0.99,1.03,1.08,1.13,1.18,1.25,1.31,1.38,1.44,1.51,1.58
+South Africa,By Nut Type,Cashew,Cashew,6.61,7.01,7.46,7.93,8.43,8.95,9.50,10.10,10.75,11.46,12.20,12.98,13.80
+South Africa,By Nut Type,Peanut,Peanut,15.54,16.00,16.47,16.95,17.43,17.93,18.48,19.07,19.73,20.43,21.18,21.95,22.72
+South Africa,By Nut Type,Pistachio,Pistachio,0.37,0.39,0.41,0.43,0.46,0.48,0.51,0.54,0.57,0.61,0.64,0.68,0.72
+South Africa,By Nut Type,Walnut,Walnut,1.59,1.65,1.71,1.77,1.83,1.89,1.95,2.02,2.10,2.19,2.28,2.37,2.47
+South Africa,By Nut Type,Hazelnut,Hazelnut,0.64,0.66,0.69,0.72,0.75,0.78,0.81,0.85,0.89,0.92,0.97,1.01,1.05
+South Africa,By Nut Type,Other Nuts,Other Nuts,9.55,9.99,10.47,10.98,11.54,12.14,12.80,13.49,14.23,15.00,15.79,16.62,17.48
+South Africa,By Automation Level,Manual,Manual,4.28,4.56,4.86,5.20,5.56,5.96,6.40,6.87,7.38,7.92,8.49,9.10,9.75
+South Africa,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,30.94,32.11,33.33,34.62,35.95,37.34,38.83,40.45,42.20,44.06,46.02,48.03,50.07
+South Africa,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,11.97,12.37,12.76,13.17,13.64,14.18,14.80,15.47,16.16,16.86,17.59,18.38,19.18
+South Africa,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,8.99,9.49,10.03,10.60,11.19,11.78,12.40,13.09,13.85,14.70,15.60,16.53,17.51
+South Africa,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,6.95,7.29,7.66,8.05,8.45,8.86,9.30,9.77,10.28,10.82,11.39,11.97,12.58
+South Africa,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,4.86,5.01,5.18,5.36,5.53,5.71,5.89,6.08,6.30,6.52,6.76,6.99,7.22
+South Africa,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",2.44,2.51,2.57,2.64,2.71,2.77,2.84,2.92,3.00,3.08,3.17,3.26,3.34
+Rest of Middle East & Africa,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,0.72,0.74,0.77,0.80,0.84,0.87,0.91,0.95,0.99,1.03,1.08,1.13,1.17
+Rest of Middle East & Africa,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,1.98,2.10,2.22,2.33,2.46,2.61,2.77,2.95,3.14,3.34,3.55,3.77,4.01
+Rest of Middle East & Africa,By Equipment Type,Storage Equipment,Silos,0.63,0.65,0.68,0.70,0.73,0.76,0.79,0.83,0.86,0.90,0.94,0.98,1.03
+Rest of Middle East & Africa,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.58,0.60,0.63,0.66,0.69,0.73,0.77,0.81,0.85,0.90,0.94,0.99,1.04
+Rest of Middle East & Africa,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,1.50,1.58,1.66,1.75,1.84,1.93,2.03,2.13,2.25,2.38,2.51,2.65,2.80
+Rest of Middle East & Africa,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.12,1.16,1.21,1.26,1.32,1.38,1.44,1.51,1.58,1.65,1.73,1.81,1.89
+Rest of Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,1.97,2.06,2.15,2.25,2.35,2.47,2.59,2.72,2.86,3.01,3.16,3.31,3.47
+Rest of Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,1.53,1.61,1.69,1.77,1.86,1.96,2.07,2.19,2.32,2.45,2.59,2.74,2.90
+Rest of Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,1.67,1.77,1.88,2.00,2.12,2.24,2.37,2.52,2.68,2.86,3.05,3.25,3.45
+Rest of Middle East & Africa,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,0.63,0.65,0.68,0.70,0.73,0.76,0.80,0.83,0.87,0.91,0.95,0.99,1.03
+Rest of Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Optical sorters,1.20,1.29,1.40,1.52,1.65,1.80,1.96,2.14,2.34,2.56,2.79,3.04,3.31
+Rest of Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Size graders,1.09,1.14,1.20,1.26,1.32,1.38,1.45,1.52,1.60,1.68,1.78,1.87,1.97
+Rest of Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Weight graders,0.80,0.84,0.89,0.94,0.99,1.04,1.10,1.16,1.23,1.30,1.38,1.47,1.55
+Rest of Middle East & Africa,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.12,1.17,1.22,1.27,1.32,1.37,1.43,1.49,1.56,1.63,1.71,1.79,1.88
+Rest of Middle East & Africa,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,1.34,1.42,1.52,1.62,1.72,1.83,1.94,2.06,2.20,2.35,2.52,2.69,2.87
+Rest of Middle East & Africa,By Equipment Type,Thermal Processing Equipment,Roasting systems,1.21,1.30,1.40,1.50,1.61,1.73,1.85,1.99,2.14,2.31,2.49,2.69,2.90
+Rest of Middle East & Africa,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,0.92,0.97,1.01,1.06,1.11,1.17,1.23,1.31,1.38,1.46,1.54,1.63,1.72
+Rest of Middle East & Africa,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",1.72,1.81,1.91,2.00,2.10,2.22,2.34,2.49,2.64,2.79,2.96,3.13,3.32
+Rest of Middle East & Africa,By Nut Type,Almond,Almond,0.26,0.27,0.29,0.30,0.32,0.34,0.36,0.38,0.40,0.43,0.46,0.48,0.51
+Rest of Middle East & Africa,By Nut Type,Cashew,Cashew,2.76,2.97,3.19,3.44,3.69,3.97,4.26,4.58,4.94,5.33,5.74,6.18,6.65
+Rest of Middle East & Africa,By Nut Type,Peanut,Peanut,10.05,10.45,10.85,11.24,11.67,12.14,12.68,13.28,13.91,14.56,15.25,15.98,16.73
+Rest of Middle East & Africa,By Nut Type,Pistachio,Pistachio,2.22,2.38,2.55,2.73,2.92,3.12,3.34,3.57,3.83,4.11,4.41,4.73,5.06
+Rest of Middle East & Africa,By Nut Type,Walnut,Walnut,0.77,0.81,0.85,0.89,0.94,0.98,1.03,1.07,1.13,1.19,1.26,1.32,1.39
+Rest of Middle East & Africa,By Nut Type,Hazelnut,Hazelnut,0.46,0.48,0.51,0.53,0.56,0.59,0.63,0.66,0.70,0.74,0.78,0.83,0.87
+Rest of Middle East & Africa,By Nut Type,Other Nuts,Other Nuts,5.19,5.52,5.88,6.26,6.67,7.09,7.54,8.03,8.57,9.15,9.77,10.41,11.09
+Rest of Middle East & Africa,By Automation Level,Manual,Manual,2.34,2.54,2.75,2.99,3.24,3.51,3.80,4.12,4.48,4.87,5.29,5.74,6.23
+Rest of Middle East & Africa,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,19.37,20.34,21.35,22.41,23.53,24.72,26.03,27.46,29.00,30.64,32.37,34.19,36.07
+Rest of Middle East & Africa,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,7.45,7.81,8.20,8.62,9.06,9.52,10.02,10.56,11.16,11.82,12.51,13.23,13.98
+Rest of Middle East & Africa,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,5.50,5.87,6.29,6.73,7.20,7.69,8.22,8.79,9.42,10.11,10.84,11.60,12.41
+Rest of Middle East & Africa,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,3.85,4.08,4.31,4.54,4.79,5.07,5.39,5.74,6.11,6.50,6.91,7.35,7.82
+Rest of Middle East & Africa,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,3.54,3.69,3.83,3.98,4.13,4.30,4.50,4.71,4.94,5.16,5.40,5.66,5.92
+Rest of Middle East & Africa,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.37,1.42,1.48,1.53,1.59,1.65,1.71,1.78,1.85,1.93,2.01,2.09,2.17
+Global,By Region,North America,North America,686.95,726.26,768.28,813.40,861.79,914.38,971.76,"1,034.41","1,101.97","1,174.38","1,251.46","1,332.64","1,417.89"
+Global,By Region,Europe,Europe,644.68,679.26,716.07,755.30,797.14,842.29,891.52,945.30,"1,003.43","1,065.79","1,132.24","1,202.33","1,275.83"
+Global,By Region,Asia Pacific,Asia Pacific,"1,005.25","1,071.05","1,141.95","1,218.50","1,301.14","1,390.96","1,489.35","1,597.13","1,714.32","1,841.22","1,977.72","2,123.40","2,278.17"
+Global,By Region,Latin America,Latin America,147.36,154.73,162.61,170.97,179.81,189.26,199.49,210.63,222.68,235.56,249.21,263.47,278.32
+Global,By Region,Middle East & Africa,Middle East & Africa,107.58,112.58,117.87,123.44,129.32,135.59,142.40,149.83,157.86,166.40,175.42,184.83,194.57
+North America,By Country,U.S.,U.S.,560.63,593.18,628.10,665.60,705.81,749.47,797.08,849.14,905.42,965.83,"1,030.17","1,097.88","1,169.03"
+North America,By Country,Canada,Canada,126.32,133.07,140.19,147.79,155.98,164.91,174.68,185.27,196.55,208.55,221.29,234.75,248.86
+Europe,By Country,Germany,Germany,165.39,176.14,187.65,200.10,213.63,228.47,244.75,262.52,281.69,302.32,324.45,348.06,373.10
+Europe,By Country,U.K.,U.K.,119.26,126.47,134.08,142.10,150.66,159.97,170.24,181.57,193.88,207.06,221.11,236.01,251.70
+Europe,By Country,France,France,100.30,105.96,111.98,118.38,125.15,132.46,140.41,149.10,158.48,168.51,179.17,190.42,202.22
+Europe,By Country,Italy,Italy,74.25,78.04,82.07,86.35,90.87,95.70,100.93,106.60,112.72,119.28,126.24,133.53,141.12
+Europe,By Country,Spain,Spain,57.24,59.81,62.55,65.47,68.55,71.82,75.34,79.16,83.29,87.72,92.41,97.27,102.29
+Europe,By Country,Russia,Russia,28.55,29.67,30.86,32.12,33.48,34.94,36.53,38.25,40.06,41.97,43.95,46.00,48.09
+Europe,By Country,Rest of Europe,Rest of Europe,99.68,103.17,106.88,110.77,114.79,118.93,123.33,128.10,133.31,138.93,144.90,151.04,157.30
+Asia Pacific,By Country,China,China,298.37,318.42,339.87,362.90,387.74,414.74,444.37,476.79,511.99,549.97,590.87,634.68,681.21
+Asia Pacific,By Country,India,India,236.66,254.92,274.74,296.38,320.08,346.20,375.07,406.87,441.59,479.32,520.15,564.14,611.34
+Asia Pacific,By Country,Japan,Japan,92.19,97.04,102.08,107.44,113.20,119.48,126.36,133.79,141.68,150.10,159.08,168.60,178.58
+Asia Pacific,By Country,South Korea,South Korea,66.40,70.18,74.25,78.61,83.27,88.26,93.68,99.57,105.96,112.84,120.18,127.91,136.02
+Asia Pacific,By Country,ASEAN,ASEAN,170.88,183.32,196.96,211.77,227.70,244.82,263.46,283.96,306.53,331.31,358.08,386.61,417.03
+Asia Pacific,By Country,Australia,Australia,78.28,81.78,85.52,89.50,93.68,98.13,102.92,108.09,113.64,119.57,125.80,132.24,138.90
+Asia Pacific,By Country,Rest of Asia Pacific,Rest of Asia Pacific,62.46,65.40,68.54,71.89,75.47,79.33,83.50,88.05,92.92,98.11,103.57,109.23,115.09
+Latin America,By Country,Brazil,Brazil,59.93,63.31,66.95,70.85,74.98,79.39,84.17,89.39,95.06,101.17,107.67,114.49,121.62
+Latin America,By Country,Argentina,Argentina,35.71,37.56,39.51,41.55,43.69,45.99,48.47,51.20,54.16,57.31,60.66,64.17,67.83
+Latin America,By Country,Mexico,Mexico,27.97,29.21,30.53,31.95,33.44,35.04,36.76,38.62,40.59,42.70,44.92,47.23,49.61
+Latin America,By Country,Rest of Latin America,Rest of Latin America,23.75,24.66,25.61,26.62,27.69,28.84,30.08,31.43,32.87,34.38,35.96,37.59,39.26
+Middle East & Africa,By Country,GCC,GCC,50.65,53.03,55.56,58.23,61.04,64.06,67.34,70.93,74.80,78.91,83.25,87.77,92.45
+Middle East & Africa,By Country,South Africa,South Africa,35.22,36.66,38.20,39.82,41.51,43.30,45.23,47.32,49.58,51.98,54.51,57.13,59.82
+Middle East & Africa,By Country,Rest of Middle East & Africa,Rest of Middle East & Africa,21.71,22.88,24.11,25.40,26.77,28.23,29.83,31.59,33.48,35.51,37.67,39.93,42.30
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
