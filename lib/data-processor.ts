@@ -212,6 +212,16 @@ export function filterData(
     })
   }
   
+  // Pre-compute which segment types have non-Global records (country/region level data)
+  // This is used to prevent double-counting: when country-level data exists for a segment type,
+  // we should NOT include Global records as a fallback when non-global geographies are selected
+  const segmentTypesWithNonGlobalData = new Set<string>()
+  data.forEach(r => {
+    if (r.geography !== 'Global' && r.segment_type) {
+      segmentTypesWithNonGlobalData.add(r.segment_type)
+    }
+  })
+
   const filtered = data.filter((record) => {
     // 1. Geography filter - enhanced to handle parent-child relationships
     // In geography mode, when a parent geography is selected (e.g., "North America"),
@@ -264,11 +274,14 @@ export function filterData(
       }
 
       // IMPORTANT: Include Global data when non-global geographies are selected
+      // BUT ONLY if the segment type doesn't have country/region-level data
       // Segment types like "By Technology" only exist under Global
       // When user selects "North America" or "U.S." + "By Technology", we need Global's data
+      // However, if country-level data exists (e.g., "By Equipment Type" has U.S., Canada records),
+      // do NOT include Global records to prevent double-counting (Global total + country values)
       if (!geoMatch && record.geography === 'Global') {
         const hasNonGlobalSelection = filters.geographies.some(g => g !== 'Global')
-        if (hasNonGlobalSelection) {
+        if (hasNonGlobalSelection && !segmentTypesWithNonGlobalData.has(record.segment_type)) {
           geoMatch = true
         }
       }
