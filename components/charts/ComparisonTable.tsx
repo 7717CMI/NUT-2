@@ -31,36 +31,44 @@ export function ComparisonTable({ title, height = 600 }: ComparisonTableProps) {
     const startYear = filters.yearRange[0]
     const endYear = filters.yearRange[1]
 
-    // Helper function to parse CAGR (handles string, number, or null)
-    const parseCAGR = (cagr: any): number => {
-      if (cagr === null || cagr === undefined) return 0
-      if (typeof cagr === 'number') return cagr
-      if (typeof cagr === 'string') {
-        // Extract number from string like "5.2%" or "5.2"
-        const cagrStr = cagr.replace('%', '').trim()
-        return parseFloat(cagrStr) || 0
-      }
-      return 0
-    }
+    // Calculate number of years for CAGR
+    const years = endYear - startYear
+
+    // Calculate total value across all filtered records for the display year to compute market share
+    const totalValue = filtered.reduce((sum, record) => sum + (record.time_series[year] || 0), 0)
 
     // Transform to table format
-    return filtered.map(record => ({
-      geography: record.geography,
-      segment: record.segment,
-      segmentType: record.segment_type,
-      currentValue: record.time_series[year] || 0,
-      startValue: record.time_series[startYear] || 0,
-      endValue: record.time_series[endYear] || 0,
-      growth: record.time_series[startYear] > 0 
-        ? (((record.time_series[endYear] || 0) - (record.time_series[startYear] || 0)) / record.time_series[startYear] * 100)
-        : 0,
-      cagr: parseCAGR(record.cagr),
-      marketShare: record.market_share || 0,
-      sparkline: Object.entries(record.time_series)
-        .filter(([y]) => parseInt(y) >= startYear && parseInt(y) <= endYear)
-        .sort(([a], [b]) => parseInt(a) - parseInt(b))
-        .map(([, value]) => value)
-    }))
+    return filtered.map(record => {
+      const sv = record.time_series[startYear] || 0
+      const ev = record.time_series[endYear] || 0
+      const currentVal = record.time_series[year] || 0
+      const growth = sv > 0 ? ((ev - sv) / sv) * 100 : 0
+
+      // Calculate CAGR from time_series data: CAGR = (endValue/startValue)^(1/years) - 1
+      let cagr = 0
+      if (sv > 0 && ev > 0 && years > 0) {
+        cagr = (Math.pow(ev / sv, 1 / years) - 1) * 100
+      }
+
+      // Calculate market share as percentage of total filtered data for the display year
+      const marketShare = totalValue > 0 ? (currentVal / totalValue) * 100 : 0
+
+      return {
+        geography: record.geography,
+        segment: record.segment,
+        segmentType: record.segment_type,
+        currentValue: currentVal,
+        startValue: sv,
+        endValue: ev,
+        growth,
+        cagr,
+        marketShare,
+        sparkline: Object.entries(record.time_series)
+          .filter(([y]) => parseInt(y) >= startYear && parseInt(y) <= endYear)
+          .sort(([a], [b]) => parseInt(a) - parseInt(b))
+          .map(([, value]) => value)
+      }
+    })
   }, [data, filters])
 
   const sortedData = useMemo(() => {

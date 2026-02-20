@@ -499,14 +499,17 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
         } else {
           // No regional data for this segment type - map Global data to selected regional geographies
           // This happens when segment types like "By Voltage Level" only exist under Global
+          // or when filterData already filtered out everything because geography didn't match
           console.log('🎯 Bubble chart: No regional data for segment type, mapping Global to regions:', {
             selectedGeos,
             segmentType: activeFilters.segmentType,
             mappingGlobalToRegions: true
           })
 
-          // Filter to just Global records for this segment type
-          const globalRecords = filteredRecords.filter(record => record.geography === 'Global')
+          // Re-filter from original dataset with Global geography to get Global records
+          // (filteredRecords may be empty if filterData already excluded non-matching geographies)
+          const globalFilters = { ...activeFilters, geographies: ['Global'] }
+          const globalRecords = filterData(dataset, globalFilters)
 
           // Map Global data to each selected regional geography
           const regionalMarketShares: Record<string, number> = {
@@ -851,8 +854,16 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
 
       // Build matrix: Geography x Segment Type with CAGR from JSON
       const bubbles: BubbleDataPoint[] = []
+
+      // For opportunity mode, CAGR is always calculated from 2026 to 2033
+      // This ensures consistent CAGR regardless of the display year range or metadata values
+      const cagrStartYear = 2026
+      const cagrEndYear = 2033
+      const cagrYears = cagrEndYear - cagrStartYear
+
+      // Display year range from filters (for market size values)
       const [startYear, endYear] = activeFilters.yearRange
-      
+
       // Helper function to calculate CAGR from time series
       const calculateCAGR = (startValue: number, endValue: number, years: number): number => {
         if (startValue <= 0 || endValue <= 0 || years <= 0) return 0
@@ -863,41 +874,49 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
       // Calculate max values for normalization
       let maxCAGR = 0
       let maxValue = 0
-      const years = endYear - startYear
+
+      // Calculate total base year value for market share (using CAGR start year)
+      let totalBaseValue = 0
+      filteredRecords.forEach(record => {
+        totalBaseValue += record.time_series[cagrStartYear] || 0
+      })
 
       filteredRecords.forEach(record => {
-        const value = record.time_series[endYear] || 0
-        const baseValue = record.time_series[startYear] || 0
-        const cagr = calculateCAGR(baseValue, value, years)
+        const value = record.time_series[cagrEndYear] || 0
+        const baseValue = record.time_series[cagrStartYear] || 0
+        const cagr = calculateCAGR(baseValue, value, cagrYears)
         maxCAGR = Math.max(maxCAGR, Math.abs(cagr))
         maxValue = Math.max(maxValue, value)
       })
 
       filteredRecords.forEach((record, index) => {
-        const value = record.time_series[endYear] || 0
-        const baseValue = record.time_series[startYear] || 0
-        const cagr = calculateCAGR(baseValue, value, years)
+        const value = record.time_series[cagrEndYear] || 0
+        const baseValue = record.time_series[cagrStartYear] || 0
+        const cagr = calculateCAGR(baseValue, value, cagrYears)
 
         // Normalize both CAGR and Market Size to 0-100 scale for full chart spread
         // This ensures bubbles can spread across the entire chart area
         const cagrIndex = maxCAGR > 0 ? (Math.abs(cagr) / maxCAGR) * 100 : 0
         const valueIndex = maxValue > 0 ? (value / maxValue) * 100 : 0
-        
+
+        // Calculate market share as percentage of total base year value
+        const marketShare = totalBaseValue > 0 ? (baseValue / totalBaseValue) * 100 : 0
+
         // For Level 1 with __ALL_SEGMENTS__, use segment_type
         // For other cases, use actual segment name
         const segmentName = (activeFilters.aggregationLevel === 1 && record.segment === '__ALL_SEGMENTS__')
           ? record.segment_type
           : record.segment
-        
+
         // Create bubble name: Geography - Segment
         const bubbleName = segmentName && segmentName !== '__ALL_SEGMENTS__'
           ? `${record.geography} - ${segmentName}`
           : `${record.geography} - ${record.segment_type}`
-        
+
         // Calculate bubble size based on absolute growth for better visual representation
         const absoluteGrowth = value - baseValue
         const maxGrowth = Math.max(...filteredRecords.map(r =>
-          (r.time_series[endYear] || 0) - (r.time_series[startYear] || 0)
+          (r.time_series[cagrEndYear] || 0) - (r.time_series[cagrStartYear] || 0)
         ))
         const sizeIndex = maxGrowth > 0 ? (absoluteGrowth / maxGrowth) * 100 : cagrIndex
 
@@ -911,8 +930,8 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
           segment: segmentName || record.segment,
           segmentType: record.segment_type,
           currentValue: value,
-          cagr: cagr, // CAGR from JSON (parsed)
-          marketShare: 0,
+          cagr: cagr,
+          marketShare: marketShare,
           absoluteGrowth: absoluteGrowth,
           color: getChartColor(index % 10),
           xIndex: cagrIndex,
@@ -1030,9 +1049,9 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
     const baseYear = startYear
     
     // Calculate total market value for market share calculation
-    const leafRecords = filteredRecords.filter(record => record.is_aggregated === false)
+    // Sum base year values across all segment groups (same records used for individual shares)
     let totalMarketValue2023 = 0
-    leafRecords.forEach(record => {
+    filteredRecords.forEach(record => {
       const value = record.time_series[baseYear] || 0
       totalMarketValue2023 += value
     })
@@ -1183,7 +1202,7 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
     const limitedBubbles = bubbles.slice(0, maxBubbles)
 
     const xLabel = 'CAGR Index'
-    const yLabel = 'Market Share Index (2025)'
+    const yLabel = `Market Share Index (${activeFilters.yearRange[0]})`
 
     return { bubbles: limitedBubbles, xLabel, yLabel, totalBubbles: bubbles.length }
   }, [data, activeFilters, selectedGeography, selectedSegmentType, maxBubbles, isOpportunityMode])
@@ -1771,7 +1790,7 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
                   </span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-black">Market Share Index (2025):</span>
+                  <span className="text-sm text-black">Market Share Index ({isOpportunityMode ? 2026 : activeFilters.yearRange[0]}):</span>
                   <span className="text-sm font-bold text-purple-600">
                     {tooltipData.yIndex.toFixed(1)}
                   </span>
@@ -1788,7 +1807,7 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
               <div className="pt-2 mt-2 border-t border-gray-200">
                 <p className="text-xs font-semibold text-black mb-2">ACTUAL VALUES</p>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-black">Market Size (2033):</span>
+                  <span className="text-sm text-black">Market Size ({isOpportunityMode ? 2033 : activeFilters.yearRange[1]}):</span>
                   <div className="text-right">
                     <span className="text-sm font-semibold text-black">
                       {tooltipData.currentValue.toLocaleString(undefined, { 
@@ -1800,13 +1819,13 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
                   </div>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-black">Market Share (2025):</span>
+                  <span className="text-sm text-black">Market Share ({isOpportunityMode ? 2026 : activeFilters.yearRange[0]}):</span>
                   <span className="text-sm font-semibold text-blue-600">
                     {tooltipData.marketShare.toFixed(2)}%
                   </span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-black">CAGR (2025-2033):</span>
+                  <span className="text-sm text-black">CAGR ({isOpportunityMode ? 2026 : activeFilters.yearRange[0]}-{isOpportunityMode ? 2033 : activeFilters.yearRange[1]}):</span>
                   <span className={`text-sm font-semibold ${
                     tooltipData.cagr > 0 ? 'text-green-600' : tooltipData.cagr < 0 ? 'text-red-600' : 'text-black'
                   }`}>
@@ -1814,7 +1833,7 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
                   </span>
                 </div>
                 <div className="flex items-center justify-between">
-                  <span className="text-sm text-black">Growth (2025-2033):</span>
+                  <span className="text-sm text-black">Growth ({isOpportunityMode ? 2026 : activeFilters.yearRange[0]}-{isOpportunityMode ? 2033 : activeFilters.yearRange[1]}):</span>
                   <span className={`text-sm font-semibold ${
                     tooltipData.absoluteGrowth > 0 ? 'text-green-600' : tooltipData.absoluteGrowth < 0 ? 'text-red-600' : 'text-black'
                   }`}>
@@ -1854,7 +1873,7 @@ export function D3BubbleChartIndependent({ title, height = 500 }: BubbleChartPro
               </div>
               <div>
                 <p className="text-sm font-medium text-black">
-                  {isOpportunityMode ? 'Market Size Index' : 'Market Share Index (2025)'}
+                  {isOpportunityMode ? 'Market Size Index' : `Market Share Index (${activeFilters.yearRange[0]})`}
                 </p>
                 <p className="text-xs text-black">
                   {isOpportunityMode 

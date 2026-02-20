@@ -449,7 +449,7 @@ export function CompactFilterPanel() {
           <button
             onClick={() => {
               updateFilters({
-                yearRange: [data.metadata.start_year, data.metadata.base_year - 1]
+                yearRange: [data.metadata.start_year, 2025]
               })
             }}
             className="flex-1 text-xs px-2 py-0.5 bg-gray-100 rounded hover:bg-gray-200"
@@ -459,7 +459,7 @@ export function CompactFilterPanel() {
           <button
             onClick={() => {
               updateFilters({
-                yearRange: [data.metadata.base_year, data.metadata.forecast_year]
+                yearRange: [2026, data.metadata.forecast_year]
               })
             }}
             className="flex-1 text-xs px-2 py-0.5 bg-blue-100 text-blue-700 rounded hover:bg-blue-200"

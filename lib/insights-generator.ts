@@ -23,14 +23,15 @@ export function generateInsights(
   records: DataRecord[],
   filters: FilterState,
   currency: 'USD' | 'INR' = 'USD',
-  volumeUnit: string = 'Million Units'
+  volumeUnit: string = 'Million Units',
+  valueUnit: string = 'Million'
 ): Insight[] {
   const insights: Insight[] = []
-  
+
   if (records.length === 0) return insights
 
   // 1. Top Performer Analysis
-  const topPerformer = findTopPerformer(records, filters, currency, volumeUnit)
+  const topPerformer = findTopPerformer(records, filters, currency, volumeUnit, valueUnit)
   if (topPerformer) insights.push(topPerformer)
 
   // 2. Growth Leader
@@ -59,20 +60,20 @@ export function generateInsights(
 /**
  * Find the top performing geography or segment
  */
-function findTopPerformer(records: DataRecord[], filters: FilterState, currency: 'USD' | 'INR' = 'USD', volumeUnit: string = 'Million Units'): Insight | null {
-  const [startYear, endYear] = filters.yearRange
+function findTopPerformer(records: DataRecord[], filters: FilterState, currency: 'USD' | 'INR' = 'USD', volumeUnit: string = 'Million Units', valueUnit: string = 'Million'): Insight | null {
+  const [, endYear] = filters.yearRange
   const currentYear = endYear
-  
+
   // Group by geography or segment based on view mode
   const groupKey = filters.viewMode === 'segment-mode' ? 'segment' : 'geography'
   const grouped = new Map<string, number>()
-  
+
   records.forEach(record => {
     const key = record[groupKey]
     const value = record.time_series[currentYear] || 0
     grouped.set(key, (grouped.get(key) || 0) + value)
   })
-  
+
   // Find the top performer
   let topKey = ''
   let topValue = 0
@@ -82,26 +83,21 @@ function findTopPerformer(records: DataRecord[], filters: FilterState, currency:
       topKey = key
     }
   })
-  
+
   if (!topKey) return null
-  
+
   // Format value based on currency
+  // Values in time_series are already in the unit specified by value_unit (e.g., "Million")
+  // No additional division is needed
   let valueDisplay = ''
   if (filters.dataType === 'value') {
     if (currency === 'INR') {
-      // For INR, use Indian number system
-      if (topValue >= 10000000) {
-        valueDisplay = `₹${(topValue / 10000000).toFixed(2)} Cr`
-      } else if (topValue >= 100000) {
-        valueDisplay = `₹${(topValue / 100000).toFixed(2)} L`
-      } else {
-        valueDisplay = `₹${topValue.toFixed(2)}`
-      }
+      valueDisplay = `₹ ${topValue.toLocaleString('en-IN', { minimumFractionDigits: 2, maximumFractionDigits: 2 })} ${valueUnit}`
     } else {
-      valueDisplay = `${(topValue / 1000000).toFixed(2)} USD Mn`
+      valueDisplay = `${topValue.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })} USD ${valueUnit}`
     }
   } else {
-    valueDisplay = `${topValue.toFixed(1)} ${volumeUnit}`
+    valueDisplay = `${topValue.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 })} ${volumeUnit}`
   }
   
   return {
@@ -109,7 +105,7 @@ function findTopPerformer(records: DataRecord[], filters: FilterState, currency:
     type: 'leader',
     title: `${groupKey === 'geography' ? 'Leading Market' : 'Top Segment'}`,
     description: `${topKey} leads with ${valueDisplay} in ${currentYear}`,
-    value: topValue,
+    value: valueDisplay,
     trend: 'up',
     priority: 'high',
     icon: '🏆'
@@ -276,8 +272,8 @@ function compareMarkets(records: DataRecord[], filters: FilterState): Insight | 
  * Generate forecast insights
  */
 function generateForecast(records: DataRecord[], filters: FilterState): Insight | null {
-  const [startYear, endYear] = filters.yearRange
-  
+  const [, endYear] = filters.yearRange
+
   // Check if we're looking at future years
   const currentYear = new Date().getFullYear()
   if (endYear <= currentYear) return null

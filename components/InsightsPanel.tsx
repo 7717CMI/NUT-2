@@ -19,7 +19,7 @@ export function InsightsPanel() {
     const filtered = filterData(dataset, filters)
     
     // Generate main insights
-    const mainInsights = generateInsights(filtered, filters, currency || 'USD', data.metadata.volume_unit || 'Million Units')
+    const mainInsights = generateInsights(filtered, filters, currency || 'USD', data.metadata.volume_unit || 'Million Units', data.metadata.value_unit || 'Million')
     
     // Find crossover points
     const crossovers = findCrossovers(filtered, filters)
@@ -32,7 +32,7 @@ export function InsightsPanel() {
     
     // Limit to top 6 insights
     return allInsights.slice(0, 6)
-  }, [data, filters])
+  }, [data, filters, currency])
 
   if (!data || insights.length === 0) {
     return (
