@@ -31,7 +31,7 @@ const years = ['2021','2022','2023','2024','2025','2026','2027','2028','2029','2
 
 const regionCountries = {
   'North America': ['U.S.', 'Canada'],
-  'Europe': ['U.K.', 'Germany', 'Italy', 'France', 'Spain', 'Russia', 'Rest of Europe'],
+  'Europe': ['U.K.', 'Germany', 'Italy', 'France', 'Spain', 'Turkey', 'Rest of Europe'],
   'Asia Pacific': ['China', 'India', 'Japan', 'South Korea', 'ASEAN', 'Australia', 'Rest of Asia Pacific'],
   'Latin America': ['Brazil', 'Argentina', 'Mexico', 'Rest of Latin America'],
   'Middle East & Africa': ['GCC', 'South Africa', 'Rest of Middle East & Africa']

@@ -67,21 +67,21 @@
         "Semi Automatic & Fully Automatic": {}
       }
     },
-    "By Industry Verticle": {
-      "Primary Processing & Shelling": {
-        "Primary Processing & Shelling": {}
+    "By End User": {
+      "Primary Nut Processors": {
+        "Primary Nut Processors": {}
       },
-      "Value Added Nut Products": {
-        "Value Added Nut Products": {}
+      "Value Added Snack Manufacturers": {
+        "Value Added Snack Manufacturers": {}
       },
-      "Nut Ingredients & Intermediates": {
-        "Nut Ingredients & Intermediates": {}
+      "Ingredient Manufacturers": {
+        "Ingredient Manufacturers": {}
       },
-      "Downstream Food with Captive Nut Prep": {
-        "Downstream Food with Captive Nut Prep": {}
+      "Bakery and Confectionery Companies": {
+        "Bakery and Confectionery Companies": {}
       },
-      "Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)": {
-        "Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)": {}
+      "Others (Dairy Alternative and Plant Based Food Producers, etc.)": {
+        "Others (Dairy Alternative and Plant Based Food Producers, etc.)": {}
       }
     },
     "By Region": {
@@ -95,7 +95,7 @@
         "France": {},
         "Italy": {},
         "Spain": {},
-        "Russia": {},
+        "Turkey": {},
         "Rest of Europe": {}
       },
       "Asia Pacific": {

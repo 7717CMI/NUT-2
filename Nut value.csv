@@ -26,11 +26,11 @@ Global,By Nut Type,Hazelnut,Hazelnut,155.81,163.60,171.93,180.77,190.09,200.08,2
 Global,By Nut Type,Other Nuts,Other Nuts,312.06,332.58,354.50,378.03,403.39,431.03,461.42,494.67,530.61,569.34,610.75,654.84,701.64
 Global,By Automation Level,Manual,Manual,200.36,217.84,237.05,258.10,281.14,306.56,334.77,366.19,400.94,439.12,480.76,525.93,574.85
 Global,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,"2,391.45","2,526.04","2,669.72","2,823.50","2,988.06","3,165.92","3,359.74","3,571.11","3,799.31","4,044.25","4,305.29","4,580.74","4,869.92"
-Global,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,883.58,931.29,981.63,"1,034.99","1,092.51","1,155.61","1,225.63","1,302.95","1,386.58","1,475.64","1,570.03","1,669.65","1,774.23"
-Global,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,680.71,729.38,782.15,839.59,901.74,969.42,"1,043.36","1,124.04","1,211.54","1,306.52","1,408.75","1,518.02","1,634.56"
-Global,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,479.62,510.51,543.93,580.24,619.21,661.03,706.08,754.90,807.84,865.50,927.85,994.15,"1,064.25"
-Global,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,381.79,399.93,419.31,439.81,461.28,483.98,508.35,534.79,563.41,594.00,626.35,660.02,694.87
-Global,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",166.10,172.78,179.76,186.98,194.46,202.44,211.10,220.62,230.88,241.71,253.07,264.82,276.85
+Global,By End User,Primary Nut Processors,Primary Nut Processors,"1,254.96","1,322.45","1,394.37","1,471.25","1,558.06","1,643.96","1,742.84","1,851.36","1,968.81","2,094.67","2,228.61","2,369.92","2,518.33"
+Global,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,612.95,654.34,698.98,747.36,799.53,856.23,918.07,985.34,"1,057.99","1,136.53","1,220.78","1,310.58","1,406.03"
+Global,By End User,Ingredient Manufacturers,Ingredient Manufacturers,357.27,379.18,402.89,428.55,456.04,485.45,517.14,551.51,588.80,629.32,672.94,719.11,767.72
+Global,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,252.46,264.90,278.21,292.30,307.04,322.65,339.41,357.65,377.44,398.62,421.06,444.45,468.71
+Global,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",109.81,118.44,127.76,137.77,148.52,160.25,173.20,187.59,203.47,220.75,239.53,259.76,281.48
 North America,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,24.96,25.91,26.91,27.97,29.12,30.41,31.83,33.39,35.02,36.71,38.43,40.16,41.92
 North America,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,61.95,65.55,69.39,73.54,78.06,83.09,88.67,94.80,101.36,108.31,115.56,123.08,130.93
 North America,By Equipment Type,Storage Equipment,Silos,23.49,24.56,25.72,26.94,28.18,29.41,30.70,32.11,33.68,35.41,37.23,39.10,41.01
@@ -58,11 +58,11 @@ North America,By Nut Type,Hazelnut,Hazelnut,21.37,22.61,23.92,25.27,26.68,28.20,
 North America,By Nut Type,Other Nuts,Other Nuts,54.30,57.88,61.77,65.99,70.51,75.39,80.68,86.42,92.63,99.30,106.39,113.88,121.80
 North America,By Automation Level,Manual,Manual,31.44,34.02,36.88,40.04,43.55,47.48,51.88,56.79,62.19,68.06,74.34,81.03,88.20
 North America,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,655.51,692.23,731.40,773.35,818.24,866.90,919.88,977.61,"1,039.78","1,106.32","1,177.11","1,251.60","1,329.69"
-North America,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,234.79,246.61,258.83,271.73,285.95,301.95,320.05,340.15,361.64,384.22,407.91,432.78,458.71
-North America,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,179.91,193.07,207.53,223.16,239.60,257.13,275.96,296.57,319.17,343.87,370.35,398.28,428.01
-North America,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,127.85,135.87,144.44,153.86,164.08,175.13,186.98,199.61,213.05,227.65,243.55,260.54,278.47
-North America,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,103.46,108.14,113.14,118.49,124.19,130.32,136.92,144.01,151.56,159.47,167.71,176.27,185.08
-North America,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",40.94,42.58,44.34,46.15,47.97,49.85,51.85,54.07,56.55,59.17,61.94,64.76,67.62
+North America,By End User,Primary Nut Processors,Primary Nut Processors,337.63,354.81,372.82,391.97,412.83,435.94,461.69,490.03,520.40,552.53,586.45,622.11,659.35
+North America,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,163.79,175.17,187.65,201.09,215.17,230.11,246.12,263.59,282.71,303.56,325.82,349.19,373.97
+North America,By End User,Ingredient Manufacturers,Ingredient Manufacturers,91.47,96.97,102.83,109.27,116.25,123.79,131.85,140.41,149.50,159.36,170.07,181.49,193.51
+North America,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,65.41,68.46,71.73,75.23,78.97,83.00,87.34,92.01,96.97,102.18,107.61,113.26,119.09
+North America,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",28.66,30.85,33.25,35.84,38.58,41.54,44.77,48.37,52.39,56.76,61.51,66.58,71.97
 Europe,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,24.36,25.26,26.18,27.15,28.17,29.28,30.50,31.80,33.17,34.62,36.12,37.70,39.31
 Europe,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,59.70,63.12,66.78,70.65,74.77,79.19,84.02,89.32,95.09,101.25,107.81,114.71,121.93
 Europe,By Equipment Type,Storage Equipment,Silos,22.37,23.21,24.08,25.03,26.05,27.17,28.39,29.70,31.07,32.50,33.99,35.53,37.10
@@ -90,11 +90,11 @@ Europe,By Nut Type,Hazelnut,Hazelnut,115.65,120.98,126.69,132.74,139.08,145.85,1
 Europe,By Nut Type,Other Nuts,Other Nuts,117.35,124.78,132.71,141.20,150.37,160.37,171.39,183.47,196.51,210.50,225.38,241.18,257.87
 Europe,By Automation Level,Manual,Manual,52.36,56.53,61.09,66.04,71.37,77.15,83.49,90.54,98.36,106.93,116.25,126.27,137.02
 Europe,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,592.32,622.73,654.97,689.26,725.77,765.13,808.02,854.75,905.06,958.86,"1,015.99","1,076.06","1,138.81"
-Europe,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,219.30,230.40,242.09,254.39,267.38,281.38,296.72,313.61,331.95,351.55,372.49,394.63,417.82
-Europe,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,167.68,178.59,190.26,202.79,216.40,231.29,247.73,265.73,285.18,306.06,328.28,351.89,376.88
-Europe,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,118.99,126.02,133.63,141.89,150.74,160.19,170.35,181.31,193.13,205.98,219.74,234.21,249.42
-Europe,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,94.61,98.70,103.01,107.54,112.22,117.13,122.38,128.08,134.25,140.86,147.87,155.14,162.63
-Europe,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",44.09,45.56,47.08,48.68,50.40,52.28,54.34,56.57,58.91,61.34,63.87,66.45,69.07
+Europe,By End User,Primary Nut Processors,Primary Nut Processors,306.51,321.74,338.15,355.83,378.77,394.79,416.51,440.15,465.82,493.55,523.25,554.47,587.13
+Europe,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,152.34,161.67,171.50,181.97,193.31,205.76,219.55,234.59,250.71,267.88,286.12,305.57,326.12
+Europe,By End User,Ingredient Manufacturers,Ingredient Manufacturers,89.56,94.46,99.79,105.53,111.67,118.21,125.28,132.98,141.34,150.40,159.96,169.90,180.26
+Europe,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,63.59,66.44,69.46,72.60,75.82,79.19,82.81,86.76,91.09,95.72,100.62,105.70,110.94
+Europe,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",28.31,30.39,32.61,35.00,37.57,40.40,43.52,46.97,50.72,54.77,59.14,63.84,68.86
 Asia Pacific,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,39.24,41.22,43.34,45.63,48.07,50.68,53.49,56.50,59.72,63.17,66.84,70.65,74.62
 Asia Pacific,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,94.03,100.46,107.48,115.13,123.44,132.51,142.45,153.36,165.25,178.10,191.78,206.27,221.62
 Asia Pacific,By Equipment Type,Storage Equipment,Silos,30.10,31.64,33.26,34.97,36.80,38.79,40.97,43.33,45.85,48.51,51.31,54.26,57.34
@@ -122,11 +122,11 @@ Asia Pacific,By Nut Type,Hazelnut,Hazelnut,14.83,15.85,16.95,18.15,19.48,20.92,2
 Asia Pacific,By Nut Type,Other Nuts,Other Nuts,111.60,119.48,127.82,136.76,146.43,157.07,168.87,181.84,195.85,211.02,227.39,244.98,263.82
 Asia Pacific,By Automation Level,Manual,Manual,91.55,100.36,110.03,120.69,132.45,145.53,160.16,176.48,194.56,214.49,236.41,260.46,286.76
 Asia Pacific,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,913.70,970.70,"1,031.92","1,097.81","1,168.69","1,245.43","1,329.19","1,420.64","1,519.76","1,626.73","1,741.31","1,862.94","1,991.41"
-Asia Pacific,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,343.35,364.20,386.39,410.11,435.82,464.13,495.60,530.33,567.91,608.09,650.68,695.81,743.55
-Asia Pacific,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,266.99,287.58,309.99,334.77,362.07,392.11,425.04,460.82,499.52,541.71,587.57,637.18,690.47
-Asia Pacific,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,184.78,198.09,212.62,228.35,245.15,263.09,282.49,303.76,327.19,352.91,380.90,410.85,442.72
-Asia Pacific,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,145.56,153.55,162.16,171.24,180.69,190.59,201.19,212.80,225.56,239.38,254.15,269.61,285.73
-Asia Pacific,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",64.56,67.63,70.79,74.04,77.42,81.05,85.03,89.42,94.14,99.13,104.42,109.96,115.71
+Asia Pacific,By End User,Primary Nut Processors,Primary Nut Processors,489.32,518.99,550.69,584.64,621.30,661.36,705.59,754.26,807.04,863.78,924.27,988.45,"1,056.38"
+Asia Pacific,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,235.19,252.37,271.03,291.60,314.20,339.01,366.12,395.48,427.11,461.48,498.71,538.83,581.76
+Asia Pacific,By End User,Ingredient Manufacturers,Ingredient Manufacturers,140.21,149.93,160.53,171.96,184.14,197.10,211.09,226.40,243.25,261.72,281.77,303.17,325.87
+Asia Pacific,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,98.22,103.82,109.86,116.25,122.90,129.90,137.41,145.64,154.69,164.51,175.01,186.04,197.57
+Asia Pacific,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",42.30,45.93,49.85,54.05,58.60,63.59,69.15,75.36,82.22,89.74,97.96,106.91,116.60
 Latin America,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,5.58,5.79,5.99,6.20,6.42,6.66,6.92,7.20,7.51,7.82,8.15,8.50,8.85
 Latin America,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,13.90,14.69,15.53,16.42,17.35,18.35,19.43,20.60,21.87,23.23,24.67,26.17,27.75
 Latin America,By Equipment Type,Storage Equipment,Silos,4.68,4.85,5.03,5.22,5.41,5.63,5.86,6.11,6.36,6.63,6.92,7.21,7.52
@@ -154,11 +154,11 @@ Latin America,By Nut Type,Hazelnut,Hazelnut,2.18,2.31,2.44,2.59,2.74,2.91,3.09,3
 Latin America,By Nut Type,Other Nuts,Other Nuts,9.68,10.30,10.98,11.72,12.50,13.34,14.24,15.23,16.31,17.49,18.76,20.10,21.51
 Latin America,By Automation Level,Manual,Manual,15.17,16.37,17.69,19.12,20.64,22.24,23.97,25.89,28.05,30.44,33.04,35.82,38.80
 Latin America,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,132.19,138.37,144.91,151.84,159.17,167.02,175.51,184.74,194.63,205.13,216.17,227.65,239.52
-Latin America,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,49.66,52.00,54.59,57.36,60.21,63.13,66.18,69.54,73.29,77.39,81.75,86.24,90.85
-Latin America,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,38.12,40.52,43.00,45.60,48.40,51.48,54.91,58.65,62.63,66.87,71.41,76.27,81.42
-Latin America,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,27.87,29.39,31.02,32.77,34.66,36.69,38.90,41.28,43.84,46.54,49.39,52.38,55.50
-Latin America,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,22.27,23.09,23.96,24.88,25.87,26.94,28.11,29.36,30.68,32.06,33.49,34.93,36.40
-Latin America,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",9.44,9.73,10.03,10.35,10.67,11.02,11.39,11.80,12.24,12.70,13.17,13.66,14.14
+Latin America,By End User,Primary Nut Processors,Primary Nut Processors,71.17,74.43,77.99,81.80,85.76,89.89,94.27,99.06,104.34,110.05,116.10,122.35,128.80
+Latin America,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,35.21,37.30,39.44,41.67,44.07,46.70,49.63,52.83,56.21,59.81,63.63,67.72,72.04
+Latin America,By End User,Ingredient Manufacturers,Ingredient Manufacturers,20.54,21.60,22.74,23.96,25.27,26.68,28.21,29.86,31.62,33.48,35.44,37.48,39.61
+Latin America,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,14.08,14.62,15.18,15.78,16.43,17.13,17.89,18.70,19.56,20.47,21.40,22.34,23.31
+Latin America,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",6.35,6.79,7.25,7.75,8.28,8.86,9.49,10.18,10.94,11.76,12.64,13.57,14.56
 Middle East & Africa,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,3.75,3.86,3.98,4.11,4.25,4.39,4.54,4.71,4.88,5.06,5.25,5.44,5.63
 Middle East & Africa,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,10.05,10.56,11.07,11.60,12.18,12.81,13.52,14.29,15.11,15.95,16.84,17.78,18.77
 Middle East & Africa,By Equipment Type,Storage Equipment,Silos,3.30,3.41,3.52,3.62,3.73,3.85,3.99,4.14,4.29,4.46,4.63,4.80,4.98
@@ -186,11 +186,11 @@ Middle East & Africa,By Nut Type,Hazelnut,Hazelnut,1.78,1.85,1.93,2.01,2.10,2.20
 Middle East & Africa,By Nut Type,Other Nuts,Other Nuts,19.14,20.14,21.21,22.36,23.58,24.86,26.23,27.71,29.31,31.02,32.82,34.69,36.64
 Middle East & Africa,By Automation Level,Manual,Manual,9.85,10.57,11.35,12.21,13.13,14.15,15.26,16.47,17.78,19.20,20.72,22.34,24.07
 Middle East & Africa,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,97.73,102.01,106.52,111.24,116.18,121.44,127.14,133.36,140.07,147.20,154.71,162.49,170.50
-Middle East & Africa,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,36.48,38.08,39.72,41.40,43.16,45.02,47.07,49.33,51.79,54.40,57.20,60.19,63.30
-Middle East & Africa,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,28.00,29.61,31.37,33.26,35.27,37.41,39.73,42.26,45.03,48.01,51.15,54.39,57.77
-Middle East & Africa,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,20.13,21.14,22.22,23.37,24.59,25.91,27.36,28.94,30.63,32.41,34.26,36.17,38.15
-Middle East & Africa,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,15.89,16.45,17.03,17.65,18.30,19.00,19.75,20.54,21.35,22.22,23.13,24.07,25.04
-Middle East & Africa,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",7.07,7.29,7.52,7.76,8.00,8.24,8.49,8.76,9.05,9.36,9.68,10.00,10.32
+Middle East & Africa,By End User,Primary Nut Processors,Primary Nut Processors,50.33,52.48,54.71,57.01,59.42,61.98,64.79,67.87,71.22,74.76,78.54,82.54,86.68
+Middle East & Africa,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,26.41,27.83,29.37,31.03,32.78,34.64,36.65,38.85,41.24,43.81,46.50,49.27,52.14
+Middle East & Africa,By End User,Ingredient Manufacturers,Ingredient Manufacturers,15.48,16.21,17.00,17.83,18.71,19.67,20.72,21.86,23.09,24.37,25.70,27.06,28.47
+Middle East & Africa,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,11.17,11.57,11.99,12.44,12.92,13.43,13.97,14.54,15.13,15.75,16.42,17.10,17.80
+Middle East & Africa,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",4.20,4.49,4.80,5.14,5.49,5.87,6.27,6.71,7.19,7.71,8.27,8.86,9.48
 U.S.,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,19.29,20.02,20.80,21.66,22.59,23.62,24.75,25.99,27.29,28.65,30.01,31.37,32.74
 U.S.,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,50.84,53.76,56.95,60.42,64.23,68.44,73.10,78.21,83.71,89.53,95.59,101.83,108.32
 U.S.,By Equipment Type,Storage Equipment,Silos,19.39,20.28,21.26,22.27,23.31,24.33,25.40,26.57,27.88,29.34,30.87,32.45,34.07
@@ -218,11 +218,11 @@ U.S.,By Nut Type,Hazelnut,Hazelnut,12.82,13.60,14.44,15.33,16.23,17.19,18.20,19.
 U.S.,By Nut Type,Other Nuts,Other Nuts,22.40,24.00,25.76,27.65,29.64,31.76,34.03,36.51,39.23,42.20,45.38,48.72,52.27
 U.S.,By Automation Level,Manual,Manual,24.35,26.38,28.63,31.11,33.88,36.98,40.45,44.33,48.59,53.23,58.21,63.52,69.22
 U.S.,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,536.28,566.80,599.47,634.49,671.93,712.49,756.63,804.81,856.83,912.60,971.95,"1,034.36","1,099.81"
-U.S.,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,192.71,202.64,213.03,223.93,235.74,248.91,263.76,280.45,298.58,317.70,337.77,358.71,380.48
-U.S.,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,145.72,156.52,168.41,181.27,194.80,209.25,224.78,241.80,260.47,280.89,302.79,325.93,350.58
-U.S.,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,103.59,110.14,117.13,124.88,133.40,142.66,152.59,163.09,174.15,186.19,199.33,213.41,228.31
-U.S.,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,83.24,87.04,91.10,95.49,100.22,105.36,110.92,116.84,123.08,129.60,136.36,143.40,150.66
-U.S.,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",35.37,36.84,38.42,40.04,41.64,43.29,45.02,46.96,49.14,51.45,53.91,56.44,58.99
+U.S.,By End User,Primary Nut Processors,Primary Nut Processors,276.15,290.48,305.61,321.66,339.00,358.14,379.40,402.98,428.47,455.51,484.06,513.93,545.10
+U.S.,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,132.74,142.09,152.36,163.43,175.03,187.36,200.58,215.03,230.84,248.08,266.52,285.90,306.47
+U.S.,By End User,Ingredient Manufacturers,Ingredient Manufacturers,75.18,79.74,84.58,89.96,95.85,102.25,109.09,116.31,123.89,132.12,141.09,150.68,160.81
+U.S.,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,54.28,56.84,59.57,62.52,65.71,69.17,72.91,76.91,81.13,85.54,90.12,94.90,99.84
+U.S.,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",22.27,24.04,25.97,28.04,30.22,32.55,35.08,37.91,41.09,44.57,48.38,52.46,56.82
 Canada,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,5.67,5.89,6.11,6.31,6.54,6.79,7.08,7.40,7.73,8.07,8.42,8.79,9.17
 Canada,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,11.12,11.78,12.44,13.11,13.84,14.65,15.57,16.59,17.66,18.78,19.97,21.25,22.61
 Canada,By Equipment Type,Storage Equipment,Silos,4.10,4.28,4.47,4.67,4.88,5.09,5.31,5.54,5.80,6.07,6.36,6.65,6.94
@@ -250,11 +250,11 @@ Canada,By Nut Type,Hazelnut,Hazelnut,8.54,9.01,9.48,9.95,10.45,11.02,11.66,12.37
 Canada,By Nut Type,Other Nuts,Other Nuts,31.90,33.87,36.01,38.34,40.87,43.63,46.65,49.91,53.39,57.10,61.01,65.16,69.53
 Canada,By Automation Level,Manual,Manual,7.09,7.64,8.25,8.93,9.67,10.50,11.43,12.47,13.60,14.82,16.13,17.51,18.99
 Canada,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,119.23,125.43,131.93,138.86,146.31,154.41,163.25,172.80,182.95,193.73,205.16,217.24,229.87
-Canada,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,42.08,43.97,45.80,47.80,50.21,53.04,56.29,59.70,63.06,66.52,70.13,74.07,78.23
-Canada,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,34.19,36.55,39.12,41.90,44.80,47.88,51.17,54.77,58.70,62.98,67.55,72.35,77.43
-Canada,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,24.26,25.72,27.31,28.97,30.68,32.47,34.39,36.52,38.90,41.46,44.23,47.13,50.16
-Canada,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,20.22,21.10,22.04,23.01,23.97,24.96,26.01,27.17,28.48,29.87,31.35,32.88,34.42
-Canada,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.57,5.74,5.91,6.11,6.32,6.56,6.82,7.11,7.41,7.72,8.02,8.32,8.62
+Canada,By End User,Primary Nut Processors,Primary Nut Processors,61.47,64.33,67.21,70.31,73.83,77.81,82.28,87.04,91.92,97.02,102.39,108.17,114.24
+Canada,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,31.06,33.08,35.29,37.66,40.13,42.75,45.53,48.57,51.88,55.47,59.30,63.29,67.50
+Canada,By End User,Ingredient Manufacturers,Ingredient Manufacturers,16.29,17.23,18.25,19.32,20.40,21.54,22.75,24.10,25.61,27.23,28.98,30.81,32.70
+Canada,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,11.12,11.62,12.16,12.71,13.26,13.83,14.43,15.09,15.84,16.64,17.49,18.36,19.25
+Canada,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",6.38,6.81,7.28,7.79,8.36,8.99,9.69,10.46,11.30,12.19,13.13,14.12,15.15
 U.K.,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,3.85,4.02,4.19,4.36,4.53,4.74,4.97,5.22,5.49,5.76,6.04,6.34,6.66
 U.K.,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,10.88,11.60,12.38,13.20,14.06,14.96,15.93,17.00,18.21,19.52,20.93,22.42,23.99
 U.K.,By Equipment Type,Storage Equipment,Silos,4.31,4.51,4.70,4.90,5.11,5.34,5.61,5.91,6.21,6.53,6.86,7.21,7.58
@@ -282,11 +282,11 @@ U.K.,By Nut Type,Hazelnut,Hazelnut,7.71,8.19,8.70,9.24,9.79,10.37,11.00,11.69,12
 U.K.,By Nut Type,Other Nuts,Other Nuts,23.59,25.27,27.12,29.10,31.19,33.34,35.65,38.19,41.04,44.21,47.64,51.27,55.12
 U.K.,By Automation Level,Manual,Manual,7.84,8.55,9.35,10.22,11.15,12.14,13.22,14.42,15.78,17.32,19.00,20.83,22.80
 U.K.,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,111.43,117.92,124.73,131.88,139.51,147.83,157.02,167.15,178.10,189.74,202.11,215.18,228.90
-U.K.,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,41.02,43.55,46.12,48.59,51.06,53.68,56.69,60.21,64.20,68.42,72.88,77.65,82.69
-U.K.,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,31.76,33.91,36.26,38.83,41.66,44.81,48.30,52.15,56.34,60.82,65.54,70.47,75.66
-U.K.,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,22.38,23.83,25.37,27.08,28.96,31.00,33.20,35.52,37.97,40.65,43.56,46.69,50.01
-U.K.,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,16.94,17.75,18.59,19.53,20.55,21.65,22.81,24.02,25.27,26.62,28.07,29.61,31.21
-U.K.,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",7.15,7.44,7.74,8.07,8.44,8.83,9.24,9.66,10.09,10.56,11.06,11.59,12.13
+U.K.,By End User,Primary Nut Processors,Primary Nut Processors,15.68,16.29,16.89,17.46,18.03,18.63,19.33,20.13,21.02,21.94,22.91,23.92,24.96
+U.K.,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,7.34,7.66,8.00,8.38,8.78,9.24,9.73,10.28,10.86,11.46,12.07,12.69,13.32
+U.K.,By End User,Ingredient Manufacturers,Ingredient Manufacturers,4.38,4.56,4.75,4.96,5.19,5.44,5.70,5.97,6.24,6.54,6.86,7.19,7.54
+U.K.,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,3.02,3.11,3.19,3.29,3.40,3.52,3.64,3.77,3.89,4.03,4.17,4.32,4.47
+U.K.,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.31,1.39,1.47,1.56,1.65,1.76,1.87,1.99,2.11,2.25,2.39,2.55,2.71
 Germany,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,6.10,6.40,6.71,7.05,7.41,7.81,8.24,8.70,9.18,9.69,10.22,10.77,11.34
 Germany,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,15.23,16.27,17.39,18.61,19.95,21.42,23.03,24.77,26.65,28.66,30.79,33.06,35.48
 Germany,By Equipment Type,Storage Equipment,Silos,5.79,6.08,6.38,6.72,7.09,7.49,7.91,8.35,8.80,9.29,9.83,10.39,10.98
@@ -314,11 +314,11 @@ Germany,By Nut Type,Hazelnut,Hazelnut,12.07,12.90,13.81,14.79,15.81,16.89,18.06,
 Germany,By Nut Type,Other Nuts,Other Nuts,30.98,33.34,35.75,38.27,41.02,44.10,47.61,51.50,55.67,60.13,64.93,70.17,75.80
 Germany,By Automation Level,Manual,Manual,10.20,11.18,12.27,13.46,14.74,16.13,17.66,19.39,21.35,23.53,25.95,28.58,31.45
 Germany,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,155.19,164.95,175.37,186.64,198.89,212.33,227.08,243.13,260.33,278.79,298.51,319.48,341.65
-Germany,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,56.44,59.81,63.27,67.01,71.20,75.94,81.23,86.94,92.95,99.37,106.29,113.77,121.71
-Germany,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,42.82,46.11,49.71,53.66,58.00,62.79,68.06,73.83,80.08,86.83,94.08,101.88,110.22
-Germany,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,29.71,31.92,34.35,36.97,39.74,42.70,45.87,49.36,53.18,57.35,61.84,66.57,71.62
-Germany,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,24.74,26.12,27.62,29.18,30.77,32.43,34.19,36.16,38.35,40.71,43.25,45.90,48.64
-Germany,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",11.68,12.18,12.71,13.29,13.92,14.62,15.39,16.23,17.12,18.05,19.00,19.94,20.91
+Germany,By End User,Primary Nut Processors,Primary Nut Processors,27.15,28.17,29.22,30.33,31.56,32.94,34.46,36.09,37.79,39.57,41.46,43.45,45.51
+Germany,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,14.15,14.88,15.66,16.50,17.42,18.41,19.48,20.64,21.86,23.14,24.48,25.89,27.34
+Germany,By End User,Ingredient Manufacturers,Ingredient Manufacturers,8.16,8.57,9.01,9.48,9.96,10.45,10.97,11.54,12.15,12.80,13.49,14.19,14.92
+Germany,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,4.88,5.06,5.24,5.43,5.62,5.81,6.00,6.23,6.48,6.74,7.02,7.31,7.60
+Germany,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.90,2.01,2.13,2.26,2.40,2.56,2.74,2.93,3.14,3.36,3.59,3.82,4.07
 Italy,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.53,2.62,2.72,2.82,2.93,3.02,3.13,3.24,3.36,3.50,3.65,3.80,3.95
 Italy,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,6.57,6.94,7.34,7.76,8.20,8.63,9.10,9.61,10.17,10.80,11.47,12.17,12.89
 Italy,By Equipment Type,Storage Equipment,Silos,2.28,2.36,2.46,2.56,2.65,2.75,2.86,2.97,3.10,3.23,3.36,3.50,3.64
@@ -346,11 +346,11 @@ Italy,By Nut Type,Hazelnut,Hazelnut,34.09,35.84,37.71,39.64,41.62,43.70,45.97,48
 Italy,By Nut Type,Other Nuts,Other Nuts,9.78,10.35,10.97,11.63,12.36,13.15,14.01,14.93,15.92,16.96,18.06,19.22,20.44
 Italy,By Automation Level,Manual,Manual,6.51,6.98,7.51,8.09,8.72,9.44,10.23,11.10,12.06,13.09,14.19,15.34,16.56
 Italy,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,67.75,71.05,74.56,78.26,82.15,86.27,90.70,95.50,100.66,106.19,112.06,118.19,124.56
-Italy,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,24.56,25.73,26.95,28.25,29.63,31.15,32.79,34.57,36.46,38.45,40.57,42.78,45.09
-Italy,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,18.68,19.83,21.07,22.41,23.88,25.48,27.23,29.12,31.13,33.27,35.54,37.93,40.45
-Italy,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,14.49,15.33,16.25,17.22,18.23,19.24,20.32,21.50,22.82,24.28,25.85,27.48,29.17
-Italy,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,10.68,11.11,11.59,12.08,12.58,13.07,13.58,14.14,14.76,15.46,16.19,16.93,17.69
-Italy,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.84,6.03,6.21,6.37,6.55,6.76,7.01,7.27,7.55,7.82,8.11,8.41,8.72
+Italy,By End User,Primary Nut Processors,Primary Nut Processors,45.63,47.95,50.40,53.01,55.76,58.74,61.96,65.48,69.25,73.28,77.60,82.11,86.83
+Italy,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,23.78,25.24,26.82,28.54,30.41,32.45,34.68,37.08,39.65,42.38,45.27,48.32,51.54
+Italy,By End User,Ingredient Manufacturers,Ingredient Manufacturers,13.80,14.62,15.51,16.45,17.43,18.42,19.47,20.63,21.91,23.34,24.87,26.46,28.13
+Italy,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,9.64,10.09,10.58,11.08,11.60,12.10,12.64,13.22,13.88,14.60,15.36,16.15,16.96
+Italy,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",5.28,5.67,6.07,6.48,6.93,7.44,8.01,8.65,9.34,10.06,10.85,11.70,12.61
 France,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,4.36,4.54,4.70,4.87,5.04,5.24,5.47,5.73,5.99,6.25,6.53,6.82,7.13
 France,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,9.73,10.32,10.91,11.51,12.15,12.88,13.70,14.61,15.56,16.57,17.63,18.78,20.00
 France,By Equipment Type,Storage Equipment,Silos,3.76,3.90,4.04,4.20,4.38,4.57,4.79,5.02,5.26,5.52,5.77,6.03,6.28
@@ -378,11 +378,11 @@ France,By Nut Type,Hazelnut,Hazelnut,7.85,8.27,8.73,9.22,9.76,10.35,10.98,11.66,
 France,By Nut Type,Other Nuts,Other Nuts,25.50,27.03,28.71,30.54,32.54,34.76,37.22,39.92,42.83,45.93,49.16,52.50,55.98
 France,By Automation Level,Manual,Manual,7.93,8.61,9.35,10.16,11.01,11.93,12.94,14.06,15.33,16.73,18.27,19.92,21.70
 France,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,92.37,97.35,102.63,108.22,114.14,120.52,127.47,135.03,143.15,151.78,160.91,170.49,180.52
-France,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,34.65,36.43,38.25,40.12,42.13,44.44,47.07,49.99,53.07,56.20,59.43,62.85,66.44
-France,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,26.28,28.11,30.13,32.29,34.56,36.89,39.39,42.15,45.23,48.67,52.38,56.30,60.44
-France,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,19.30,20.45,21.68,23.04,24.53,26.15,27.88,29.71,31.62,33.70,35.96,38.38,40.93
-France,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,13.94,14.59,15.29,16.04,16.80,17.58,18.40,19.29,20.24,21.27,22.35,23.44,24.57
-France,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",6.14,6.38,6.63,6.88,7.14,7.39,7.66,7.97,8.31,8.67,9.06,9.45,9.85
+France,By End User,Primary Nut Processors,Primary Nut Processors,31.23,32.63,34.06,35.56,37.15,38.93,40.92,43.11,45.43,47.80,50.26,52.85,55.54
+France,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,14.59,15.47,16.42,17.43,18.48,19.54,20.67,21.91,23.29,24.83,26.47,28.19,29.98
+France,By End User,Ingredient Manufacturers,Ingredient Manufacturers,8.32,8.74,9.19,9.68,10.22,10.80,11.42,12.07,12.73,13.45,14.24,15.06,15.93
+France,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,6.60,6.87,7.17,7.49,7.80,8.13,8.47,8.83,9.23,9.65,10.09,10.53,10.99
+France,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",2.81,3.00,3.21,3.44,3.67,3.92,4.19,4.48,4.82,5.18,5.57,5.98,6.42
 Spain,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.02,2.09,2.16,2.23,2.30,2.36,2.43,2.51,2.59,2.69,2.79,2.89,2.99
 Spain,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,5.44,5.68,5.94,6.22,6.53,6.87,7.25,7.66,8.10,8.55,9.01,9.48,9.96
 Spain,By Equipment Type,Storage Equipment,Silos,2.20,2.25,2.31,2.38,2.45,2.54,2.63,2.73,2.83,2.94,3.05,3.15,3.25
@@ -410,43 +410,43 @@ Spain,By Nut Type,Hazelnut,Hazelnut,4.45,4.65,4.85,5.07,5.28,5.50,5.73,5.98,6.27
 Spain,By Nut Type,Other Nuts,Other Nuts,12.17,12.77,13.42,14.12,14.88,15.70,16.59,17.54,18.55,19.61,20.71,21.86,23.05
 Spain,By Automation Level,Manual,Manual,5.56,5.98,6.44,6.94,7.47,8.04,8.65,9.32,10.05,10.85,11.72,12.63,13.61
 Spain,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,51.68,53.83,56.11,58.53,61.08,63.78,66.69,69.84,73.24,76.87,80.70,84.64,88.68
-Spain,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,19.18,19.90,20.74,21.70,22.72,23.79,24.89,26.06,27.36,28.76,30.25,31.76,33.28
-Spain,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,14.57,15.43,16.28,17.14,18.08,19.12,20.32,21.62,23.00,24.45,25.98,27.62,29.36
-Spain,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,10.46,11.01,11.61,12.25,12.90,13.56,14.25,15.00,15.84,16.78,17.77,18.80,19.87
-Spain,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,8.72,9.04,9.39,9.76,10.12,10.49,10.88,11.29,11.74,12.22,12.72,13.21,13.72
-Spain,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",4.31,4.43,4.53,4.63,4.74,4.86,5.01,5.18,5.35,5.52,5.69,5.87,6.06
-Russia,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.08,1.11,1.13,1.16,1.20,1.23,1.27,1.31,1.35,1.39,1.43,1.47,1.52
-Russia,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,2.63,2.73,2.85,2.97,3.11,3.26,3.42,3.60,3.79,3.99,4.19,4.39,4.59
-Russia,By Equipment Type,Storage Equipment,Silos,0.90,0.93,0.95,0.98,1.00,1.04,1.07,1.10,1.14,1.18,1.21,1.25,1.29
-Russia,By Equipment Type,Storage Equipment,Storage bins and hoppers,0.52,0.54,0.55,0.57,0.59,0.61,0.64,0.66,0.69,0.72,0.74,0.77,0.80
-Russia,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,2.44,2.53,2.62,2.71,2.82,2.93,3.05,3.18,3.32,3.45,3.60,3.74,3.89
-Russia,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",1.30,1.34,1.38,1.41,1.46,1.50,1.55,1.61,1.66,1.72,1.77,1.83,1.89
-Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,2.77,2.86,2.94,3.02,3.11,3.21,3.32,3.45,3.58,3.71,3.84,3.98,4.13
-Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,1.81,1.88,1.96,2.04,2.13,2.21,2.30,2.40,2.51,2.62,2.75,2.87,3.00
-Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,1.88,1.96,2.04,2.13,2.22,2.33,2.45,2.58,2.72,2.86,3.00,3.15,3.29
-Russia,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,1.06,1.09,1.12,1.15,1.18,1.21,1.25,1.29,1.33,1.37,1.41,1.45,1.49
-Russia,By Equipment Type,Sorting and Grading Equipment,Optical sorters,1.81,1.94,2.08,2.23,2.40,2.59,2.79,3.01,3.25,3.50,3.77,4.06,4.37
-Russia,By Equipment Type,Sorting and Grading Equipment,Size graders,1.43,1.48,1.52,1.57,1.62,1.68,1.75,1.82,1.90,1.98,2.05,2.13,2.20
-Russia,By Equipment Type,Sorting and Grading Equipment,Weight graders,1.24,1.29,1.35,1.41,1.47,1.53,1.59,1.66,1.73,1.82,1.90,1.99,2.09
-Russia,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,1.06,1.09,1.12,1.15,1.19,1.22,1.25,1.29,1.33,1.38,1.43,1.48,1.52
-Russia,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,2.19,2.29,2.40,2.52,2.66,2.80,2.95,3.11,3.27,3.44,3.63,3.83,4.04
-Russia,By Equipment Type,Thermal Processing Equipment,Roasting systems,1.48,1.57,1.66,1.75,1.86,1.97,2.10,2.24,2.38,2.53,2.69,2.86,3.04
-Russia,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,1.10,1.14,1.18,1.23,1.28,1.34,1.40,1.46,1.52,1.59,1.66,1.73,1.81
-Russia,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",1.84,1.92,2.00,2.10,2.19,2.29,2.39,2.49,2.61,2.74,2.87,3.00,3.14
-Russia,By Nut Type,Almond,Almond,0.30,0.31,0.33,0.35,0.37,0.39,0.41,0.43,0.46,0.49,0.51,0.54,0.57
-Russia,By Nut Type,Cashew,Cashew,0.41,0.44,0.47,0.50,0.54,0.57,0.62,0.66,0.71,0.76,0.82,0.87,0.94
-Russia,By Nut Type,Peanut,Peanut,23.16,24.00,24.88,25.82,26.82,27.89,29.06,30.33,31.67,33.08,34.53,36.01,37.52
-Russia,By Nut Type,Pistachio,Pistachio,0.55,0.58,0.62,0.66,0.70,0.75,0.80,0.86,0.91,0.97,1.04,1.11,1.19
-Russia,By Nut Type,Walnut,Walnut,1.05,1.09,1.14,1.19,1.24,1.30,1.36,1.42,1.49,1.56,1.64,1.72,1.79
-Russia,By Nut Type,Hazelnut,Hazelnut,0.67,0.70,0.73,0.77,0.80,0.84,0.89,0.94,0.99,1.04,1.10,1.15,1.21
-Russia,By Nut Type,Other Nuts,Other Nuts,2.41,2.54,2.68,2.84,3.01,3.20,3.40,3.61,3.82,4.06,4.32,4.59,4.87
-Russia,By Automation Level,Manual,Manual,3.86,4.13,4.39,4.66,4.96,5.29,5.66,6.07,6.51,6.98,7.48,8.02,8.59
-Russia,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,24.69,25.55,26.47,27.46,28.52,29.66,30.87,32.17,33.55,34.99,36.47,37.98,39.50
-Russia,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,9.96,10.32,10.69,11.08,11.51,11.98,12.49,13.03,13.59,14.18,14.80,15.45,16.12
-Russia,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,7.61,7.99,8.41,8.86,9.34,9.87,10.44,11.05,11.70,12.38,13.09,13.84,14.61
-Russia,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,5.14,5.35,5.57,5.81,6.08,6.38,6.70,7.05,7.43,7.82,8.21,8.61,9.01
-Russia,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,4.17,4.30,4.43,4.57,4.70,4.83,4.96,5.12,5.30,5.49,5.68,5.88,6.08
-Russia,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.68,1.72,1.76,1.81,1.85,1.90,1.94,1.99,2.04,2.10,2.16,2.22,2.27
+Spain,By End User,Primary Nut Processors,Primary Nut Processors,57.11,60.22,63.69,67.52,71.63,76.01,80.66,85.70,91.23,97.26,103.74,110.48,117.50
+Spain,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,26.72,28.61,30.53,32.52,34.69,37.11,39.87,42.92,46.17,49.62,53.32,57.34,61.64
+Spain,By End User,Ingredient Manufacturers,Ingredient Manufacturers,17.53,18.68,19.95,21.30,22.72,24.16,25.71,27.40,29.30,31.41,33.69,36.08,38.59
+Spain,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,11.53,12.15,12.82,13.54,14.28,15.05,15.86,16.73,17.69,18.71,19.79,20.90,22.06
+Spain,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",5.45,5.90,6.35,6.83,7.35,7.94,8.61,9.35,10.15,11.01,11.95,12.97,14.07
+Turkey,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,6.04,6.35,6.68,7.04,7.43,7.85,8.31,8.80,9.31,9.86,10.43,11.02,11.64
+Turkey,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,15.01,16.03,17.14,18.36,19.70,21.19,22.84,24.67,26.65,28.78,31.02,33.35,35.82
+Turkey,By Equipment Type,Storage Equipment,Silos,5.20,5.47,5.76,6.08,6.42,6.80,7.20,7.64,8.10,8.58,9.09,9.62,10.18
+Turkey,By Equipment Type,Storage Equipment,Storage bins and hoppers,3.17,3.35,3.56,3.78,4.01,4.27,4.56,4.86,5.19,5.53,5.90,6.28,6.68
+Turkey,By Equipment Type,Conveying and Handling Equipment,Nut conveyors,12.65,13.43,14.28,15.20,16.20,17.30,18.49,19.78,21.17,22.63,24.18,25.83,27.56
+Turkey,By Equipment Type,Conveying and Handling Equipment,"Elevating, transfer, distribution chutes",6.80,7.16,7.55,7.98,8.44,8.94,9.48,10.07,10.69,11.34,12.02,12.74,13.49
+Turkey,By Equipment Type,Shelling and Kernel Separation Equipment,Shellers,15.03,15.94,16.83,17.75,18.73,19.84,21.10,22.48,23.94,25.47,27.10,28.84,30.70
+Turkey,By Equipment Type,Shelling and Kernel Separation Equipment,Decorticators and hullers,9.85,10.52,11.26,12.04,12.85,13.70,14.63,15.65,16.80,18.05,19.40,20.84,22.35
+Turkey,By Equipment Type,Shelling and Kernel Separation Equipment,Kernel shell separation systems,10.60,11.32,12.11,12.97,13.92,14.97,16.15,17.44,18.85,20.35,21.94,23.60,25.34
+Turkey,By Equipment Type,Shelling and Kernel Separation Equipment,Re shelling and re processing units,6.97,7.32,7.70,8.12,8.56,9.05,9.58,10.14,10.74,11.36,12.02,12.70,13.42
+Turkey,By Equipment Type,Sorting and Grading Equipment,Optical sorters,14.47,15.90,17.48,19.25,21.23,23.44,25.92,28.67,31.73,35.09,38.77,42.83,47.27
+Turkey,By Equipment Type,Sorting and Grading Equipment,Size graders,7.79,8.23,8.70,9.22,9.79,10.42,11.12,11.88,12.70,13.57,14.47,15.40,16.36
+Turkey,By Equipment Type,Sorting and Grading Equipment,Weight graders,6.84,7.32,7.84,8.40,8.99,9.60,10.24,10.96,11.76,12.65,13.61,14.63,15.70
+Turkey,By Equipment Type,Sorting and Grading Equipment,Manual inspection tables,2.36,2.50,2.64,2.79,2.94,3.10,3.27,3.46,3.67,3.90,4.14,4.40,4.66
+Turkey,By Equipment Type,Thermal Processing Equipment,Pasteurization systems,14.81,15.92,17.12,18.46,19.93,21.55,23.31,25.18,27.19,29.39,31.80,34.43,37.24
+Turkey,By Equipment Type,Thermal Processing Equipment,Roasting systems,6.79,7.36,7.99,8.68,9.44,10.29,11.23,12.26,13.38,14.61,15.93,17.37,18.91
+Turkey,By Equipment Type,Thermal Processing Equipment,Cooling and tempering systems,4.53,4.83,5.14,5.49,5.87,6.29,6.74,7.22,7.72,8.26,8.86,9.50,10.18
+Turkey,By Equipment Type,"Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)","Others (Inspection and Quality Control Systems, Automation and Process Control Systems, etc.)",8.95,9.59,10.30,11.05,11.85,12.69,13.60,14.59,15.68,16.87,18.14,19.47,20.89
+Turkey,By Nut Type,Almond,Almond,10.39,11.11,11.88,12.74,13.68,14.71,15.82,17.00,18.25,19.62,21.12,22.74,24.46
+Turkey,By Nut Type,Cashew,Cashew,4.54,4.93,5.34,5.80,6.31,6.88,7.50,8.19,8.94,9.75,10.63,11.59,12.62
+Turkey,By Nut Type,Peanut,Peanut,9.41,9.94,10.47,11.00,11.57,12.22,12.95,13.76,14.60,15.49,16.42,17.43,18.49
+Turkey,By Nut Type,Pistachio,Pistachio,28.35,30.60,33.04,35.77,38.79,42.11,45.72,49.61,53.78,58.37,63.44,68.95,74.89
+Turkey,By Nut Type,Walnut,Walnut,20.78,22.00,23.32,24.75,26.31,28.00,29.85,31.83,33.95,36.20,38.56,41.06,43.68
+Turkey,By Nut Type,Hazelnut,Hazelnut,80.69,85.99,91.78,98.01,108.84,112.05,120.15,129.15,139.02,149.61,160.81,172.61,185.10
+Turkey,By Nut Type,Other Nuts,Other Nuts,3.69,3.96,4.26,4.58,4.95,5.34,5.77,6.23,6.72,7.25,7.84,8.48,9.16
+Turkey,By Automation Level,Manual,Manual,21.51,23.55,25.69,27.99,30.52,33.39,36.67,40.36,44.39,48.77,53.59,58.92,64.75
+Turkey,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,136.35,144.99,154.40,164.66,179.92,187.91,201.09,215.41,230.88,247.53,265.24,283.94,303.63
+Turkey,By End User,Primary Nut Processors,Primary Nut Processors,76.86,81.85,87.18,92.98,103.45,106.29,113.97,122.32,131.30,140.99,151.40,162.55,174.41
+Turkey,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,36.89,39.64,42.64,45.93,49.54,53.51,57.88,62.65,67.81,73.37,79.32,85.71,92.53
+Turkey,By End User,Ingredient Manufacturers,Ingredient Manufacturers,20.98,22.35,23.84,25.48,27.27,29.27,31.48,33.92,36.57,39.39,42.35,45.44,48.68
+Turkey,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,15.89,16.83,17.84,18.89,19.97,21.11,22.32,23.66,25.16,26.78,28.52,30.34,32.24
+Turkey,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",7.23,7.88,8.59,9.38,10.22,11.13,12.12,13.21,14.43,15.78,17.24,18.82,20.52
 Rest of Europe,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,4.42,4.49,4.57,4.66,4.76,4.87,4.99,5.10,5.21,5.33,5.46,5.59,5.72
 Rest of Europe,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,9.22,9.58,9.97,10.37,10.77,11.17,11.60,12.07,12.61,13.18,13.78,14.40,15.02
 Rest of Europe,By Equipment Type,Storage Equipment,Silos,3.14,3.19,3.24,3.30,3.36,3.44,3.52,3.62,3.72,3.81,3.91,4.00,4.08
@@ -474,11 +474,11 @@ Rest of Europe,By Nut Type,Hazelnut,Hazelnut,48.80,50.42,52.15,54.01,56.02,58.19
 Rest of Europe,By Nut Type,Other Nuts,Other Nuts,12.92,13.47,14.06,14.70,15.38,16.12,16.92,17.78,18.67,19.61,20.57,21.57,22.60
 Rest of Europe,By Automation Level,Manual,Manual,10.47,11.10,11.78,12.51,13.32,14.19,15.14,16.17,17.27,18.43,19.65,20.95,22.31
 Rest of Europe,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,89.21,92.07,95.10,98.26,101.47,104.74,108.18,111.93,116.04,120.50,125.24,130.09,134.99
-Rest of Europe,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,33.48,34.65,36.08,37.64,39.13,40.42,41.58,42.81,44.33,46.18,48.26,50.37,52.49
-Rest of Europe,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,25.97,27.21,28.41,29.60,30.89,32.34,33.99,35.80,37.69,39.63,41.68,43.85,46.13
-Rest of Europe,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,17.52,18.13,18.79,19.51,20.29,21.17,22.12,23.17,24.27,25.41,26.55,27.68,28.81
-Rest of Europe,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,15.42,15.79,16.10,16.39,16.71,17.09,17.55,18.07,18.58,19.09,19.62,20.17,20.73
-Rest of Europe,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",7.29,7.39,7.50,7.63,7.76,7.92,8.08,8.26,8.44,8.62,8.80,8.97,9.14
+Rest of Europe,By End User,Primary Nut Processors,Primary Nut Processors,52.84,54.63,56.72,58.97,61.19,63.24,65.22,67.33,69.82,72.70,75.88,79.12,82.39
+Rest of Europe,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,28.88,30.18,31.43,32.67,34.00,35.51,37.23,39.12,41.07,43.09,45.19,47.44,49.78
+Rest of Europe,By End User,Ingredient Manufacturers,Ingredient Manufacturers,16.40,16.94,17.53,18.18,18.88,19.66,20.51,21.45,22.44,23.45,24.47,25.47,26.47
+Rest of Europe,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,12.02,12.34,12.61,12.87,13.15,13.48,13.88,14.32,14.76,15.21,15.66,16.14,16.63
+Rest of Europe,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",4.32,4.55,4.79,5.06,5.34,5.65,5.99,6.35,6.74,7.14,7.56,8.01,8.47
 China,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,11.22,11.78,12.38,13.04,13.76,14.54,15.37,16.23,17.12,18.09,19.13,20.24,21.40
 China,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,28.68,30.68,32.86,35.24,37.84,40.70,43.84,47.24,50.91,54.85,59.04,63.52,68.27
 China,By Equipment Type,Storage Equipment,Silos,9.47,9.96,10.48,11.05,11.66,12.33,13.05,13.82,14.64,15.50,16.40,17.34,18.32
@@ -506,11 +506,11 @@ China,By Nut Type,Hazelnut,Hazelnut,3.51,3.76,4.03,4.33,4.65,5.02,5.42,5.87,6.35
 China,By Nut Type,Other Nuts,Other Nuts,7.53,8.13,8.79,9.52,10.32,11.23,12.24,13.36,14.60,15.93,17.36,18.88,20.50
 China,By Automation Level,Manual,Manual,22.84,25.08,27.58,30.35,33.35,36.62,40.22,44.22,48.70,53.69,59.16,65.10,71.59
 China,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,275.54,293.34,312.28,332.55,354.39,378.13,404.15,432.57,463.29,496.29,531.71,569.57,609.62
-China,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,101.34,107.71,114.24,121.24,128.97,137.65,147.36,157.86,168.86,180.57,193.14,206.76,221.30
-China,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,78.43,84.52,91.17,98.47,106.51,115.38,125.16,135.85,147.46,159.98,173.45,187.95,203.48
-China,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,56.54,60.71,65.27,70.12,75.18,80.58,86.40,92.90,100.20,108.14,116.79,126.02,135.79
-China,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,43.83,46.33,49.07,51.96,54.95,57.96,61.15,64.65,68.56,72.89,77.51,82.33,87.34
-China,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",18.24,19.14,20.11,21.12,22.13,23.18,24.29,25.53,26.92,28.40,29.98,31.62,33.30
+China,By End User,Primary Nut Processors,Primary Nut Processors,145.10,154.19,163.67,173.81,184.84,196.98,210.43,225.06,240.66,257.37,275.35,294.68,315.24
+China,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,71.50,76.78,82.53,88.82,95.74,103.34,111.70,120.82,130.69,141.29,152.64,164.83,177.82
+China,By End User,Ingredient Manufacturers,Ingredient Manufacturers,43.80,46.91,50.30,53.90,57.64,61.62,65.90,70.68,76.03,81.84,88.16,94.88,101.98
+China,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,25.56,27.05,28.69,30.41,32.20,34.01,35.92,38.02,40.37,42.97,45.76,48.66,51.68
+China,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",12.41,13.49,14.68,15.96,17.32,18.80,20.40,22.21,24.25,26.49,28.96,31.63,34.50
 India,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,9.77,10.42,11.13,11.88,12.68,13.51,14.40,15.38,16.44,17.59,18.82,20.11,21.46
 India,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,21.58,23.27,25.13,27.18,29.45,31.99,34.82,37.97,41.42,45.15,49.14,53.36,57.85
 India,By Equipment Type,Storage Equipment,Silos,6.41,6.81,7.25,7.72,8.24,8.81,9.42,10.09,10.81,11.57,12.37,13.23,14.13
@@ -538,11 +538,11 @@ India,By Nut Type,Hazelnut,Hazelnut,3.47,3.76,4.08,4.43,4.83,5.27,5.74,6.26,6.82
 India,By Nut Type,Other Nuts,Other Nuts,12.71,13.95,15.34,16.87,18.52,20.33,22.32,24.53,27.01,29.76,32.78,36.06,39.63
 India,By Automation Level,Manual,Manual,29.82,32.90,36.34,40.18,44.49,49.34,54.78,60.87,67.63,75.11,83.36,92.46,102.47
 India,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,206.84,222.01,238.40,256.20,275.59,296.86,320.29,346.01,373.96,404.21,436.79,471.67,508.86
-India,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,79.41,85.10,91.32,97.96,105.18,113.18,122.23,132.46,143.76,155.76,168.21,181.32,195.23
-India,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,64.83,70.60,76.90,83.97,91.86,100.61,110.21,120.63,131.92,144.44,158.35,173.62,190.23
-India,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,45.64,49.38,53.44,57.98,63.02,68.58,74.64,81.18,88.21,95.96,104.53,113.87,123.96
-India,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,32.89,35.12,37.53,40.08,42.73,45.53,48.54,51.89,55.64,59.70,64.11,68.77,73.68
-India,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",13.89,14.72,15.54,16.38,17.28,18.30,19.45,20.72,22.06,23.46,24.95,26.55,28.24
+India,By End User,Primary Nut Processors,Primary Nut Processors,112.98,121.12,129.98,139.52,149.92,161.42,174.28,188.64,204.41,221.30,239.14,258.10,278.29
+India,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,54.81,59.52,64.64,70.38,76.77,83.83,91.56,99.93,108.96,118.96,130.04,142.16,155.30
+India,By End User,Ingredient Manufacturers,Ingredient Manufacturers,33.27,35.93,38.81,42.02,45.58,49.50,53.77,58.36,63.29,68.71,74.70,81.22,88.24
+India,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,25.76,27.55,29.50,31.56,33.70,35.98,38.42,41.15,44.20,47.51,51.11,54.93,58.95
+India,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",9.84,10.80,11.81,12.90,14.11,15.48,17.04,18.80,20.73,22.84,25.16,27.73,30.56
 Japan,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,3.44,3.57,3.71,3.85,4.00,4.14,4.29,4.46,4.65,4.86,5.07,5.29,5.52
 Japan,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,8.49,8.96,9.46,10.00,10.60,11.24,11.94,12.69,13.48,14.33,15.21,16.14,17.11
 Japan,By Equipment Type,Storage Equipment,Silos,3.00,3.12,3.23,3.34,3.46,3.59,3.74,3.91,4.08,4.25,4.44,4.63,4.83
@@ -570,11 +570,11 @@ Japan,By Nut Type,Hazelnut,Hazelnut,1.90,2.01,2.12,2.24,2.38,2.52,2.68,2.84,3.01
 Japan,By Nut Type,Other Nuts,Other Nuts,22.65,24.16,25.68,27.24,28.94,30.85,33.01,35.40,37.93,40.61,43.47,46.57,49.87
 Japan,By Automation Level,Manual,Manual,4.28,4.63,5.00,5.42,5.89,6.40,6.96,7.56,8.20,8.92,9.70,10.56,11.48
 Japan,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,87.91,92.41,97.08,102.01,107.31,113.08,119.40,126.23,133.48,141.18,149.38,158.04,167.10
-Japan,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,32.37,33.99,35.69,37.45,39.30,41.29,43.46,45.86,48.45,51.22,54.17,57.27,60.51
-Japan,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,23.64,25.15,26.77,28.56,30.53,32.67,34.97,37.41,39.97,42.77,45.82,49.09,52.56
-Japan,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,16.11,17.02,18.00,19.06,20.21,21.46,22.83,24.29,25.85,27.50,29.24,31.06,32.97
-Japan,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,14.12,14.71,15.27,15.83,16.42,17.09,17.87,18.72,19.59,20.49,21.42,22.42,23.45
-Japan,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.96,6.16,6.35,6.54,6.74,6.96,7.23,7.52,7.82,8.12,8.43,8.76,9.10
+Japan,By End User,Primary Nut Processors,Primary Nut Processors,45.44,47.66,49.96,52.37,54.91,57.67,60.70,64.03,67.59,71.39,75.43,79.68,84.12
+Japan,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,21.99,23.32,24.72,26.29,28.00,29.86,31.85,33.94,36.14,38.53,41.14,43.92,46.85
+Japan,By End User,Ingredient Manufacturers,Ingredient Manufacturers,11.98,12.62,13.32,14.06,14.87,15.76,16.71,17.74,18.83,19.98,21.19,22.45,23.77
+Japan,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,9.29,9.69,10.07,10.45,10.86,11.31,11.84,12.42,13.02,13.63,14.27,14.95,15.65
+Japan,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",3.50,3.75,4.00,4.27,4.56,4.88,5.25,5.66,6.10,6.56,7.06,7.60,8.18
 South Korea,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.21,2.30,2.39,2.49,2.61,2.73,2.86,2.99,3.12,3.26,3.42,3.58,3.75
 South Korea,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,6.30,6.66,7.05,7.47,7.93,8.44,9.00,9.62,10.29,10.99,11.72,12.47,13.25
 South Korea,By Equipment Type,Storage Equipment,Silos,2.18,2.28,2.39,2.49,2.60,2.71,2.83,2.96,3.10,3.26,3.42,3.59,3.77
@@ -602,11 +602,11 @@ South Korea,By Nut Type,Hazelnut,Hazelnut,1.30,1.38,1.47,1.57,1.67,1.77,1.87,1.9
 South Korea,By Nut Type,Other Nuts,Other Nuts,15.86,16.96,18.14,19.46,20.90,22.48,24.19,26.00,27.92,30.02,32.33,34.81,37.46
 South Korea,By Automation Level,Manual,Manual,3.46,3.76,4.08,4.44,4.83,5.27,5.75,6.28,6.86,7.50,8.18,8.92,9.72
 South Korea,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,62.93,66.42,70.17,74.18,78.44,83.00,87.93,93.29,99.09,105.35,112.00,118.99,126.30
-South Korea,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,22.91,24.07,25.27,26.57,28.00,29.60,31.38,33.31,35.36,37.51,39.80,42.25,44.79
-South Korea,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,16.51,17.71,19.03,20.46,21.96,23.56,25.27,27.15,29.21,31.46,33.87,36.41,39.11
-South Korea,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,11.92,12.70,13.55,14.45,15.39,16.35,17.38,18.51,19.77,21.17,22.68,24.26,25.93
-South Korea,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,10.35,10.81,11.30,11.83,12.40,13.02,13.69,14.40,15.15,15.93,16.73,17.57,18.44
-South Korea,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",4.70,4.89,5.10,5.31,5.53,5.74,5.96,6.20,6.48,6.78,7.10,7.42,7.75
+South Korea,By End User,Primary Nut Processors,Primary Nut Processors,32.39,34.03,35.75,37.59,39.60,41.81,44.25,46.90,49.72,52.71,55.89,59.26,62.77
+South Korea,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,15.07,16.10,17.23,18.45,19.72,21.07,22.51,24.09,25.81,27.68,29.69,31.79,34.01
+South Korea,By End User,Ingredient Manufacturers,Ingredient Manufacturers,9.20,9.77,10.39,11.05,11.73,12.43,13.17,13.98,14.89,15.90,16.98,18.11,19.29
+South Korea,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,6.27,6.55,6.85,7.18,7.53,7.91,8.32,8.76,9.22,9.71,10.21,10.73,11.26
+South Korea,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",3.47,3.74,4.03,4.35,4.69,5.05,5.43,5.85,6.32,6.85,7.42,8.04,8.69
 ASEAN,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,7.07,7.45,7.85,8.29,8.77,9.30,9.88,10.52,11.21,11.93,12.68,13.44,14.23
 ASEAN,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,15.59,16.83,18.20,19.67,21.24,22.88,24.66,26.62,28.82,31.28,33.97,36.84,39.90
 ASEAN,By Equipment Type,Storage Equipment,Silos,4.86,5.15,5.44,5.73,6.05,6.41,6.81,7.26,7.73,8.22,8.75,9.31,9.91
@@ -634,11 +634,11 @@ ASEAN,By Nut Type,Hazelnut,Hazelnut,2.36,2.54,2.73,2.95,3.19,3.45,3.73,4.04,4.36
 ASEAN,By Nut Type,Other Nuts,Other Nuts,15.94,17.37,18.95,20.68,22.54,24.56,26.75,29.19,31.88,34.87,38.12,41.61,45.39
 ASEAN,By Automation Level,Manual,Manual,19.96,21.97,24.09,26.38,28.92,31.80,35.10,38.83,42.92,47.41,52.35,57.85,63.91
 ASEAN,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,150.92,161.35,172.87,185.39,198.78,213.02,228.36,245.13,263.61,283.90,305.72,328.75,353.12
-ASEAN,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,59.19,63.21,67.60,72.35,77.46,82.93,88.87,95.43,102.67,110.68,119.35,128.53,138.27
-ASEAN,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,46.90,50.80,55.08,59.81,65.02,70.80,77.19,84.22,91.88,100.21,109.20,118.94,129.43
-ASEAN,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,29.75,32.12,34.75,37.58,40.59,43.74,47.14,50.90,55.13,59.86,65.02,70.53,76.42
-ASEAN,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,23.32,24.80,26.42,28.16,29.97,31.87,33.90,36.11,38.51,41.12,43.89,46.78,49.83
-ASEAN,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",11.72,12.38,13.10,13.87,14.66,15.48,16.36,17.30,18.33,19.44,20.61,21.82,23.08
+ASEAN,By End User,Primary Nut Processors,Primary Nut Processors,85.11,90.91,97.24,104.10,111.46,119.33,127.88,137.29,147.67,159.10,171.46,184.56,198.47
+ASEAN,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,38.10,41.14,44.47,48.13,52.16,56.61,61.53,66.91,72.77,79.11,85.94,93.31,101.21
+ASEAN,By End User,Ingredient Manufacturers,Ingredient Manufacturers,22.80,24.56,26.51,28.61,30.83,33.14,35.64,38.40,41.50,44.96,48.72,52.73,57.01
+ASEAN,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,17.35,18.48,19.72,21.05,22.43,23.89,25.45,27.15,29.00,31.02,33.16,35.39,37.75
+ASEAN,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",7.52,8.23,9.02,9.89,10.83,11.85,12.96,14.20,15.58,17.12,18.80,20.61,22.58
 Australia,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.98,3.08,3.18,3.29,3.39,3.50,3.61,3.73,3.85,3.99,4.13,4.27,4.41
 Australia,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,7.57,7.96,8.38,8.83,9.28,9.76,10.26,10.81,11.39,12.03,12.69,13.37,14.08
 Australia,By Equipment Type,Storage Equipment,Silos,2.47,2.55,2.64,2.73,2.82,2.90,2.99,3.08,3.19,3.31,3.44,3.57,3.69
@@ -666,11 +666,11 @@ Australia,By Nut Type,Hazelnut,Hazelnut,1.21,1.26,1.31,1.35,1.41,1.46,1.53,1.60,
 Australia,By Nut Type,Other Nuts,Other Nuts,30.48,32.06,33.60,35.15,36.82,38.69,40.83,43.17,45.62,48.16,50.83,53.69,56.70
 Australia,By Automation Level,Manual,Manual,4.51,4.84,5.19,5.57,6.00,6.46,6.97,7.52,8.12,8.76,9.45,10.18,10.97
 Australia,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,73.77,76.95,80.33,83.93,87.69,91.67,95.95,100.57,105.52,110.80,116.35,122.05,127.93
-Australia,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,26.36,27.42,28.58,29.80,31.07,32.43,33.91,35.54,37.31,39.19,41.09,43.00,44.97
-Australia,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,20.72,21.88,23.10,24.46,25.94,27.55,29.26,31.05,32.92,34.95,37.16,39.50,41.97
-Australia,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,14.06,14.80,15.61,16.46,17.34,18.25,19.21,20.25,21.38,22.59,23.87,25.18,26.54
-Australia,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,11.38,11.77,12.19,12.61,13.02,13.44,13.88,14.38,14.94,15.53,16.16,16.80,17.44
-Australia,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",5.76,5.92,6.05,6.17,6.31,6.47,6.66,6.88,7.09,7.31,7.53,7.76,7.99
+Australia,By End User,Primary Nut Processors,Primary Nut Processors,37.54,39.04,40.65,42.35,44.11,45.99,48.03,50.28,52.72,55.30,57.96,60.65,63.42
+Australia,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,19.17,20.16,21.21,22.37,23.64,25.01,26.46,27.98,29.55,31.26,33.10,35.06,37.11
+Australia,By End User,Ingredient Manufacturers,Ingredient Manufacturers,10.86,11.40,11.98,12.61,13.24,13.90,14.59,15.33,16.14,17.01,17.92,18.85,19.82
+Australia,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,7.38,7.65,7.93,8.21,8.49,8.77,9.07,9.40,9.78,10.18,10.60,11.03,11.47
+Australia,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",3.33,3.54,3.75,3.97,4.20,4.47,4.77,5.10,5.45,5.82,6.21,6.63,7.08
 Rest of Asia Pacific,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.54,2.63,2.71,2.78,2.87,2.96,3.07,3.20,3.32,3.45,3.58,3.71,3.86
 Rest of Asia Pacific,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,5.82,6.11,6.41,6.74,7.10,7.50,7.94,8.42,8.93,9.47,10.02,10.58,11.16
 Rest of Asia Pacific,By Equipment Type,Storage Equipment,Silos,1.70,1.76,1.83,1.90,1.97,2.05,2.12,2.21,2.30,2.39,2.49,2.59,2.69
@@ -698,11 +698,11 @@ Rest of Asia Pacific,By Nut Type,Hazelnut,Hazelnut,1.08,1.14,1.21,1.28,1.36,1.44
 Rest of Asia Pacific,By Nut Type,Other Nuts,Other Nuts,6.44,6.87,7.34,7.85,8.38,8.94,9.54,10.19,10.90,11.68,12.50,13.37,14.28
 Rest of Asia Pacific,By Automation Level,Manual,Manual,6.67,7.19,7.75,8.35,8.98,9.65,10.38,11.20,12.11,13.11,14.21,15.37,16.62
 Rest of Asia Pacific,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,55.79,58.21,60.79,63.54,66.49,69.67,73.12,76.85,80.81,84.99,89.36,93.86,98.47
-Rest of Asia Pacific,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,21.78,22.69,23.68,24.73,25.83,27.05,28.39,29.88,31.49,33.17,34.92,36.68,38.48
-Rest of Asia Pacific,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,15.97,16.91,17.93,19.04,20.24,21.55,22.98,24.52,26.16,27.90,29.73,31.67,33.70
-Rest of Asia Pacific,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,10.76,11.36,12.02,12.71,13.42,14.14,14.90,15.73,16.66,17.68,18.78,19.92,21.11
-Rest of Asia Pacific,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,9.67,10.01,10.37,10.77,11.21,11.68,12.17,12.67,13.18,13.72,14.31,14.93,15.56
-Rest of Asia Pacific,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",4.29,4.42,4.54,4.65,4.77,4.91,5.08,5.26,5.44,5.63,5.82,6.03,6.23
+Rest of Asia Pacific,By End User,Primary Nut Processors,Primary Nut Processors,30.76,32.05,33.43,34.90,36.46,38.17,40.02,42.07,44.28,46.60,49.04,51.52,54.07
+Rest of Asia Pacific,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,14.56,15.36,16.23,17.17,18.19,19.30,20.51,21.80,23.18,24.64,26.16,27.77,29.45
+Rest of Asia Pacific,By End User,Ingredient Manufacturers,Ingredient Manufacturers,8.30,8.74,9.22,9.72,10.24,10.76,11.31,11.91,12.58,13.32,14.11,14.93,15.77
+Rest of Asia Pacific,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,6.61,6.85,7.11,7.39,7.70,8.03,8.38,8.74,9.10,9.49,9.91,10.35,10.80
+Rest of Asia Pacific,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",2.24,2.39,2.55,2.71,2.88,3.07,3.29,3.53,3.79,4.06,4.35,4.67,5.00
 Brazil,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,2.67,2.78,2.89,3.00,3.11,3.24,3.39,3.55,3.72,3.90,4.08,4.27,4.47
 Brazil,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,5.77,6.14,6.55,6.99,7.45,7.93,8.44,9.00,9.61,10.27,10.97,11.70,12.48
 Brazil,By Equipment Type,Storage Equipment,Silos,1.86,1.94,2.02,2.09,2.18,2.27,2.38,2.50,2.62,2.75,2.88,3.02,3.16
@@ -730,11 +730,11 @@ Brazil,By Nut Type,Hazelnut,Hazelnut,1.05,1.12,1.19,1.27,1.35,1.44,1.54,1.65,1.7
 Brazil,By Nut Type,Other Nuts,Other Nuts,3.41,3.67,3.95,4.25,4.57,4.91,5.26,5.66,6.10,6.60,7.13,7.71,8.31
 Brazil,By Automation Level,Manual,Manual,6.07,6.59,7.17,7.80,8.47,9.18,9.95,10.81,11.77,12.85,14.04,15.31,16.68
 Brazil,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,53.86,56.72,59.78,63.05,66.51,70.21,74.22,78.58,83.29,88.32,93.64,99.18,104.94
-Brazil,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,19.97,21.09,22.36,23.73,25.11,26.49,27.89,29.43,31.18,33.16,35.30,37.50,39.77
-Brazil,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,15.33,16.40,17.48,18.60,19.82,21.18,22.73,24.44,26.27,28.20,30.27,32.52,34.92
-Brazil,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,11.42,12.11,12.86,13.66,14.54,15.50,16.54,17.67,18.87,20.14,21.49,22.91,24.41
-Brazil,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,9.44,9.82,10.23,10.67,11.15,11.68,12.27,12.91,13.59,14.29,15.00,15.71,16.43
-Brazil,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",3.76,3.89,4.04,4.19,4.36,4.54,4.74,4.94,5.16,5.38,5.61,5.85,6.09
+Brazil,By End User,Primary Nut Processors,Primary Nut Processors,29.15,30.70,32.43,34.31,36.24,38.22,40.28,42.53,45.06,47.84,50.82,53.89,57.08
+Brazil,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,14.08,15.01,15.94,16.90,17.95,19.11,20.43,21.90,23.44,25.08,26.83,28.72,30.73
+Brazil,By End User,Ingredient Manufacturers,Ingredient Manufacturers,8.33,8.81,9.32,9.88,10.49,11.15,11.87,12.64,13.47,14.34,15.26,16.22,17.24
+Brazil,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,5.80,6.04,6.30,6.58,6.88,7.22,7.59,8.00,8.43,8.87,9.33,9.78,10.24
+Brazil,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",2.56,2.75,2.95,3.18,3.42,3.69,3.99,4.32,4.67,5.04,5.45,5.88,6.34
 Argentina,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.19,1.23,1.28,1.33,1.38,1.43,1.48,1.54,1.60,1.67,1.74,1.82,1.89
 Argentina,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,3.35,3.55,3.73,3.93,4.13,4.37,4.63,4.92,5.22,5.54,5.88,6.24,6.62
 Argentina,By Equipment Type,Storage Equipment,Silos,1.20,1.24,1.30,1.35,1.41,1.46,1.52,1.59,1.66,1.73,1.81,1.89,1.97
@@ -762,11 +762,11 @@ Argentina,By Nut Type,Hazelnut,Hazelnut,0.52,0.55,0.58,0.62,0.66,0.69,0.73,0.78,
 Argentina,By Nut Type,Other Nuts,Other Nuts,1.70,1.82,1.95,2.09,2.23,2.38,2.54,2.72,2.92,3.14,3.38,3.63,3.90
 Argentina,By Automation Level,Manual,Manual,3.79,4.10,4.43,4.78,5.16,5.56,5.99,6.48,7.02,7.62,8.27,8.97,9.72
 Argentina,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,31.92,33.46,35.08,36.77,38.54,40.43,42.48,44.72,47.13,49.69,52.38,55.20,58.11
-Argentina,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,11.82,12.39,13.01,13.66,14.33,15.01,15.72,16.52,17.42,18.39,19.45,20.54,21.65
-Argentina,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,9.31,9.90,10.50,11.11,11.77,12.51,13.35,14.28,15.26,16.29,17.40,18.59,19.85
-Argentina,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,7.07,7.46,7.87,8.32,8.81,9.33,9.91,10.52,11.18,11.87,12.59,13.35,14.14
-Argentina,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,5.35,5.57,5.82,6.07,6.33,6.59,6.87,7.16,7.48,7.83,8.18,8.54,8.91
-Argentina,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",2.16,2.23,2.31,2.39,2.46,2.54,2.62,2.71,2.81,2.92,3.04,3.16,3.27
+Argentina,By End User,Primary Nut Processors,Primary Nut Processors,17.06,17.87,18.75,19.67,20.62,21.60,22.65,23.80,25.08,26.46,27.94,29.47,31.05
+Argentina,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,8.83,9.36,9.88,10.42,11.00,11.65,12.40,13.21,14.07,14.97,15.92,16.95,18.04
+Argentina,By End User,Ingredient Manufacturers,Ingredient Manufacturers,5.23,5.50,5.79,6.10,6.44,6.81,7.21,7.64,8.09,8.57,9.07,9.59,10.13
+Argentina,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,3.30,3.44,3.60,3.76,3.92,4.09,4.27,4.46,4.67,4.89,5.12,5.35,5.59
+Argentina,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.30,1.39,1.49,1.60,1.71,1.82,1.95,2.09,2.25,2.42,2.61,2.81,3.02
 Mexico,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,0.97,1.00,1.03,1.06,1.10,1.14,1.18,1.22,1.26,1.30,1.35,1.40,1.45
 Mexico,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,2.51,2.63,2.76,2.90,3.05,3.21,3.39,3.58,3.78,3.99,4.21,4.44,4.68
 Mexico,By Equipment Type,Storage Equipment,Silos,0.89,0.92,0.95,0.98,1.01,1.05,1.09,1.13,1.17,1.21,1.26,1.30,1.35
@@ -794,11 +794,11 @@ Mexico,By Nut Type,Hazelnut,Hazelnut,0.30,0.32,0.33,0.35,0.37,0.39,0.42,0.44,0.4
 Mexico,By Nut Type,Other Nuts,Other Nuts,2.31,2.45,2.60,2.76,2.94,3.13,3.34,3.56,3.79,4.04,4.32,4.61,4.92
 Mexico,By Automation Level,Manual,Manual,2.68,2.88,3.10,3.33,3.58,3.84,4.11,4.42,4.76,5.14,5.56,6.00,6.46
 Mexico,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,25.29,26.34,27.44,28.62,29.87,31.21,32.65,34.20,35.83,37.56,39.36,41.23,43.15
-Mexico,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,9.73,10.10,10.48,10.89,11.35,11.87,12.45,13.06,13.68,14.34,15.01,15.71,16.44
-Mexico,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,7.37,7.81,8.29,8.80,9.33,9.88,10.47,11.12,11.81,12.57,13.37,14.19,15.06
-Mexico,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,4.99,5.24,5.52,5.80,6.09,6.39,6.71,7.07,7.46,7.89,8.34,8.82,9.30
-Mexico,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,3.94,4.07,4.20,4.34,4.50,4.67,4.85,5.03,5.21,5.41,5.62,5.84,6.06
-Mexico,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.95,2.00,2.06,2.11,2.17,2.22,2.28,2.35,2.42,2.50,2.58,2.67,2.75
+Mexico,By End User,Primary Nut Processors,Primary Nut Processors,13.05,13.55,14.06,14.61,15.23,15.90,16.64,17.43,18.25,19.11,20.01,20.94,21.90
+Mexico,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,6.74,7.12,7.53,7.96,8.41,8.88,9.37,9.91,10.49,11.12,11.78,12.46,13.17
+Mexico,By End User,Ingredient Manufacturers,Ingredient Manufacturers,3.93,4.12,4.32,4.53,4.75,4.97,5.20,5.46,5.75,6.06,6.39,6.73,7.08
+Mexico,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,2.86,2.96,3.06,3.17,3.28,3.41,3.55,3.68,3.82,3.97,4.13,4.29,4.46
+Mexico,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.39,1.48,1.57,1.67,1.78,1.89,2.01,2.14,2.29,2.45,2.62,2.81,3.00
 Rest of Latin America,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,0.76,0.78,0.80,0.82,0.84,0.86,0.88,0.90,0.93,0.96,0.99,1.02,1.05
 Rest of Latin America,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,2.27,2.37,2.49,2.60,2.72,2.84,2.97,3.10,3.26,3.43,3.60,3.79,3.98
 Rest of Latin America,By Equipment Type,Storage Equipment,Silos,0.74,0.75,0.77,0.79,0.82,0.84,0.87,0.89,0.92,0.95,0.98,1.01,1.04
@@ -826,11 +826,11 @@ Rest of Latin America,By Nut Type,Hazelnut,Hazelnut,0.31,0.33,0.34,0.35,0.37,0.3
 Rest of Latin America,By Nut Type,Other Nuts,Other Nuts,2.25,2.36,2.48,2.62,2.76,2.92,3.10,3.29,3.49,3.71,3.93,4.16,4.39
 Rest of Latin America,By Automation Level,Manual,Manual,2.62,2.80,3.00,3.21,3.43,3.67,3.92,4.20,4.50,4.83,5.17,5.54,5.93
 Rest of Latin America,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,21.12,21.85,22.61,23.41,24.26,25.17,26.16,27.24,28.37,29.56,30.78,32.05,33.33
-Rest of Latin America,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,8.14,8.43,8.75,9.08,9.41,9.75,10.12,10.53,11.00,11.49,11.99,12.49,12.99
-Rest of Latin America,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,6.11,6.42,6.74,7.09,7.48,7.90,8.35,8.81,9.29,9.81,10.38,10.97,11.59
-Rest of Latin America,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,4.39,4.57,4.77,4.99,5.22,5.47,5.74,6.03,6.33,6.65,6.97,7.31,7.65
-Rest of Latin America,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,3.54,3.63,3.72,3.80,3.89,4.00,4.12,4.26,4.40,4.54,4.68,4.83,4.99
-Rest of Latin America,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.57,1.60,1.63,1.65,1.68,1.71,1.75,1.80,1.85,1.89,1.94,1.99,2.04
+Rest of Latin America,By End User,Primary Nut Processors,Primary Nut Processors,11.91,12.31,12.75,13.21,13.67,14.16,14.70,15.29,15.95,16.64,17.34,18.05,18.77
+Rest of Latin America,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,5.56,5.82,6.09,6.39,6.71,7.06,7.43,7.82,8.21,8.64,9.10,9.59,10.09
+Rest of Latin America,By End User,Ingredient Manufacturers,Ingredient Manufacturers,3.06,3.18,3.31,3.45,3.60,3.76,3.93,4.12,4.32,4.52,4.73,4.94,5.16
+Rest of Latin America,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,2.11,2.17,2.23,2.28,2.34,2.40,2.48,2.57,2.65,2.74,2.83,2.93,3.02
+Rest of Latin America,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.11,1.17,1.24,1.30,1.37,1.45,1.54,1.63,1.74,1.84,1.96,2.08,2.21
 GCC,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.84,1.89,1.95,2.01,2.08,2.15,2.23,2.32,2.41,2.49,2.59,2.68,2.77
 GCC,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,4.80,5.05,5.30,5.55,5.81,6.11,6.45,6.82,7.21,7.62,8.04,8.50,8.98
 GCC,By Equipment Type,Storage Equipment,Silos,1.52,1.57,1.61,1.66,1.71,1.77,1.83,1.90,1.98,2.05,2.13,2.21,2.29
@@ -858,11 +858,11 @@ GCC,By Nut Type,Hazelnut,Hazelnut,0.68,0.71,0.73,0.76,0.79,0.82,0.85,0.89,0.93,0
 GCC,By Nut Type,Other Nuts,Other Nuts,4.41,4.63,4.87,5.12,5.37,5.63,5.89,6.18,6.51,6.87,7.26,7.65,8.06
 GCC,By Automation Level,Manual,Manual,3.23,3.47,3.73,4.02,4.33,4.68,5.06,5.48,5.93,6.41,6.93,7.49,8.09
 GCC,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,47.42,49.56,51.83,54.21,56.70,59.38,62.28,65.45,68.87,72.50,76.31,80.27,84.36
-GCC,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,17.06,17.90,18.76,19.62,20.46,21.32,22.26,23.30,24.47,25.72,27.10,28.58,30.14
-GCC,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,13.51,14.25,15.05,15.93,16.88,17.94,19.11,20.39,21.76,23.21,24.71,26.25,27.85
-GCC,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,9.33,9.77,10.25,10.77,11.34,11.98,12.67,13.43,14.24,15.09,15.96,16.84,17.75
-GCC,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,7.49,7.75,8.02,8.32,8.65,9.00,9.37,9.74,10.12,10.53,10.97,11.43,11.90
-GCC,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",3.26,3.36,3.47,3.59,3.70,3.82,3.94,4.06,4.20,4.35,4.50,4.66,4.81
+GCC,By End User,Primary Nut Processors,Primary Nut Processors,23.26,24.35,25.47,26.61,27.76,28.96,30.25,31.69,33.27,34.97,36.80,38.75,40.79
+GCC,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,12.35,12.98,13.66,14.40,15.22,16.11,17.10,18.19,19.35,20.56,21.82,23.10,24.42
+GCC,By End User,Ingredient Manufacturers,Ingredient Manufacturers,7.44,7.77,8.14,8.53,8.96,9.44,9.96,10.53,11.14,11.77,12.42,13.07,13.74
+GCC,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,5.71,5.92,6.13,6.37,6.63,6.91,7.20,7.50,7.80,8.13,8.48,8.85,9.22
+GCC,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.89,2.02,2.16,2.31,2.47,2.64,2.82,3.02,3.24,3.48,3.73,3.99,4.28
 South Africa,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,1.19,1.22,1.26,1.30,1.33,1.37,1.40,1.44,1.48,1.53,1.58,1.63,1.69
 South Africa,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,3.26,3.41,3.56,3.72,3.90,4.09,4.30,4.52,4.76,5.00,5.25,5.51,5.78
 South Africa,By Equipment Type,Storage Equipment,Silos,1.15,1.19,1.22,1.26,1.30,1.33,1.37,1.41,1.45,1.50,1.56,1.61,1.66
@@ -890,11 +890,11 @@ South Africa,By Nut Type,Hazelnut,Hazelnut,0.64,0.66,0.69,0.72,0.75,0.78,0.81,0.
 South Africa,By Nut Type,Other Nuts,Other Nuts,9.55,9.99,10.47,10.98,11.54,12.14,12.80,13.49,14.23,15.00,15.79,16.62,17.48
 South Africa,By Automation Level,Manual,Manual,4.28,4.56,4.86,5.20,5.56,5.96,6.40,6.87,7.38,7.92,8.49,9.10,9.75
 South Africa,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,30.94,32.11,33.33,34.62,35.95,37.34,38.83,40.45,42.20,44.06,46.02,48.03,50.07
-South Africa,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,11.97,12.37,12.76,13.17,13.64,14.18,14.80,15.47,16.16,16.86,17.59,18.38,19.18
-South Africa,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,8.99,9.49,10.03,10.60,11.19,11.78,12.40,13.09,13.85,14.70,15.60,16.53,17.51
-South Africa,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,6.95,7.29,7.66,8.05,8.45,8.86,9.30,9.77,10.28,10.82,11.39,11.97,12.58
-South Africa,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,4.86,5.01,5.18,5.36,5.53,5.71,5.89,6.08,6.30,6.52,6.76,6.99,7.22
-South Africa,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",2.44,2.51,2.57,2.64,2.71,2.77,2.84,2.92,3.00,3.08,3.17,3.26,3.34
+South Africa,By End User,Primary Nut Processors,Primary Nut Processors,16.89,17.47,18.06,18.69,19.37,20.13,20.98,21.90,22.86,23.86,24.90,26.00,27.12
+South Africa,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,8.81,9.26,9.75,10.27,10.80,11.33,11.89,12.50,13.19,13.94,14.75,15.58,16.44
+South Africa,By End User,Ingredient Manufacturers,Ingredient Manufacturers,4.84,5.07,5.31,5.57,5.83,6.10,6.38,6.69,7.02,7.37,7.74,8.11,8.50
+South Africa,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,3.50,3.61,3.74,3.87,4.00,4.13,4.27,4.42,4.58,4.75,4.93,5.10,5.28
+South Africa,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.18,1.25,1.33,1.42,1.51,1.60,1.70,1.81,1.93,2.06,2.19,2.34,2.48
 Rest of Middle East & Africa,By Equipment Type,Receiving and Feeding Equipment,Receiving and Feeding Equipment,0.72,0.74,0.77,0.80,0.84,0.87,0.91,0.95,0.99,1.03,1.08,1.13,1.17
 Rest of Middle East & Africa,By Equipment Type,Cleaning and Drying Equipment,Cleaning and Drying Equipment,1.98,2.10,2.22,2.33,2.46,2.61,2.77,2.95,3.14,3.34,3.55,3.77,4.01
 Rest of Middle East & Africa,By Equipment Type,Storage Equipment,Silos,0.63,0.65,0.68,0.70,0.73,0.76,0.79,0.83,0.86,0.90,0.94,0.98,1.03
@@ -922,11 +922,11 @@ Rest of Middle East & Africa,By Nut Type,Hazelnut,Hazelnut,0.46,0.48,0.51,0.53,0
 Rest of Middle East & Africa,By Nut Type,Other Nuts,Other Nuts,5.19,5.52,5.88,6.26,6.67,7.09,7.54,8.03,8.57,9.15,9.77,10.41,11.09
 Rest of Middle East & Africa,By Automation Level,Manual,Manual,2.34,2.54,2.75,2.99,3.24,3.51,3.80,4.12,4.48,4.87,5.29,5.74,6.23
 Rest of Middle East & Africa,By Automation Level,Semi Automatic & Fully Automatic,Semi Automatic & Fully Automatic,19.37,20.34,21.35,22.41,23.53,24.72,26.03,27.46,29.00,30.64,32.37,34.19,36.07
-Rest of Middle East & Africa,By Industry Verticle,Primary Processing & Shelling,Primary Processing & Shelling,7.45,7.81,8.20,8.62,9.06,9.52,10.02,10.56,11.16,11.82,12.51,13.23,13.98
-Rest of Middle East & Africa,By Industry Verticle,Value Added Nut Products,Value Added Nut Products,5.50,5.87,6.29,6.73,7.20,7.69,8.22,8.79,9.42,10.11,10.84,11.60,12.41
-Rest of Middle East & Africa,By Industry Verticle,Nut Ingredients & Intermediates,Nut Ingredients & Intermediates,3.85,4.08,4.31,4.54,4.79,5.07,5.39,5.74,6.11,6.50,6.91,7.35,7.82
-Rest of Middle East & Africa,By Industry Verticle,Downstream Food with Captive Nut Prep,Downstream Food with Captive Nut Prep,3.54,3.69,3.83,3.98,4.13,4.30,4.50,4.71,4.94,5.16,5.40,5.66,5.92
-Rest of Middle East & Africa,By Industry Verticle,"Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)","Others (Confectionery And Bakery Plants With In-House Nut Prep, etc.)",1.37,1.42,1.48,1.53,1.59,1.65,1.71,1.78,1.85,1.93,2.01,2.09,2.17
+Rest of Middle East & Africa,By End User,Primary Nut Processors,Primary Nut Processors,10.18,10.66,11.17,11.71,12.29,12.89,13.56,14.28,15.08,15.93,16.84,17.79,18.77
+Rest of Middle East & Africa,By End User,Value Added Snack Manufacturers,Value Added Snack Manufacturers,5.25,5.59,5.96,6.35,6.76,7.20,7.66,8.16,8.71,9.30,9.93,10.59,11.28
+Rest of Middle East & Africa,By End User,Ingredient Manufacturers,Ingredient Manufacturers,3.19,3.37,3.55,3.73,3.92,4.13,4.38,4.65,4.93,5.23,5.54,5.88,6.23
+Rest of Middle East & Africa,By End User,Bakery and Confectionery Companies,Bakery and Confectionery Companies,1.96,2.04,2.12,2.20,2.29,2.39,2.50,2.62,2.74,2.87,3.01,3.15,3.30
+Rest of Middle East & Africa,By End User,"Others (Dairy Alternative and Plant Based Food Producers, etc.)","Others (Dairy Alternative and Plant Based Food Producers, etc.)",1.13,1.22,1.31,1.41,1.51,1.62,1.74,1.88,2.02,2.18,2.35,2.53,2.72
 Global,By Region,North America,North America,686.95,726.26,768.28,813.40,861.79,914.38,971.76,"1,034.41","1,101.97","1,174.38","1,251.46","1,332.64","1,417.89"
 Global,By Region,Europe,Europe,644.68,679.26,716.07,755.30,797.14,842.29,891.52,945.30,"1,003.43","1,065.79","1,132.24","1,202.33","1,275.83"
 Global,By Region,Asia Pacific,Asia Pacific,"1,005.25","1,071.05","1,141.95","1,218.50","1,301.14","1,390.96","1,489.35","1,597.13","1,714.32","1,841.22","1,977.72","2,123.40","2,278.17"
@@ -939,7 +939,7 @@ Europe,By Country,U.K.,U.K.,119.26,126.47,134.08,142.10,150.66,159.97,170.24,181
 Europe,By Country,France,France,100.30,105.96,111.98,118.38,125.15,132.46,140.41,149.10,158.48,168.51,179.17,190.42,202.22
 Europe,By Country,Italy,Italy,74.25,78.04,82.07,86.35,90.87,95.70,100.93,106.60,112.72,119.28,126.24,133.53,141.12
 Europe,By Country,Spain,Spain,57.24,59.81,62.55,65.47,68.55,71.82,75.34,79.16,83.29,87.72,92.41,97.27,102.29
-Europe,By Country,Russia,Russia,28.55,29.67,30.86,32.12,33.48,34.94,36.53,38.25,40.06,41.97,43.95,46.00,48.09
+Europe,By Country,Turkey,Turkey,157.86,168.54,180.09,192.65,210.45,221.30,237.76,255.77,275.27,296.30,318.83,342.85,368.38
 Europe,By Country,Rest of Europe,Rest of Europe,99.68,103.17,106.88,110.77,114.79,118.93,123.33,128.10,133.31,138.93,144.90,151.04,157.30
 Asia Pacific,By Country,China,China,298.37,318.42,339.87,362.90,387.74,414.74,444.37,476.79,511.99,549.97,590.87,634.68,681.21
 Asia Pacific,By Country,India,India,236.66,254.92,274.74,296.38,320.08,346.20,375.07,406.87,441.59,479.32,520.15,564.14,611.34
