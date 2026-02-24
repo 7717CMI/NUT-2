@@ -100,19 +100,21 @@ export function GlobalKPICards() {
       return null
     }
 
-    // Calculate total market size for 2025 and 2033
+    // Calculate total market size for 2025, 2026 and 2033
     let marketSize2025 = 0
+    let marketSize2026 = 0
     let marketSize2033 = 0
 
     globalRecords.forEach(record => {
       marketSize2025 += record.time_series[2025] || 0
+      marketSize2026 += record.time_series[2026] || 0
       marketSize2033 += record.time_series[2033] || 0
     })
 
-    // Calculate CAGR from 2025 to 2033
-    const years = 2033 - 2025
-    const cagr = marketSize2025 > 0
-      ? (Math.pow(marketSize2033 / marketSize2025, 1 / years) - 1) * 100
+    // Calculate CAGR from 2026 to 2033
+    const years = 2033 - 2026
+    const cagr = marketSize2026 > 0
+      ? (Math.pow(marketSize2033 / marketSize2026, 1 / years) - 1) * 100
       : 0
 
     // Calculate absolute growth
