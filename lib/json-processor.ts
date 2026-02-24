@@ -1440,7 +1440,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Nut Processing and Equipment Market',
+      market_name: 'Nut Processing Equipment Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,
